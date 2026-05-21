@@ -1,0 +1,3843 @@
+RID: VGFPE89E014	
+Job Title:tr|Q18F64|Q18F64_HALWD Uncharacterized				
+Program: BLASTP 
+Database: ClusteredNR clustered nr
+Query #1: tr|Q18F64|Q18F64_HALWD Uncharacterized protein OS=Haloquadratum walsbyi (strain DSM 16790 / HBSQ001) OX=362976 GN=HQ_3298A PE=4 SV=1 Query ID: lcl|Query_6952133 Length: 436
+
+Clusters producing significant alignments:
+                                                                  #          #          Scientific      Cluster                    Max    Total Query   E    Per.   Acc.                        
+Cluster Rep.                                                      Mem.       Taxa       Name            Ancestor        Taxid      Score  Score cover Value  Ident  Len        Accession        
+DUF6414 family protein [Haloquadratum walsbyi]                    1          1          Haloquadratu... euryarchaeotes  293091     883    883   100%  0.0    100.00 436        WP_011572499.1   
+DUF6414 family protein [Halosimplex salinum]                      1          1          Halosimplex ... euryarchaeotes  1710538    640    640   97%   0.0    78.35  425        WP_206425055.1   
+DUF6414 family protein [Halomarina halobia]                       2          1          Halomarina h... euryarchaeotes  3033386    625    625   98%   0.0    72.73  428        WP_438268330.1   
+DUF6414 family protein [Halobaculum saliterrae]                   1          1          Halobaculum ... euryarchaeotes  2073113    620    620   100%  0.0    76.20  437        WP_159662797.1   
+DUF6414 family protein [Halorussus aquaticus]                     1          1          Halorussus a... euryarchaeotes  2953748    610    610   100%  0.0    72.25  432        WP_254270779.1   
+MULTISPECIES: DUF6414 family protein [Haloferax]                  1          1          Haloferax       euryarchaeotes  2251       593    593   100%  0.0    73.74  434        WP_151161052.1   
+hypothetical protein Halar_0531 [halophilic archaeon DL31]        1          1          halophilic a... euryarchaeotes  756883     458    458   99%   4e-156 57.04  429        AEN07769.1       
+DUF6414 family protein [Natrinema sp. DC36]                       2          2          Halobacteriales euryarchaeotes  2235       452    452   73%   2e-155 70.19  321        WP_226042810.1   
+DUF6414 family protein [Haloarchaeobius sp. HME9146]              1          1          Haloarchaeob... euryarchaeotes  2978732    252    252   94%   2e-75  37.71  431        WP_261651569.1   
+DUF6414 family protein [Haloferax elongans]                       1          1          Haloferax el... euryarchaeotes  403191     176    176   94%   1e-46  32.78  416        WP_008322130.1   
+DUF6414 family protein [Halorubrum ezzemoulense]                  1          1          Halorubrum e... euryarchaeotes  337243     173    173   94%   2e-45  32.00  416        WP_271955752.1   
+DUF6414 family protein [Halorientalis persicus]                   1          1          Halorientali... euryarchaeotes  1367881    172    172   94%   4e-45  32.85  417        WP_139203645.1   
+DUF6414 family protein [Halorussus aquaticus]                     1          1          Halorussus a... euryarchaeotes  2953748    166    166   95%   7e-43  32.30  418        WP_254270614.1   
+DUF6414 family protein [Halolamina salina]                        1          1          Halolamina s... euryarchaeotes  1220023    164    164   94%   5e-42  33.41  416        WP_459076958.1   
+DUF6414 family protein [Halococcus dombrowskii]                   1          1          Halococcus d... euryarchaeotes  179637     162    162   67%   3e-41  37.07  412        WP_244705636.1   
+DUF6414 family protein [Halobacterium sp. NMX12-1]                1          1          Halobacteriu... euryarchaeotes  3166650    144    144   94%   2e-34  31.12  410        WP_353634405.1   
+DUF6414 family protein [Natronocalculus amylovorans]              1          1          Natronocalcu... euryarchaeotes  2917812    143    143   94%   3e-34  31.67  410        WP_250585966.1   
+DUF6414 family protein [Halalkaliarchaeum sp. AArc-GB]            1          1          Halalkaliarc... euryarchaeotes  3074078    137    137   88%   1e-32  29.87  361        WP_310561852.1   
+DUF6414 family protein [Natronococcus jeotgali]                   1          1          Natronococcu... euryarchaeotes  413812     132    132   61%   2e-30  34.04  412        WP_152424788.1   
+hypothetical protein [Halolamina salina]                          1          1          Halolamina s... euryarchaeotes  1220023    129    129   84%   1e-29  31.20  361        MFC6734694.1     
+DUF6414 family protein [Halobacterium sp. GN101]                  6          6          Halobacteriales euryarchaeotes  2235       130    130   65%   3e-29  34.49  435        WP_176705296.1   
+DUF6414 family protein [Halobacterium salinarum]                  1          1          Halobacteriu... euryarchaeotes  2242       127    127   65%   9e-29  33.80  400        WP_148265524.1   
+DUF6414 family protein [Halobacterium salinarum]                  1          1          Halobacteriu... euryarchaeotes  2242       126    126   65%   1e-28  34.15  318        WP_136361237.1   
+DUF6414 family protein [Halocalculus aciditolerans]               1          1          Halocalculus... euryarchaeotes  1383812    123    123   66%   5e-27  32.76  435        WP_188979693.1   
+DUF6414 family protein [Salinigranum rubrum]                      2          2          Halobacteriales euryarchaeotes  2235       123    123   94%   6e-27  29.37  416        WP_162562620.1   
+DUF6414 family protein [Haladaptatus cibarius]                    1          1          Haladaptatus... euryarchaeotes  453847     122    122   63%   1e-26  33.94  435        WP_049972505.1   
+DUF6414 family protein [Halovenus carboxidivorans]                1          1          Halovenus ca... euryarchaeotes  2692199    119    119   94%   1e-25  28.33  411        WP_159764184.1   
+DUF6414 family protein [Halorhabdus rudnickae]                    1          1          Halorhabdus ... euryarchaeotes  1775544    119    119   67%   1e-25  31.13  435        WP_135662485.1   
+DUF6414 family protein [Haladaptatus pallidirubidus]              1          1          Haladaptatus... euryarchaeotes  1008152    118    118   61%   4e-25  32.46  435        WP_227777228.1   
+DUF6414 family protein [Halorubrum sp. DTA46]                     1          1          Halorubrum s... euryarchaeotes  3402162    111    111   67%   1e-22  32.55  426        WP_418284841.1   
+DUF6414 family protein [Halopiger xanaduensis]                    1          1          Halopiger xa... euryarchaeotes  387343     110    110   94%   3e-22  27.13  449        WP_013878516.1   
+DUF6414 family protein [Haloarcula marismortui]                   1          1          Haloarcula m... euryarchaeotes  2238       109    109   94%   4e-22  26.76  416        WP_152418982.1   
+DUF6414 family protein [Halorubrum lacusprofundi]                 3          3          Halorubrum      euryarchaeotes  56688      107    107   57%   9e-22  30.80  354        WP_422652236.1   
+DUF6414 family protein [Haladaptatus sp. NG-WS-4]                 1          1                                          3439056    108    108   99%   1e-21  28.15  443        WP_458186284.1   
+DUF6414 family protein [Natrinema sp. 1APR25-10V2]                6          4          Halobacteriales euryarchaeotes  2235       107    107   63%   1e-21  32.65  412        WP_310909212.1   
+DUF6414 family protein [Georgenia sp. EYE_87]                     1          1          Georgenia sp... high G+C Gra... 2853448    105    105   94%   2e-20  26.07  455        WP_248258843.1   
+DUF6414 family protein [Halobacterium salinarum]                  4          1          Halobacteriu... euryarchaeotes  2242       104    104   64%   3e-20  32.08  413        WP_170245794.1   
+DUF6414 family protein [Cellulosimicrobium funkei]                2          2          Promicromono... high G+C Gra... 85017      103    103   97%   9e-20  25.59  460        WP_251177161.1   
+MULTISPECIES: DUF6414 family protein [unclassified Haladaptatus]  1          1          unclassified... euryarchaeotes  2622732    100    100   94%   5e-19  26.21  449        WP_395284245.1   
+DUF6414 family protein [Halomicrobium salinisoli]                 1          1          Halomicrobiu... euryarchaeotes  2878391    100    100   64%   1e-18  29.32  457        WP_226011750.1   
+DUF6414 family protein [Halobacterium salinarum]                  2          1          Halobacteriu... euryarchaeotes  2242       99.4   99.4  96%   1e-18  28.29  423        WP_285271123.1   
+hypothetical protein [Chloroflexota bacterium]                    2          2          Bacteria        bacteria        2          98.6   98.6  66%   3e-18  27.64  462        MEW6284759.1     
+DUF6414 family protein [Natronococcus jeotgali]                   1          1          Natronococcu... euryarchaeotes  413812     97.8   97.8  62%   5e-18  29.14  447        WP_008422303.1   
+hypothetical protein [Halorussus aquaticus]                       1          1          Halorussus a... euryarchaeotes  2953748    95.1   95.1  49%   7e-18  31.31  287        MFC4451421.1     
+DUF6414 family protein [Halorientalis marina]                     1          1          Halorientali... euryarchaeotes  2931976    94.4   94.4  58%   1e-17  30.28  279        WP_443984578.1   
+DUF6414 family protein [Pelagerythrobacter marinus]               2          1          Pelagerythro... a-proteobact... 538382     95.9   95.9  66%   3e-17  26.89  456        WP_322295799.1   
+DUF6414 family protein [Agrobacterium tumefaciens]                2          1          Agrobacteriu... a-proteobact... 358        95.1   95.1  94%   4e-17  25.11  435        WP_143238611.1   
+hypothetical protein [Halopiger aswanensis]                       1          1          Halopiger as... euryarchaeotes  148449     86.7   86.7  18%   6e-17  55.70  79         WP_147376707.1   
+MULTISPECIES: DUF6414 family protein [Alphaproteobacteria]        1          1          Alphaproteob... a-proteobact... 28211      94.7   94.7  70%   6e-17  27.38  452        WP_147181229.1   
+DUF6414 family protein [Devosia sp.]                              2          1          Devosia sp.     a-proteobact... 1871048    94.4   94.4  62%   8e-17  26.30  447        WP_299747503.1   
+DUF6414 family protein [Streptomyces sp. NPDC002868]              1          1                                          3684374    93.6   93.6  97%   2e-16  25.16  472        MHG4000863.1     
+DUF6414 family protein [Dactylosporangium sp. NPDC048998]         1          1          Dactylospora... high G+C Gra... 3363976    93.2   93.2  94%   2e-16  24.46  463        WP_392801882.1   
+DUF6414 family protein [Leucobacter sp. UCD-THU]                  1          1          Leucobacter ... high G+C Gra... 1292023    92.8   92.8  94%   3e-16  24.49  454        WP_017883172.1   
+DUF6414 family protein [Georgenia faecalis]                       1          1          Georgenia fa... high G+C Gra... 2483799    92.4   92.4  82%   3e-16  24.47  439        WP_127571819.1   
+DUF6414 family protein [Thioclava sp. JE_KL1]                     1          1          Thioclava sp... a-proteobact... 2651187    92.4   92.4  60%   4e-16  30.88  452        WP_152843832.1   
+DUF6414 family protein [Halobellus inordinatus]                   1          1          Halobellus i... euryarchaeotes  1126236    91.7   91.7  95%   6e-16  25.76  456        WP_256289512.1   
+DUF6414 family protein [Qipengyuania algicola]                    1          1          Qipengyuania... a-proteobact... 3349631    91.7   91.7  94%   7e-16  25.34  451        WP_379548292.1   
+hypothetical protein [Anaerolineales bacterium]                   1          1          Anaerolineal... GNS bacteria    2073117    91.7   91.7  74%   8e-16  25.35  460        MCZ7547639.1     
+DUF6414 family protein [Zavarzinia marina]                        1          1          Zavarzinia m... a-proteobact... 2911065    90.9   90.9  66%   1e-15  24.59  456        WP_236108510.1   
+DUF6414 family protein [Microbacterium festucae]                  1          1          Microbacteri... high G+C Gra... 2977531    89.7   89.7  57%   3e-15  27.80  418        WP_261579090.1   
+DUF6414 family protein [Rubrobacter marinus]                      1          1          Rubrobacter ... actinobacteria  2653852    89.7   89.7  97%   3e-15  24.53  464        WP_166398820.1   
+DUF6414 family protein [Paenarthrobacter sp. PH39-S1]             1          1          Paenarthroba... high G+C Gra... 3046204    89.4   89.4  95%   4e-15  23.67  455        WP_283559518.1   
+DUF6414 family protein [Planococcus rifietoensis]                 1          1          Planococcus ... firmicutes      200991     89.4   89.4  64%   4e-15  25.33  447        WP_404337968.1   
+DUF6414 family protein [Rhizobium leguminosarum]                  2          2          Rhizobium       a-proteobact... 379        89.0   89.0  70%   5e-15  25.54  451        WP_168318425.1   
+hypothetical protein [Chloroflexota bacterium]                    1          1          Chloroflexot... GNS bacteria    2026724    89.0   89.0  64%   6e-15  26.52  462        MEP0805399.1     
+DUF6414 family protein [Novosphingobium sp. HR1a]                 3          2          Novosphingobium a-proteobact... 165696     88.6   88.6  58%   8e-15  27.70  470        WP_211152189.1   
+DUF6414 family protein [Jiangella alba]                           1          1          Jiangella alba  high G+C Gra... 561176     88.2   88.2  94%   1e-14  25.76  462        WP_141711863.1   
+hypothetical protein [Anaerolineales bacterium]                   1          1          Anaerolineal... GNS bacteria    2073117    87.8   87.8  94%   1e-14  24.56  460        MBV6390964.1     
+DUF6414 family protein [Tsuneonella flava]                        1          1          Tsuneonella ... a-proteobact... 2055955    87.4   87.4  65%   2e-14  26.23  456        WP_102155284.1   
+DUF6414 family protein [Actinoplanes sp. NPDC026619]              1          1          Actinoplanes... high G+C Gra... 3155798    87.4   87.4  62%   2e-14  28.71  443        WP_360417327.1   
+DUF6414 family protein [Nocardiopsis nanhaiensis]                 2          1          Nocardiopsis... high G+C Gra... 1365493    87.4   87.4  60%   2e-14  29.76  434        WP_460772040.1   
+hypothetical protein [Anaerolineales bacterium]                   1          1          Anaerolineal... GNS bacteria    2073117    86.7   86.7  65%   3e-14  26.23  462        MBE7434741.1     
+hypothetical protein [Mariprofundaceae bacterium]                 1          1          Mariprofunda... proteobacteria  2306050    86.7   86.7  62%   3e-14  28.08  448        MBL4761013.1     
+hypothetical protein [Candidatus Saccharimonadales bacterium]     1          1          Candidatus S... bacteria        2973664    86.3   86.3  97%   4e-14  23.92  451        MGB4800305.1     
+MULTISPECIES: DUF6414 family protein [unclassified Leucobacter]   1          1          unclassified... high G+C Gra... 2621730    85.1   85.1  94%   9e-14  25.06  434        WP_188058306.1   
+MULTISPECIES: DUF6414 family protein [Citromicrobium]             1          1          Citromicrobium  a-proteobact... 72173      84.7   84.7  66%   1e-13  26.54  456        WP_156323666.1   
+DUF6414 family protein [Actinoplanes sp. NPDC051861]              1          1          Actinoplanes... high G+C Gra... 3155170    84.3   84.3  95%   2e-13  25.77  454        WP_364224327.1   
+MULTISPECIES: DUF6414 family protein [unclassified Rhodococcus... 1          1          unclassified... high G+C Gra... 192944     84.0   84.0  61%   2e-13  27.30  433        WP_156388378.1   
+DUF6414 family protein [Glycomyces sp. MUSA5-2]                   1          1          Glycomyces s... high G+C Gra... 2053002    83.6   83.6  67%   3e-13  25.94  456        WP_335988480.1   
+DUF6414 family protein [Cellulosimicrobium arenosum]              2          2          Actinomycetes   high G+C Gra... 1760       83.6   83.6  83%   3e-13  25.94  438        WP_191827770.1   
+DUF6414 family protein [Brevibacterium album]                     2          2          Micrococcales   high G+C Gra... 85006      83.6   83.6  60%   3e-13  27.68  434        WP_156913990.1   
+DUF6414 family protein [Micromonospora sp. NPDC049201]            1          1                                          3684353    83.6   83.6  99%   3e-13  24.00  459        MHH2112329.1     
+DUF6414 family protein [Micromonospora rifamycinica]              1          1          Micromonospo... high G+C Gra... 291594     83.2   83.2  84%   4e-13  26.01  445        WP_357655964.1   
+DUF6414 family protein [Microthrixaceae bacterium]                1          1          Microthrixac... actinobacteria  2497627    82.4   82.4  60%   8e-13  26.90  459        MGQ0433383.1     
+DUF6414 family protein [Nocardia cyriacigeorgica]                 1          1          Nocardia cyr... high G+C Gra... 135487     82.0   82.0  97%   1e-12  26.68  439        WP_195047478.1   
+hypothetical protein [Chloroflexota bacterium]                    1          1          Chloroflexot... GNS bacteria    2026724    82.0   82.0  62%   1e-12  26.54  459        MYE32650.1       
+DUF6414 family protein [Solirubrobacteraceae bacterium]           1          1          Solirubrobac... actinobacteria  2586742    81.3   81.3  65%   2e-12  28.57  461        MGI8730134.1     
+DUF6414 family protein [Nesterenkonia sp. CL21]                   1          1          Nesterenkoni... high G+C Gra... 3064894    80.9   80.9  94%   2e-12  22.25  450        WP_311023755.1   
+DUF6414 family protein [Jonesia denitrificans]                    2          2          Jonesia deni... high G+C Gra... 43674      80.9   80.9  69%   2e-12  26.61  435        WP_041287925.1   
+DUF6414 family protein [Citricoccus sp. NR2]                      6          6          Micrococcales   high G+C Gra... 85006      80.9   80.9  61%   2e-12  27.27  434        WP_270106556.1   
+DUF6414 family protein [Amycolatopsis sp. 3B14]                   1          1          Amycolatopsi... high G+C Gra... 3243600    80.9   80.9  66%   3e-12  24.77  458        WP_433744397.1   
+DUF6414 family protein [Promicromonospora soli]                   1          1          Promicromono... high G+C Gra... 2035533    80.9   80.9  94%   3e-12  24.83  452        WP_454852452.1   
+DUF6414 family protein [Nocardiopsis oceani]                      2          1          Nocardiopsis... high G+C Gra... 1365492    80.9   80.9  94%   3e-12  23.92  472        WP_460749348.1   
+DUF6414 family protein [Rhodococcus sp. SGAir0479]                1          1          Rhodococcus ... high G+C Gra... 2567884    80.9   80.9  64%   3e-12  25.24  454        WP_441346901.1   
+DUF6414 family protein [Sphingomonas sp.]                         1          1          Sphingomonas... a-proteobact... 28214      80.5   80.5  64%   3e-12  26.25  456        WP_372852133.1   
+DUF6414 family protein [Nocardioides lianchengensis]              1          1          Nocardioides... high G+C Gra... 1045774    80.1   80.1  96%   4e-12  22.86  456        WP_090854311.1   
+DUF6414 family protein [Sphingomonas sp. SORGH_AS_0879]           2          1          Sphingomonas... a-proteobact... 3041790    80.1   80.1  58%   5e-12  28.88  438        WP_306998608.1   
+hypothetical protein [Brevundimonas sp.]                          1          1          Brevundimona... a-proteobact... 1871086    80.1   80.1  65%   5e-12  26.98  454        MFN7128645.1     
+hypothetical protein [Frondihabitans sp.]                         1          1          Frondihabita... high G+C Gra... 1978225    80.1   80.1  62%   5e-12  25.25  458        MCU1529432.1     
+DUF6414 family protein [Actinomyces massiliensis]                 1          1          Actinomyces ... high G+C Gra... 461393     79.7   79.7  94%   5e-12  24.15  454        WP_315070934.1   
+
+
+Alignments:
+
+>DUF6414 family protein [Haloquadratum walsbyi]
+Sequence ID: WP_011572499.1 Length: 436
+Range 1: 1 to 436
+
+Score:883 bits(2282), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:436/436(100%), Positives:436/436(100%), Gaps:0/436(0%)
+
+Query  1    MTRLKIRQRLHSVVTRIQRWLARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEE  60
+            MTRLKIRQRLHSVVTRIQRWLARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEE
+Sbjct  1    MTRLKIRQRLHSVVTRIQRWLARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEE  60
+
+Query  61   MRRRRSGSSAGGSVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQK  120
+            MRRRRSGSSAGGSVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQK
+Sbjct  61   MRRRRSGSSAGGSVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQK  120
+
+Query  121  LSLDQIPIDDELEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQID  180
+            LSLDQIPIDDELEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQID
+Sbjct  121  LSLDQIPIDDELEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQID  180
+
+Query  181  SDTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVT  240
+            SDTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVT
+Sbjct  181  SDTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVT  240
+
+Query  241  LLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEFR  300
+            LLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEFR
+Sbjct  241  LLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEFR  300
+
+Query  301  RGLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAME  360
+            RGLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAME
+Sbjct  301  RGLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAME  360
+
+Query  361  TVELGDEVSQTAQRKRVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQSNVVTNSDD  420
+            TVELGDEVSQTAQRKRVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQSNVVTNSDD
+Sbjct  361  TVELGDEVSQTAQRKRVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQSNVVTNSDD  420
+
+Query  421  EADKYRIEANTVAMYW  436
+            EADKYRIEANTVAMYW
+Sbjct  421  EADKYRIEANTVAMYW  436
+
+
+
+
+>DUF6414 family protein [Halosimplex salinum]
+Sequence ID: WP_206425055.1 Length: 425
+Range 1: 1 to 425
+
+Score:640 bits(1651), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:333/425(78%), Positives:382/425(89%), Gaps:1/425(0%)
+
+Query  13   VVTRIQRWLARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGG  72
+            ++TR+QRWLAR++FDDLREFVYLDEISVRSLLASTGEGGIVSETV+EEMRRRRSGSSAGG
+Sbjct  1    MLTRLQRWLARSEFDDLREFVYLDEISVRSLLASTGEGGIVSETVNEEMRRRRSGSSAGG  60
+
+Query  73   SVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDEL  132
+            S+SAGPASV+A  SEERE QETKIE RNYDLIQS FTRLY SD VE+KLSLDQIP+++E 
+Sbjct  61   SISAGPASVNANVSEERESQETKIETRNYDLIQSKFTRLYKSDVVEKKLSLDQIPMEEES  120
+
+Query  133  EEE-FSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILELIS  191
+            E+E FSGLA S+LKRGDV+ LRVNLSANLLFRLYRTIDYFADAFEDQIDS+TEE+LELI 
+Sbjct  121  EDEPFSGLAASDLKRGDVVELRVNLSANLLFRLYRTIDYFADAFEDQIDSETEEMLELIG  180
+
+Query  192  NSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDP  251
+            +SLGNRIPVVGKAVDYKVV G+  +K IKRS+ ++S EE + EDLEVVTLLNLD+LWVDP
+Sbjct  181  SSLGNRIPVVGKAVDYKVVEGDEDEKEIKRSDQLNSKEEKEAEDLEVVTLLNLDSLWVDP  240
+
+Query  252  IQTLFNNDQFVIYCRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLS  311
+            IQTLFNND+FVIYCR+EDVDIDRWYPLKVTRAI+SLS+PAA+NLNQEFRRGLE+TR QLS
+Sbjct  241  IQTLFNNDRFVIYCRIEDVDIDRWYPLKVTRAINSLSKPAAKNLNQEFRRGLEETRSQLS  300
+
+Query  312  ELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAMETVELGDEVSQT  371
+            ELQNFTDWSA+SA++WGQDIQ YTESLE+EY + +S++EQE LI E METV+LGDEVSQT
+Sbjct  301  ELQNFTDWSADSAIQWGQDIQQYTESLEEEYGQDVSEDEQEQLIVETMETVDLGDEVSQT  360
+
+Query  372  AQRKRVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQSNVVTNSDDEADKYRIEANT  431
+            AQRKRVLNAYTDAF  M+ LDP DD+ RQ+LRPD T S Q+  V +S DE + +R+E  T
+Sbjct  361  AQRKRVLNAYTDAFIEMYGLDPVDDEKRQKLRPDATTSTQNAGVVSSTDEDNAFRVETKT  420
+
+Query  432  VAMYW  436
+            VA+YW
+Sbjct  421  VALYW  425
+
+
+
+
+>DUF6414 family protein [Halomarina halobia]
+Sequence ID: WP_438268330.1 Length: 428
+Range 1: 1 to 428
+
+Score:625 bits(1613), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:312/429(73%), Positives:365/429(85%), Gaps:3/429(0%)
+
+Query  10   LHSVVTRIQRWLARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSS  69
+            ++SVV+R+QRWLA NQFDDLREFVYLDEISVRSLLASTGEGGIV+ETV+EEMRRRRSGSS
+Sbjct  1    MYSVVSRLQRWLANNQFDDLREFVYLDEISVRSLLASTGEGGIVTETVNEEMRRRRSGSS  60
+
+Query  70   AGGSVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPID  129
+             G S SAGPASV+A  SEE EHQ T +E RNYDLIQS FTRLY SD VE+KLSLDQIP  
+Sbjct  61   VGCSASAGPASVNAKVSEESEHQRTTVETRNYDLIQSKFTRLYKSDVVEKKLSLDQIPKK  120
+
+Query  130  D-ELEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILE  188
+            D  ++E FSGLAT EL RGDV+ LRVN+SANLLFRLYRTIDYFADAFEDQIDSDTEE+LE
+Sbjct  121  DGSVDEPFSGLATYELTRGDVVELRVNISANLLFRLYRTIDYFADAFEDQIDSDTEEMLE  180
+
+Query  189  LISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLW  248
+            LI NSLGNRIPVVGKAVDYKVV+ E   K IK S ++ SDE+ D EDLEVVTLLNLD+LW
+Sbjct  181  LIGNSLGNRIPVVGKAVDYKVVDEEDG-KTIKSSAELDSDEKEDAEDLEVVTLLNLDSLW  239
+
+Query  249  VDPIQTLFNNDQFVIYCRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRR  308
+            VDPIQTLFNND+FV+YCRVEDVDIDRWYPLKVTRA++SLSE AA+NLN+EF RGL+  R 
+Sbjct  240  VDPIQTLFNNDRFVVYCRVEDVDIDRWYPLKVTRAVNSLSEAAAENLNREFERGLQDVRN  299
+
+Query  309  QLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAMETVELGDEV  368
+            QLSE+QNFTDWS +SA +WG+DIQ YT+SLE EY++ +S++EQE LI EA+ TV++GDEV
+Sbjct  300  QLSEIQNFTDWSTDSAAQWGRDIQQYTKSLEVEYDQDVSEDEQEQLIVEALGTVDVGDEV  359
+
+Query  369  SQTAQRKRVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNS-AQSNVVTNSDDEADKYRI  427
+            SQTA+RK+VLNAYTD+F  MF+LDP  D+ RQ+LR D + +    + +   D+ ++ +RI
+Sbjct  360  SQTAERKKVLNAYTDSFIEMFDLDPISDEKRQQLRSDASETVGAGDQIDGLDESSNVFRI  419
+
+Query  428  EANTVAMYW  436
+            EA TVAMYW
+Sbjct  420  EAKTVAMYW  428
+
+
+
+
+>DUF6414 family protein [Halobaculum saliterrae]
+Sequence ID: WP_159662797.1 Length: 437
+Range 1: 1 to 437
+
+Score:620 bits(1600), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:333/437(76%), Positives:376/437(86%), Gaps:1/437(0%)
+
+Query  1    MTRLKIRQRLHSVVTRIQRWLARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEE  60
+            M+ LKIRQRLHS +  +QRWLA+NQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEE
+Sbjct  1    MSYLKIRQRLHSGIAWLQRWLAKNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEE  60
+
+Query  61   MRRRRSGSSAGGSVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQK  120
+            MRRRRSGSS GGSVS GPASV+A  SE+ E QETKIE RNYDLIQS FTRLY S+ VE+K
+Sbjct  61   MRRRRSGSSVGGSVSTGPASVNAKVSEQSEQQETKIETRNYDLIQSKFTRLYKSNVVEKK  120
+
+Query  121  LSLDQIPIDDE-LEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQI  179
+            LSLDQIPI+DE  EE FSGLA S+L RGDV+ LRVNLSANLLFRLYRTI YFAD+FEDQI
+Sbjct  121  LSLDQIPIEDEPAEEPFSGLAASDLSRGDVVELRVNLSANLLFRLYRTIGYFADSFEDQI  180
+
+Query  180  DSDTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVV  239
+            DS+TEE+LELI +SLGNRIPVVG+AVDYKVV     +K IKRS+ + SDEE + EDL +V
+Sbjct  181  DSETEEMLELIGSSLGNRIPVVGEAVDYKVVKDHEEEKTIKRSDQLDSDEEEEAEDLAIV  240
+
+Query  240  TLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEF  299
+            TLLNLD+LWVDPIQTLFNND+FVIYCRVEDVDIDRWYPLKVTRAI+SLS+PAA+NLNQEF
+Sbjct  241  TLLNLDSLWVDPIQTLFNNDRFVIYCRVEDVDIDRWYPLKVTRAINSLSKPAAKNLNQEF  300
+
+Query  300  RRGLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAM  359
+            RRGL++TR QLSELQ+FTDWS +S M+W QDI  YTESL DEY + +S+EEQE LI EAM
+Sbjct  301  RRGLKETRSQLSELQDFTDWSNDSTMQWSQDIHQYTESLGDEYGQDVSEEEQEQLIVEAM  360
+
+Query  360  ETVELGDEVSQTAQRKRVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQSNVVTNSD  419
+             TV+LGDE+SQTAQRKRVLNAYTDAF  MF LDP  ++ RQELR D  NSA+S+ V +S 
+Sbjct  361  GTVDLGDEISQTAQRKRVLNAYTDAFVEMFGLDPIGEEKRQELRSDAMNSARSDNVGSSS  420
+
+Query  420  DEADKYRIEANTVAMYW  436
+            DE D +RIEA  VA+YW
+Sbjct  421  DEDDVFRIEAKAVALYW  437
+
+
+
+
+>DUF6414 family protein [Halorussus aquaticus]
+Sequence ID: WP_254270779.1 Length: 432
+Range 1: 1 to 432
+
+Score:610 bits(1573), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:315/436(72%), Positives:368/436(84%), Gaps:4/436(0%)
+
+Query  1    MTRLKIRQRLHSVVTRIQRWLARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEE  60
+            MTRLKIRQRLHS+  RI+RWLAR+QFD+LREFVYLDEISVRSLLASTGEGGIVSETVDEE
+Sbjct  1    MTRLKIRQRLHSLAIRIERWLARDQFDELREFVYLDEISVRSLLASTGEGGIVSETVDEE  60
+
+Query  61   MRRRRSGSSAGGSVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQK  120
+            MRRRRSGS  GG + AGPASV++   EEREHQ T IE RNYDLIQS FTRLY SD VE+K
+Sbjct  61   MRRRRSGSRVGGKLGAGPASVNSRVEEEREHQNTAIETRNYDLIQSKFTRLYKSDVVEKK  120
+
+Query  121  LSLDQIPIDDELEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQID  180
+            LSL QIP+++  +E FSGL TS L+RGD++ LRV+LSANLLFRLY+TIDYFAD FEDQID
+Sbjct  121  LSLGQIPLEEAADEPFSGLTTSNLQRGDIVELRVDLSANLLFRLYQTIDYFADVFEDQID  180
+
+Query  181  SDTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVT  240
+            S+TEE+LELI +SLGNRIPV+GKAVDYKVV+G+  +K IKRS  +S  E+ +VEDLEVVT
+Sbjct  181  SETEEMLELIESSLGNRIPVIGKAVDYKVVDGK--EKTIKRSSQLSDAEKENVEDLEVVT  238
+
+Query  241  LLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEFR  300
+            LLNLD LW DPIQTLF+ND+FV+YCRVEDVD+DRWYPLKVTRAI+SLSEP A+ LNQ+FR
+Sbjct  239  LLNLDGLWADPIQTLFSNDRFVLYCRVEDVDLDRWYPLKVTRAINSLSEPTAKQLNQKFR  298
+
+Query  301  RGLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAME  360
+            +GL++TR QLSEL++FTDWSA+SA +WGQDI+ YTE LEDEYN  +S++EQ+ L+ E ME
+Sbjct  299  QGLKETRSQLSELRDFTDWSADSAAQWGQDIERYTEHLEDEYNLVISEDEQQQLLFETME  358
+
+Query  361  TVELGDEVSQTAQRKRVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQSNVVTNSDD  420
+             +E+G E SQTAQRK VLNAYTDA   MFELD  D + RQELR DTT S Q +    SD 
+Sbjct  359  DIEIGHEKSQTAQRKTVLNAYTDAVIEMFELDSIDHEKRQELRVDTTKSNQEDEEIESD-  417
+
+Query  421  EADKYRIEANTVAMYW  436
+             +D +RIEA TVAMYW
+Sbjct  418  -SDVFRIEAKTVAMYW  432
+
+
+
+
+>MULTISPECIES: DUF6414 family protein [Haloferax]
+Sequence ID: WP_151161052.1 Length: 434
+Range 1: 1 to 434
+
+Score:593 bits(1530), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:323/438(74%), Positives:375/438(85%), Gaps:6/438(1%)
+
+Query  1    MTRLKIRQRLHSVVTRIQRWLARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEE  60
+            MTRLKIRQ+L+ VVTR+QRWLA NQFDDLREFVYLDEISVRSLLASTGEGGIVSETV+EE
+Sbjct  1    MTRLKIRQKLYIVVTRLQRWLANNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVNEE  60
+
+Query  61   MRRRRSGSSAGGSVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQK  120
+            MRRRRSGSSAGGSVSA  ASV+A  SEE EHQ T +E RNYDLIQS FTRLY SD VE+K
+Sbjct  61   MRRRRSGSSAGGSVSA-GASVNAKVSEESEHQRTTVETRNYDLIQSKFTRLYKSDVVEKK  119
+
+Query  121  LSLDQIPIDDE-LEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQI  179
+            LSLD+IP +DE +++ FSGLATSEL RGDV  LRVN+SANLLFRLYRTIDYFADAFEDQI
+Sbjct  120  LSLDRIPKEDESVDDPFSGLATSELTRGDVAELRVNISANLLFRLYRTIDYFADAFEDQI  179
+
+Query  180  DSDTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVV  239
+            DSDTEE+LELI +SLGNRIPVVGKAVDY+VV+ EG  + IKRS ++  DEE   + LEVV
+Sbjct  180  DSDTEEMLELIGSSLGNRIPVVGKAVDYEVVD-EGDGQTIKRSTEIDDDEEA--QGLEVV  236
+
+Query  240  TLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEF  299
+            TLLNLD+LWVDPIQTLFNND+FVIYCRVEDVDIDRWYPLKVTRAI+SLSEPAA+NLN+EF
+Sbjct  237  TLLNLDSLWVDPIQTLFNNDRFVIYCRVEDVDIDRWYPLKVTRAINSLSEPAAENLNREF  296
+
+Query  300  RRGLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAM  359
+             RGL+  R QLSE+QNFTDWS +SA  W +DIQ YTESLE+EY++ +SD+EQE LI EA+
+Sbjct  297  ERGLQDVRNQLSEIQNFTDWSTDSAARWSRDIQQYTESLEEEYDQDVSDDEQEQLIVEAL  356
+
+Query  360  ETVELGDEVSQTAQRKRVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQSNVVTNSD  419
+             TV++G+EVSQTA+RKR+LNAYTDAF  MF+L+P  D+ RQ+LR D + +  +    ++ 
+Sbjct  357  GTVDIGEEVSQTAKRKRILNAYTDAFIKMFDLNPIGDEKRQQLRSDASATGGAGDQEDAS  416
+
+Query  420  DEADK-YRIEANTVAMYW  436
+            DE+   +RIEA TVAMYW
+Sbjct  417  DESSNVFRIEAKTVAMYW  434
+
+
+
+
+>hypothetical protein Halar_0531 [halophilic archaeon DL31]
+Sequence ID: AEN07769.1 Length: 429
+Range 1: 2 to 429
+
+Score:458 bits(1179), Expect:4e-156, 
+Method:Compositional matrix adjust., 
+Identities:247/433(57%), Positives:306/433(70%), Gaps:7/433(1%)
+
+Query  6    IRQRLHSVVTRIQRWLARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMR--R  63
+            IR  L  ++    R L R+QFD++REFVYLDEISVRSLLASTGEGGI +ETV++++R  R
+Sbjct  2    IRNGLRRIMAWFHRLLVRDQFDEVREFVYLDEISVRSLLASTGEGGIPTETVEQDVRTTR  61
+
+Query  64   RRSGSSAGGSVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSL  123
+            ++ G SAG  VSAGPA + A    ERE Q +  ERRNYDL QS FTRL+NSDAV  KL+L
+Sbjct  62   KKRGGSAG--VSAGPAKIGAKGGTEREVQTSVEERRNYDLTQSKFTRLHNSDAVNTKLAL  119
+
+Query  124  DQIPIDDELEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDT  183
+             Q+P D+  + EFSGLAT +L+RGD I +RV++SANLLFRLY+ ++YF DA E  +D + 
+Sbjct  120  SQVP-DEATDTEFSGLATDDLERGDTIEVRVDISANLLFRLYQMMEYFGDALEGVLDREA  178
+
+Query  184  EEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLN  243
+            EE L LI  SLG+ IP+VG A+DY+VV  +G  K I+ +  V+  E   V DLE+VTLLN
+Sbjct  179  EENLRLIELSLGDSIPIVGTAIDYRVVETDGK-KTIELASAVNEGEVDQVYDLEIVTLLN  237
+
+Query  244  LDNLWVDPIQTLFNNDQFVIYCRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGL  303
+            +D+LW DPI TLFN D+FV+YCRVEDVDID W+PLKVTRAI SLS+ AA  LN+E  RGL
+Sbjct  238  IDDLWADPIHTLFNEDEFVMYCRVEDVDIDTWHPLKVTRAIGSLSQNAADELNREIVRGL  297
+
+Query  304  EQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAMETVE  363
+            E  R QLSE++   DWS +S     QD+  Y+E LEDEY+  +SD++Q  LI EA    +
+Sbjct  298  EAMRTQLSEMKGLEDWSVDSMSGLAQDMTGYSERLEDEYDVKISDDDQRQLIQEARRNAD  357
+
+Query  364  LGDEVSQTAQRKRVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQSNVVTNSDDEAD  423
+               E S TAQRK VLNAYTDAFE  F LD  D   RQ LRP  T +A   V  +S DE D
+Sbjct  358  TSYEDSTTAQRKAVLNAYTDAFEKKFGLDSIDPDERQRLRP-GTYAADGLVTESSSDEDD  416
+
+Query  424  KYRIEANTVAMYW  436
+             +RIEA TVA+YW
+Sbjct  417  VFRIEAKTVALYW  429
+
+
+
+
+>DUF6414 family protein [Natrinema sp. DC36]
+Sequence ID: WP_226042810.1 Length: 321
+Range 1: 1 to 321
+
+Score:452 bits(1163), Expect:2e-155, 
+Method:Compositional matrix adjust., 
+Identities:226/322(70%), Positives:271/322(84%), Gaps:3/322(0%)
+
+Query  117  VEQKLSLDQIPIDDE-LEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAF  175
+            +E+KLSLDQIP +DE +++ FSGLATSEL RGDV+ LRVN+SANLLFRLYR IDYFADAF
+Sbjct  1    MEKKLSLDQIPKEDESVDDPFSGLATSELTRGDVVELRVNISANLLFRLYRAIDYFADAF  60
+
+Query  176  EDQIDSDTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVED  235
+            EDQIDSD EE+LELI +SLGNRIPVVGKAVDYKVV+ E   K IKRS ++ SDE+ D ED
+Sbjct  61   EDQIDSDIEEMLELIGSSLGNRIPVVGKAVDYKVVDEEDG-KTIKRSAELDSDEKVDAED  119
+
+Query  236  LEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDIDRWYPLKVTRAIDSLSEPAAQNL  295
+            LE+VTLLNLD+LWVDPIQTLFNND+FV+YCRVEDVDIDRWYPLKVTRAI+SLSEPAA+NL
+Sbjct  120  LEIVTLLNLDSLWVDPIQTLFNNDRFVVYCRVEDVDIDRWYPLKVTRAINSLSEPAAENL  179
+
+Query  296  NQEFRRGLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLI  355
+            N+EF RGL+  R QLSE+QNFTDWS +SA +W +DIQ YTESLEDEY++ +S++EQE LI
+Sbjct  180  NREFERGLQDIRNQLSEIQNFTDWSTDSAAQWSRDIQQYTESLEDEYDQDVSEDEQEQLI  239
+
+Query  356  AEAMETVELGDEVSQTAQRKRVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNS-AQSNV  414
+             EA+ TV++GDEVSQTAQRK+VLNAYTD+F  M +LDP  D+ RQ+LR D + +    N 
+Sbjct  240  VEALGTVDVGDEVSQTAQRKKVLNAYTDSFIEMLDLDPIGDEKRQQLRSDASETVGAGNQ  299
+
+Query  415  VTNSDDEADKYRIEANTVAMYW  436
+            +   D  ++ +RIEA  VAMYW
+Sbjct  300  IDELDGSSNVFRIEAKAVAMYW  321
+
+
+
+
+>DUF6414 family protein [Haloarchaeobius sp. HME9146]
+Sequence ID: WP_261651569.1 Length: 431
+Range 1: 24 to 431
+
+Score:252 bits(644), Expect:2e-75, 
+Method:Compositional matrix adjust., 
+Identities:158/419(38%), Positives:241/419(57%), Gaps:19/419(4%)
+
+Query  26   FDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGF  85
+            F  LREF+YLDE+SVRSLLASTGEGGI  ET ++ ++ +      G S  AG AS +   
+Sbjct  24   FGSLREFIYLDELSVRSLLASTGEGGIPVETSNKSLKEKTRQFGGGISADAGVASGNVRA  83
+
+Query  86   SEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLATSELK  145
+            + +   Q       + +  QS FT+LY S+AV++++SL  +    E+ +    +  S+ +
+Sbjct  84   NGQNRQQSANETVSSLESGQSRFTQLYQSNAVKKRVSLGNLKKSREIND-LGEVYLSDFE  142
+
+Query  146  RGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILELISNSLGNRIPVVGKAV  205
+            RGDV+ LRV+L ANLLFRLYR I+YF D   +Q D DT+++L LI  S+G  IPV+G A 
+Sbjct  143  RGDVLELRVDLQANLLFRLYRAIEYFYDVAPEQFDPDTKQMLTLIRESIGGSIPVIGTAT  202
+
+Query  206  DYKVVNGEGHD-KVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIY  264
+            +Y++V+ +    + ++ SE  S D E     + +V  L L+NL  DPI TLF++++FV+Y
+Sbjct  203  NYELVSEDTRSLQPLQESETPSPDSE-----VLLVAQLELENLRADPIDTLFDDEEFVMY  257
+
+Query  265  CRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLS--ELQN----FTD  318
+            CR+  VD+  WYPLK+T+ ++SL   AA+ LN     GL + R +L   +LQN     T+
+Sbjct  258  CRITSVDVGTWYPLKITQVLNSLPGNAAEQLNSLMENGLSEARTELVDIDLQNGETGTTN  317
+
+Query  319  WSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAMETVELGDEVSQTAQRKRVL  378
+             +  SA+     +  Y   LE E  + ++D   + ++ +  E+V + D  S    +K +L
+Sbjct  318  PTVHSAL-----VYHYASLLETETGESVNDSLTDSIVNQVFESVNVDDYESGREAKKALL  372
+
+Query  379  NAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQSNVVTNSDDEADKYRI-EANTVAMYW  436
+              YTD F    +LD  D  TR ELR    ++ + + V   DD+ +   + E   VA+YW
+Sbjct  373  ETYTDVFIDQTDLDEVDSGTRLELRNQAIDALEDSKVQVDDDQKNIEPVFEVKPVAIYW  431
+
+
+
+
+>DUF6414 family protein [Haloferax elongans]
+Sequence ID: WP_008322130.1 Length: 416
+Range 1: 29 to 416
+
+Score:176 bits(446), Expect:1e-46, 
+Method:Compositional matrix adjust., 
+Identities:139/424(33%), Positives:219/424(51%), Gaps:48/424(11%)
+
+Query  25   QFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAG  84
+            QF  LREFVY+D+ SVRSLLAST  G + +E  + E     +  SA     AGP +V AG
+Sbjct  29   QFPQLREFVYIDQRSVRSLLASTDSGRVAAEQTNRESNINTTQHSANLGAGAGPVNVGAG  88
+
+Query  85   FSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDD-ELEEEFSGLATSE  143
+             ++  +         ++DLIQS FTRLY  + +  ++SL+  P    ELEE+   + +S+
+Sbjct  89   TNQTSQQGNETENVYSFDLIQSKFTRLYEHEEITPEISLN--PDGGYELEED---IKSSK  143
+
+Query  144  LKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILELISNSLGNRIPV-VG  202
+            L+RGDV+  R  +  + L+R+YR I+Y   A  D+ D  +E  + LI  SLGN+IP+ +G
+Sbjct  144  LERGDVLEFRGTIQLHPLYRVYRAIEYINTAVPDETDI-SEGDMRLIEESLGNKIPIEIG  202
+
+Query  203  KAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFV  262
+              V+   ++G G          +S D +GD   L +V LL+   LW +PIQTL ++ Q+ 
+Sbjct  203  --VNGLSIDGNG---------SISGDSQGD--SLNIVALLDESELWTEPIQTLASSKQYR  249
+
+Query  263  IYCRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSELQNFTDWSAE  322
+            I+CRVE +  D WYP+K+ R ++S+S   A+  N++   GL+     +   +   + S E
+Sbjct  250  IFCRVESIRPD-WYPMKLVRVLESISSDLAETFNEDLESGLQAA---MDRFEAQVETSNE  305
+
+Query  323  SAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAME------TVELGDEVSQTAQRKR  376
+            +     Q ++ +TE L +   + + D+  + ++  A +      +VE   EV    Q   
+Sbjct  306  NTGADEQKLREFTEFLAERAERSIGDDRIDDIVGHAADAYSSEASVEFEQEVELQKQ---  362
+
+Query  377  VLNAYTDAFEAMFELDPTDDKT---RQELRPDTTNSAQSNVVTNSDDEAD-KYRIEANTV  432
+               AY D+F  +   D   + +   R E     + S QSN     D E D    +E N +
+Sbjct  363  ---AY-DSFNQILSEDEFSEDSATLRSEFHQQESPS-QSN-----DSERDFTAHLEVNVI  412
+
+Query  433  AMYW  436
+             +YW
+Sbjct  413  GVYW  416
+
+
+
+
+>DUF6414 family protein [Halorubrum ezzemoulense]
+Sequence ID: WP_271955752.1 Length: 416
+Range 1: 29 to 416
+
+Score:173 bits(438), Expect:2e-45, 
+Method:Compositional matrix adjust., 
+Identities:136/425(32%), Positives:215/425(50%), Gaps:50/425(11%)
+
+Query  25   QFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAG  84
+            QF  LREFVY+D+ SVRSLLAST  G + SE    E     + +SA     AGP ++ AG
+Sbjct  29   QFPQLREFVYIDQRSVRSLLASTDSGRVASEQTSRESNINTTQNSANLGTGAGPVNIGAG  88
+
+Query  85   FSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLD---QIPIDDELEEEFSGLAT  141
+             S   +          +DLIQS FTRLY  + +  ++SL+   +  I+D LE        
+Sbjct  89   TSRTSQQGNETENVYTFDLIQSKFTRLYEHEKITPEISLNPDGEYKIEDNLE-------L  141
+
+Query  142  SELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILELISNSLGNRIPVV  201
+            S+L+RGDV+  R  +  + L+R+YR I+Y   A  D+ D  +E  ++LI  SLGN+IP  
+Sbjct  142  SKLERGDVLEFRGTIRLHPLYRIYRAIEYIKTAVPDEADI-SEGDMQLIEESLGNKIP--  198
+
+Query  202  GKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQF  261
+                    +  E ++  I  + D+S + +GD     +V LL+   LW +PIQTL ++ QF
+Sbjct  199  --------IEIEANELSIDENGDISENTQGD--SFNIVALLDETELWTEPIQTLASSKQF  248
+
+Query  262  VIYCRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSELQNFTDWSA  321
+             I+CRVE +  + WYP+K+ R ++S+S     NL + F + LE      SELQ   D   
+Sbjct  249  RIFCRVESIRPN-WYPMKLIRVLESIS----PNLAESFNKDLE------SELQAAMD-RF  296
+
+Query  322  ESAMEW--------GQDIQAYTESLEDEYNKHLSDEEQELLIAEAMETVELGDEVSQTAQ  373
+            E+ +E          Q ++ +TE L +  +  + D+  + ++  A       + V+   +
+Sbjct  297  EAQVEARNEKTGINEQKLREFTEFLAERADSSIEDDRIDNIVDHATSVFSPKESVTFEQE  356
+
+Query  374  RKRVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQSNVVTNSDDEADKY--RIEANT  431
+             +    AY D+F  +     +DD+  +E     +   QS   + S+D    +   +EAN 
+Sbjct  357  VELQKQAY-DSFTEIL----SDDEFSEESASLRSEFHQSESPSRSEDSERDFTAHLEANV  411
+
+Query  432  VAMYW  436
+            + +YW
+Sbjct  412  IGVYW  416
+
+
+
+
+>DUF6414 family protein [Halorientalis persicus]
+Sequence ID: WP_139203645.1 Length: 417
+Range 1: 29 to 417
+
+Score:172 bits(437), Expect:4e-45, 
+Method:Compositional matrix adjust., 
+Identities:137/417(33%), Positives:214/417(51%), Gaps:33/417(7%)
+
+Query  25   QFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAG  84
+            QF  LREFVY+D+ SVRSLLAST  G + +E  D E         A     AGP ++  G
+Sbjct  29   QFPHLREFVYIDQRSVRSLLASTDSGRVAAEQTDRESNLNTKNYQANAGAGAGPVNIGGG  88
+
+Query  85   FSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLATSEL  144
+             S   +         ++DLIQS FTRLY ++ +  K+SL+   ID+E E +   L  SEL
+Sbjct  89   TSRTSQQGSETENVYSFDLIQSKFTRLYENEEITPKISLN---IDEEYELQ-DDLELSEL  144
+
+Query  145  KRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQ-IDSDTEEILELISNSLGNRIPVVGK  203
+             RGDV+ LR  +  + L+R+YR I+Y   A  DQ I ++ E  ++LI  SLG++IPV  +
+Sbjct  145  DRGDVLELRGTIQLHPLYRVYRAIEYIDTASPDQSIIAEGE--MQLIEESLGDKIPVEIE  202
+
+Query  204  AVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVI  263
+            A      NG   D     S ++  + +GDV  L +V LL+   LW +PIQTL ++ QF +
+Sbjct  203  A------NGLSTDD----SGEIQPNSDGDV--LNLVALLDQTELWTEPIQTLASSKQFRV  250
+
+Query  264  YCRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSELQNFTDWSAES  323
+            +CRVE +    WYP+K+ R ++S+S   A+  N+E    L+     ++  +   + S E 
+Sbjct  251  FCRVEAIR-SNWYPMKLIRVLESISPNLAETYNKELEAELQAA---MNAFEASVEASYER  306
+
+Query  324  AMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAMETVELGDEVSQTAQRKRVLNAYTD  383
+            +    Q I+ + + L +     + D + + ++  A +     D      Q   +L    D
+Sbjct  307  SGGNKQKIRNFAKFLGERAESSVEDAQIDDIVDHAADEFS-SDATVALEQEIELLKQTYD  365
+
+Query  384  AF-EAMFELDPTDDKT--RQELRPDTTNSAQSNVVTNSDDEAD-KYRIEANTVAMYW  436
+            +F E + E   +DD +  R E R + T  ++++       E D    +EAN + +YW
+Sbjct  366  SFTEIVSEATFSDDASSLRSEYRQEQTTQSKAD-----GSERDFTAHLEANVIGIYW  417
+
+
+
+
+>DUF6414 family protein [Halorussus aquaticus]
+Sequence ID: WP_254270614.1 Length: 418
+Range 1: 28 to 418
+
+Score:166 bits(421), Expect:7e-43, 
+Method:Compositional matrix adjust., 
+Identities:135/418(32%), Positives:217/418(51%), Gaps:32/418(7%)
+
+Query  24   NQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSA  83
+            +QF  LREFVY+D+ SVRSLLAST  G + +E  + E     S  +A     A P +VSA
+Sbjct  28   HQFPQLREFVYIDQRSVRSLLASTDSGRVAAEQTNRESNVNTSKHNANAGAGARPVNVSA  87
+
+Query  84   GFSE-EREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLATS  142
+            G     +E  ET+    ++DLIQS FTRLY  + +  K+SL Q    D   +  + L  S
+Sbjct  88   GTKRISKESTETE-NVYSFDLIQSKFTRLYEHEKIVPKISLAQ----DNTYDLQNSLGLS  142
+
+Query  143  ELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILELISNSLGNRIPVVG  202
+            EL RG V+ +R  +  + L+R+YR I+Y   A  ++     +E L++I  SLG++IPV  
+Sbjct  143  ELNRGAVLEIRGIIRLHPLYRVYRAIEYINTAAPEE-SIIAQEDLQVIEESLGDKIPVEI  201
+
+Query  203  KAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFV  262
+            + VD   ++  G+   I+R      D EGD     +VTLL+   LW +PIQTL ++ QF 
+Sbjct  202  E-VDGLSLDDGGN---IRR------DSEGDT--FNIVTLLDETELWTEPIQTLASSKQFR  249
+
+Query  263  IYCRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSELQNFTDWSAE  322
+            ++CRVE V    WYP+K+ R ++S+S+  A+  N E    L+     +   +   + S++
+Sbjct  250  VFCRVEAVQ-SNWYPMKLVRVLESISDDLAEEYNTELEGRLQAA---IDAFEASVEASSK  305
+
+Query  323  SAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAMETVELGDEVS---QTAQRKRVLN  379
+            ++    Q +Q + E L ++ N  ++D++ + ++  A+        V+   +    K    
+Sbjct  306  TSEVDEQKVQNFVEFLVEKANTSVNDDQVDEVVDRAINAYSPEAIVAFEQEVELLKETYK  365
+
+Query  380  AYTDAF-EAMFELDPTDDKTRQELRPDTTNSAQSNVVTNSDDEADKYRIEANTVAMYW  436
+            A+T+   E  F  +P+    R E   + T+  QS   +  D  A    +E N + +YW
+Sbjct  366  AFTEVLSENFFSDNPS--SLRSEFHQNQTSQPQSTDYSERDFTA---HLEVNVIGIYW  418
+
+
+
+
+>DUF6414 family protein [Halolamina salina]
+Sequence ID: WP_459076958.1 Length: 416
+Range 1: 29 to 416
+
+Score:164 bits(415), Expect:5e-42, 
+Method:Compositional matrix adjust., 
+Identities:141/422(33%), Positives:209/422(49%), Gaps:44/422(10%)
+
+Query  25   QFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAG  84
+            QF  LREFVY+D+ SVRSLLAST  G + +E  D E       +SA  SV AG   V+AG
+Sbjct  29   QFPQLREFVYIDQRSVRSLLASTDSGRVAAEQTDRETNVDTKQNSA--SVGAGSGPVNAG  86
+
+Query  85   FSEEREHQETKIERRN---YDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLAT  141
+                R  Q+   E  N   +DLIQS FTRLY  + +  ++SL      D   +   GL  
+Sbjct  87   VGTNRTTQQGN-ETENVYSFDLIQSKFTRLYEHEDINPQISL----TADGAYDLQDGLEL  141
+
+Query  142  SELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILELISNSLGNRIPVV  201
+            S L RG+V+  R  +  + L+R++R I+Y   A  D+ D  +E  ++LI  SLGN+IP+ 
+Sbjct  142  STLDRGEVLEFRGTIRLHPLYRVFRAIEYIDTAAPDEADI-SEGEMQLIEESLGNKIPIE  200
+
+Query  202  GKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQF  261
+             + VD   ++ +G          +S   EGD     VV LL+   LW +PIQTL +N QF
+Sbjct  201  IE-VDGLSIDEDGR---------ISESSEGDA--FNVVALLDETELWTEPIQTLASNKQF  248
+
+Query  262  VIYCRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSELQNFTDWSA  321
+             I+CRVE +  D WYP+K+ R ++S+S   A+N N +            SELQ   D   
+Sbjct  249  RIFCRVESIRPD-WYPMKLIRVLESISSDLAENFNDDLE----------SELQAAMD-RF  296
+
+Query  322  ESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAMETV--ELGDEVSQTA-----QR  374
+            E+ +E   +   + E    E+ + L +  +  + A+ ++ V     D  S  A     Q 
+Sbjct  297  EAQVEATTENTGFDEQKLHEFIEFLGERAESSIQADQLDEVVEHAADAYSPDATVAVEQE  356
+
+Query  375  KRVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQSNVVTNSDDEADKYRIEANTVAM  434
+              +L    D+F  +   D   + +   LR D    A  +   +SD +   + +EAN + +
+Sbjct  357  VELLKQAYDSFTEIHSEDEFSEDSAS-LRSDFRQQATHSQSADSDRDFTAH-LEANVIGV  414
+
+Query  435  YW  436
+            YW
+Sbjct  415  YW  416
+
+
+
+
+>DUF6414 family protein [Halococcus dombrowskii]
+Sequence ID: WP_244705636.1 Length: 412
+Range 1: 26 to 300
+
+Score:162 bits(409), Expect:3e-41, 
+Method:Compositional matrix adjust., 
+Identities:109/294(37%), Positives:162/294(55%), Gaps:20/294(6%)
+
+Query  26   FDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGF  85
+            F  LREFVY+D+ SV+SLLAST  G + +E  D E     S  +A  +++AGPAS SAG 
+Sbjct  26   FPPLREFVYIDQRSVQSLLASTNSGRVAAEQRDREGNITESRKNASLTLNAGPASASAGG  85
+
+Query  86   SEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLATSELK  145
+                +         ++DLIQS FTRLY  + V QK+SLD     DE  E  + L  ++L+
+Sbjct  86   RNTSQESHETESTYSFDLIQSKFTRLYEHEEVSQKISLD----SDENYELENSLKLTDLE  141
+
+Query  146  RGDVIGLRVNLSANLLFRLYRTIDYFADAFED-QIDSDTEEILELISNSLGNRIPVVGKA  204
+            RGDV+  +  +  + L+RL++ I+Y      D +I  D  + +++I  SLG++IP+  + 
+Sbjct  142  RGDVLEFQGVVQLHSLYRLHQVIEYAETTVSDEEIAGD--DTMQIIEKSLGDKIPIRIE-  198
+
+Query  205  VDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIY  264
+                 V+G      +   EDV    EG++  L VV LL+   LW +PIQTL +  QF ++
+Sbjct  199  -----VDGLS----LSSDEDVLQGTEGEI--LNVVALLDKPALWTEPIQTLASEKQFRVF  247
+
+Query  265  CRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSELQNFTD  318
+            CRVE V+ D WYP+K+ R + S+S+  A+  N      L+       E  N +D
+Sbjct  248  CRVEQVEPD-WYPMKLIRVLQSISQNKAKEFNSNLESRLDAAMASFEESINVSD  300
+
+
+
+
+>DUF6414 family protein [Halobacterium sp. NMX12-1]
+Sequence ID: WP_353634405.1 Length: 410
+Range 1: 21 to 410
+
+Score:144 bits(362), Expect:2e-34, 
+Method:Compositional matrix adjust., 
+Identities:131/421(31%), Positives:203/421(48%), Gaps:44/421(10%)
+
+Query  29   LREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVS--AGFS  86
+            LREF+YLDE+SV SLLAS      ++  + E      +      +     A  S   GF 
+Sbjct  21   LREFIYLDEVSVVSLLAS------LTREITESRTDTETSERQRRTRFRLRAFTSKIPGFG  74
+
+Query  87   EEREHQETKIERRNYDL-----IQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLAT  141
+              REH    I R   ++     IQS F  LY   A + +L  +Q  ID         +  
+Sbjct  75   GTREH--LNINRDTEEVVRKSEIQSKFDELYGETAGKFELGPEQDEID---------IPV  123
+
+Query  142  SELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQI---DSDTEEILELISNSLGNRI  198
+            SEL+ G V+ L +  SA+ L+  Y+   Y  D FE+ +   D + ++ +EL+ +  G++I
+Sbjct  124  SELEEGGVMELDIEFSAHELYHFYKAYQYLFDVFEEHVEEMDQEQKQTVELMGSLFGDQI  183
+
+Query  199  PVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNN  258
+            PVVG+A +Y+VV+ E       RS D+  DE+ + E LEVV  L+ D LW DP   L+  
+Sbjct  184  PVVGEAANYRVVDDE------IRSSDM-IDEDSEAEPLEVVGTLDPDMLWQDPSTFLYEE  236
+
+Query  259  DQFVIYCRVEDVDI-DRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQL--SELQN  315
+            +QF  Y RV + +  D W P+K+TR I S+SE     L+     GL+Q + ++  S+L+ 
+Sbjct  237  NQFTAYVRVPEAEFQDDWDPVKLTRVIRSISEDVGDKLSGMIEFGLKQAKEEIDDSDLEE  296
+
+Query  316  FTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAMETVELGDEVSQTAQRK  375
+                   S +   +D   Y   +E++ +  +  E ++  +  A+      +  S    R 
+Sbjct  297  ----GGGSEVLISEDHNEYFARIEEQGDIEIDGESRQEFVGRAIAERVSSESGSGMETRA  352
+
+Query  376  RVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQSNVVTNSDDEADKYRIEANTVAMY  435
+             VL   TD  E   ++D  D     +LR   T+  +S  V+ S  E  KY +E + VA+Y
+Sbjct  353  EVLREITDLVEDQEDVD-LDRGELSDLRMALTSDQESQDVSIS-TEGGKY-LEVSFVAIY  409
+
+Query  436  W  436
+            W
+Sbjct  410  W  410
+
+
+
+
+>DUF6414 family protein [Natronocalculus amylovorans]
+Sequence ID: WP_250585966.1 Length: 410
+Range 1: 22 to 410
+
+Score:143 bits(360), Expect:3e-34, 
+Method:Compositional matrix adjust., 
+Identities:133/420(32%), Positives:214/420(50%), Gaps:43/420(10%)
+
+Query  29   LREFVYLDEISVRSLLAS----TGEGGIVSETVDEEMR-RRRSGSSAGGSVSAGPASVSA  83
+            LREF+YLDE+SV SLLAS      E    +ET +++ + R R        +  G +  + 
+Sbjct  22   LREFIYLDEVSVVSLLASLTREITESRTDTETTEKQKKWRFRFFIWIKKVLRLGGSRETL  81
+
+Query  84   GFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLATSE  143
+                + E    ++ RR+   IQS F  LY+  A              ELE +      S+
+Sbjct  82   KIDRDTE----EVVRRSK--IQSKFDELYSKTATSF-----------ELESDGERFLVSD  124
+
+Query  144  LKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQ---IDSDTEEILELISNSLGNRIPV  200
+            LK+G V  + +  SA+ L+  Y+   Y  D FE+    +D + E+I+EL+ +  G++IPV
+Sbjct  125  LKKGGVAEIEIEFSAHELYHFYKAYQYLFDVFEEHSEDMDPEQEQIIELMGSLFGDQIPV  184
+
+Query  201  VGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQ  260
+            VGKAV+Y+VV+GE        S DV  D + D E LEVV  L+ + LW D    L+ ++ 
+Sbjct  185  VGKAVNYRVVDGEIC------SSDVLDDHK-DGEALEVVGALDPEMLWQDASTFLYEDNV  237
+
+Query  261  FVIYCRVEDVDI-DRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSELQNFTDW  319
+            F+ Y R+ + ++ + W P+K+TR I S+S+P  + L+   + GL Q + +L E     + 
+Sbjct  238  FMAYVRIPETELQEEWDPVKLTRVIKSISKPVGRRLSGMIQFGLTQAKEELDEANLENES  297
+
+Query  320  SAESAMEWGQDIQ-AYTESLEDEYNKHLSDEEQELLIAEAM-ETVELGDEVSQTAQRKRV  377
+            SA   +   QDI   Y + +ED     + DE +E LI  A+ E + + DE     Q + V
+Sbjct  298  SANGLV---QDIHTTYFDHIEDSARIEIEDEMREELIRSAIAEGIRITDETEMEVQTE-V  353
+
+Query  378  LNAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQSNVVTNSDDEADKYR-IEANTVAMYW  436
+            L   T+  E    +D  D +   +LR +  +  + +VV   + +++K   +E + VA+YW
+Sbjct  354  LKEITNRVEEQEGVD-LDREELSDLRIELVD--EQDVVEEIESQSEKGNYLEVSFVAIYW  410
+
+
+
+
+>DUF6414 family protein [Halalkaliarchaeum sp. AArc-GB]
+Sequence ID: WP_310561852.1 Length: 361
+Range 1: 1 to 361
+
+Score:137 bits(346), Expect:1e-32, 
+Method:Compositional matrix adjust., 
+Identities:115/385(30%), Positives:187/385(48%), Gaps:24/385(6%)
+
+Query  52   IVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRL  111
+            + +E  + E        SA     AGP +V AG +   +         ++DLIQS FTRL
+Sbjct  1    MAAEQTNRESNINTKKHSANVGAGAGPVNVGAGTNRTSQQGNETENVYSFDLIQSKFTRL  60
+
+Query  112  YNSDAVEQKLSLDQIPIDDELEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYF  171
+            Y  + +  ++SL+      EL+EE   L  S+L RG+V+  R  +  + L+R+YR I+Y 
+Sbjct  61   YEHEDISPEISLNA-DGGYELQEE---LQLSKLDRGNVLEFRGTIRLHPLYRVYRAIEYI  116
+
+Query  172  ADAFEDQIDSDTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEG  231
+              A  D+ D  +E  L LI  SLGN+IP+  +      VNG      I  S ++S D +G
+Sbjct  117  DTAAPDEADI-SEGDLRLIEESLGNKIPIEIE------VNG----LSIDGSGNISEDSQG  165
+
+Query  232  DVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDIDRWYPLKVTRAIDSLSEPA  291
+            D     VV LL+   LW +PIQTL ++ QF I+CRVE +  D WYP+K+ R ++S+S   
+Sbjct  166  DA--FNVVALLDETELWTEPIQTLASSRQFRIFCRVESIRPD-WYPMKLIRVLESISSDL  222
+
+Query  292  AQNLNQEFRRGLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQ  351
+            A+  N++    L+    +       TD   E+     Q I+ +TE L +     + D++ 
+Sbjct  223  AETFNEDLESELQAAMDRFEAHVEATD---ENTGVDKQKIREFTEFLAERAESSIEDDQM  279
+
+Query  352  ELLIAEAMETVELGDEVSQTAQRKRVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQ  411
+            + ++  A E       ++   + + +   Y+   E   E + ++D     LR D      
+Sbjct  280  DDIVGHAAEAFSPESSIAFEQEVELLKQVYSSFTEICSEDEFSEDAGS--LRSDFHQQVS  337
+
+Query  412  SNVVTNSDDEADKYRIEANTVAMYW  436
+             +   +SD +   + +EAN + +YW
+Sbjct  338  QSRSDDSDRDFTAH-LEANVIGVYW  361
+
+
+
+
+>DUF6414 family protein [Natronococcus jeotgali]
+Sequence ID: WP_152424788.1 Length: 412
+Range 1: 14 to 277
+
+Score:132 bits(333), Expect:2e-30, 
+Method:Compositional matrix adjust., 
+Identities:96/282(34%), Positives:149/282(52%), Gaps:32/282(11%)
+
+Query  28   DLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFSE  87
+            +LREF+YLD  SV SLLAS  EG I  E V  E    +S    GG ++A  + V A  + 
+Sbjct  14   NLREFIYLDRDSVVSLLASI-EGAIKEEKV--EQIASKSEKRKGGELNASISGVGARING  70
+
+Query  88   ER-EHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLATSELKR  146
+            E+ +  E   E  +   IQS+F +L      + +   D I I D  E+E S     E++R
+Sbjct  71   EKVDMDENSTEVVHNYAIQSLFDQLE-----QHRRKNDDIGIFD--EKETSQKNLREIER  123
+
+Query  147  GDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILELISNSLGNRIPVVGKAVD  206
+             DV+ + V L  + LFR +  + +  + F    +S+ EE+L LI +  G+ +PV GK +D
+Sbjct  124  SDVMKVEVELETHYLFRFHNVLTHLHENFPQASNSEQEELLNLIGSMFGSEVPVSGKLLD  183
+
+Query  207  YKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCR  266
+            Y +++GE     IKR   +SSD +   E L +V  LN++ LW D    LFN +++ ++CR
+Sbjct  184  YHIIDGE-----IKR---ISSDCDERGEPLYIVGHLNIEKLWQDIPNALFNKEEYTVFCR  235
+
+Query  267  VEDVDI-------------DRWYPLKVTRAIDSLSEPAAQNL  295
+            V+ V               D W+P+ + + I+S+S+P AQ +
+Sbjct  236  VKRVYTKDNDQDDNNEKGEDEWHPIDIAQRIESVSKPLAQKI  277
+
+
+
+
+>hypothetical protein [Halolamina salina]
+Sequence ID: MFC6734694.1 Length: 361
+Range 1: 19 to 361
+
+Score:129 bits(325), Expect:1e-29, 
+Method:Compositional matrix adjust., 
+Identities:117/375(31%), Positives:180/375(48%), Gaps:42/375(11%)
+
+Query  72   GSVSAGPASVSAGFSEEREHQETKIERRN---YDLIQSMFTRLYNSDAVEQKLSLDQIPI  128
+             SV AG   V+AG    R  Q+   E  N   +DLIQS FTRLY  + +  ++SL     
+Sbjct  19   ASVGAGSGPVNAGVGTNRTTQQGN-ETENVYSFDLIQSKFTRLYEHEDINPQISLTA---  74
+
+Query  129  DDELEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILE  188
+             D   +   GL  S L RG+V+  R  +  + L+R++R I+Y   A  D+ D  +E  ++
+Sbjct  75   -DGAYDLQDGLELSTLDRGEVLEFRGTIRLHPLYRVFRAIEYIDTAAPDEADI-SEGEMQ  132
+
+Query  189  LISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLW  248
+            LI  SLGN+IP+  + VD   ++ +G          +S   EGD     VV LL+   LW
+Sbjct  133  LIEESLGNKIPIEIE-VDGLSIDEDGR---------ISESSEGDA--FNVVALLDETELW  180
+
+Query  249  VDPIQTLFNNDQFVIYCRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRR  308
+             +PIQTL +N QF I+CRVE +  D WYP+K+ R ++S+S   A+N N +          
+Sbjct  181  TEPIQTLASNKQFRIFCRVESIRPD-WYPMKLIRVLESISSDLAENFNDDLE--------  231
+
+Query  309  QLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAMETV--ELGD  366
+              SELQ   D   E+ +E   +   + E    E+ + L +  +  + A+ ++ V     D
+Sbjct  232  --SELQAAMD-RFEAQVEATTENTGFDEQKLHEFIEFLGERAESSIQADQLDEVVEHAAD  288
+
+Query  367  EVSQTA-----QRKRVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQSNVVTNSDDE  421
+              S  A     Q   +L    D+F  +   D   + +   LR D    A  +   +SD +
+Sbjct  289  AYSPDATVAVEQEVELLKQAYDSFTEIHSEDEFSEDSAS-LRSDFRQQATHSQSADSDRD  347
+
+Query  422  ADKYRIEANTVAMYW  436
+               + +EAN + +YW
+Sbjct  348  FTAH-LEANVIGVYW  361
+
+
+
+
+>DUF6414 family protein [Halobacterium sp. GN101]
+Sequence ID: WP_176705296.1 Length: 435
+Range 1: 51 to 318
+
+Score:130 bits(326), Expect:3e-29, 
+Method:Compositional matrix adjust., 
+Identities:99/287(34%), Positives:152/287(52%), Gaps:21/287(7%)
+
+Query  28   DLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGF-S  86
+            +LREFVYLD  SV SLLAS  EG I  E + E++  R +   AGG V+A  + V A    
+Sbjct  51   ELREFVYLDRDSVVSLLASI-EGAIKQERI-EQIGSRSTKRVAGG-VNASISGVGAKVEG  107
+
+Query  87   EEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLATSELKR  146
+            E+ E  E   E  +   IQS+F +L      ++ + L  I  D+E E     +  SE+ R
+Sbjct  108  EQVEMGENSSEVVHNYAIQSLFDQLDQHRRHDEDVGL--IDSDEETE-----IDVSEVIR  160
+
+Query  147  GDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILELISNSLGNRIPVVGKAVD  206
+            G ++ + V L  + L+R Y+ + Y  +   + +  + E+ILELI +  G +IPV G+ +D
+Sbjct  161  GKILRVDVELETHYLYRFYKVMMYLQENIPEAVVPEDEDILELIESMFGAKIPVSGRVLD  220
+
+Query  207  YKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCR  266
+            Y+V NG        R +    D + D E L +V  LN   LW D    LF+ +++ ++CR
+Sbjct  221  YQVKNG--------RIQPGDPD-DSDGEPLHIVGQLNALKLWQDVPDALFDEEEYTVFCR  271
+
+Query  267  VEDV-DIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSE  312
+            VE+  D + W+PL + + I+++S P AQ L Q   R     + + SE
+Sbjct  272  VEETYDEESWHPLSLAQKIETVSPPLAQLLTQFMERAASLAKEEASE  318
+
+
+
+
+>DUF6414 family protein [Halobacterium salinarum]
+Sequence ID: WP_148265524.1 Length: 400
+Range 1: 51 to 318
+
+Score:127 bits(320), Expect:9e-29, 
+Method:Compositional matrix adjust., 
+Identities:97/287(34%), Positives:151/287(52%), Gaps:21/287(7%)
+
+Query  28   DLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGF-S  86
+            +LREFVYLD  SV SLLAS  EG I  E + E++  R +   AGG V+A  + V A    
+Sbjct  51   ELREFVYLDRDSVVSLLASI-EGAIKQERI-EQIGSRSTKRVAGG-VNASISGVGAKVEG  107
+
+Query  87   EEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLATSELKR  146
+            E+ E  E   E  +   IQS+F +L      ++ + L  I  D+E E     +  SE+ R
+Sbjct  108  EQVEMGENSSEVVHNYAIQSLFDQLDQHRRHDEDVGL--IDSDEETE-----IDVSEVTR  160
+
+Query  147  GDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILELISNSLGNRIPVVGKAVD  206
+            G ++ + V L  + L+R Y+ + Y  +   + +  + E++LELI +  G +IPV G+ +D
+Sbjct  161  GKILRVDVELETHYLYRFYKVMMYLQENIPEAVVPEDEDVLELIESMFGAKIPVSGRVLD  220
+
+Query  207  YKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCR  266
+            Y+V NG        R +    D + D E L +V  LN   LW D    LF+ +++ ++CR
+Sbjct  221  YQVKNG--------RIQPGDPD-DSDGEPLHIVGQLNALKLWQDVPDALFDEEEYTVFCR  271
+
+Query  267  VEDV-DIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSE  312
+            VE+    + W+PL + + I+++S P AQ L Q   R     + + SE
+Sbjct  272  VEETYGEESWHPLSLAQKIETVSPPLAQLLTQFMERAASLAKEEASE  318
+
+
+
+
+>DUF6414 family protein [Halobacterium salinarum]
+Sequence ID: WP_136361237.1 Length: 318
+Range 1: 51 to 317
+
+Score:126 bits(316), Expect:1e-28, 
+Method:Compositional matrix adjust., 
+Identities:98/287(34%), Positives:154/287(53%), Gaps:22/287(7%)
+
+Query  28   DLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGF-S  86
+            +LREFVYLD  SV SLLAS  EG I  E + E++  R +   AGG V+A  + V A    
+Sbjct  51   ELREFVYLDRDSVVSLLASI-EGAIKQERI-EQIGSRSTKRVAGG-VNASISGVGAKVEG  107
+
+Query  87   EEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLATSELKR  146
+            E+ E  E   E  +   IQS+F +L      ++ + L    ID + E E   +  SE+ R
+Sbjct  108  EQVEMGENSSEVVHNYAIQSLFDQLDQHRRHDEDVGL----IDSDEETE---IDVSEVTR  160
+
+Query  147  GDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILELISNSLGNRIPVVGKAVD  206
+            G ++ + V L  + L+R Y+ + Y  +   + +  + E++LELI +  G +IPV G+ +D
+Sbjct  161  GKILRVDVELETHYLYRFYKVMMYLQENIPEAVVPEDEDVLELIESMFGAKIPVSGRVLD  220
+
+Query  207  YKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCR  266
+            Y+V NG        R +    D + D E L +V  LN   LW D    LF+ +++ ++CR
+Sbjct  221  YQVKNG--------RIQPGDPD-DSDGEPLHIVGQLNALKLWQDVPDALFDEEEYTVFCR  271
+
+Query  267  VEDV-DIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSE  312
+            VE+    + W+PL + + I+++S P AQ L Q F+   + +R  +SE
+Sbjct  272  VEETYGEESWHPLSLAQKIETVSPPLAQLLTQ-FQYLTKHSRLAVSE  317
+
+
+
+
+>DUF6414 family protein [Halocalculus aciditolerans]
+Sequence ID: WP_188979693.1 Length: 435
+Range 1: 51 to 321
+
+Score:123 bits(309), Expect:5e-27, 
+Method:Compositional matrix adjust., 
+Identities:95/290(33%), Positives:148/290(51%), Gaps:21/290(7%)
+
+Query  28   DLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGF-S  86
+            +LREFVYLD  SV SLLAS  EG I  E +  E    RS     G V+A  + V A    
+Sbjct  51   ELREFVYLDRDSVVSLLASI-EGAIKQERI--EQIGSRSKERVAGGVNASISGVGAKVEG  107
+
+Query  87   EEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLATSELKR  146
+            E+ E  E+  E  +   IQS+F +L      ++ + L  I  D+E E     +  SE+ R
+Sbjct  108  EQVEMGESSSEVVHNYAIQSLFDQLDKHRRRDEDVGL--IDSDEETE-----VDVSEVIR  160
+
+Query  147  GDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILELISNSLGNRIPVVGKAVD  206
+            G ++ + V L  + L+R Y+ + Y  +   + +  + E++LELI +  G  IPV G+ +D
+Sbjct  161  GKILRVDVELETHYLYRFYKVMMYLQENIPEAVGPEDEDVLELIESMFGAEIPVSGRVLD  220
+
+Query  207  YKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCR  266
+            Y+V +G        R +    D+   V  L +V  LN   LW D    LF+ +++ ++CR
+Sbjct  221  YQVKDG--------RIQPGDPDDSDGVP-LHIVGQLNALKLWQDVPDALFDEEEYTVFCR  271
+
+Query  267  VEDV-DIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSELQN  315
+            VE+  D + W+PL + + I+++S P AQ L Q   R     + + S+  N
+Sbjct  272  VEETYDEESWHPLSLAQKIETVSSPLAQLLTQFMERAAALAKEEASDTVN  321
+
+
+
+
+>DUF6414 family protein [Salinigranum rubrum]
+Sequence ID: WP_162562620.1 Length: 416
+Range 1: 24 to 416
+
+Score:123 bits(308), Expect:6e-27, 
+Method:Compositional matrix adjust., 
+Identities:126/429(29%), Positives:191/429(44%), Gaps:57/429(13%)
+
+Query  29   LREFVYLDEISVRSLLAS-TGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFSE  87
+            LREF+YLDE+SV SLLAS T E       +D    R+R       ++S  P  V  G S 
+Sbjct  24   LREFIYLDEVSVVSLLASLTREVTEARTDIDMTENRKRWRFRLKAALSHLP--VVGGGSA  81
+
+Query  88   ERE-----HQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLATS  142
+             RE         ++ RR+   I+S F  LY   +   +L+              SG++ S
+Sbjct  82   SRETVSVDRDTEEVVRRSQ--IESKFDELYAETSPHLQLTEKDTK---------SGVSVS  130
+
+Query  143  ELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFED---QIDSDTEEILELISNSLGNRIP  199
+             L +G ++ + V  S + LF  Y+   Y  D  ED   + D+  ++ +EL+ +  G++IP
+Sbjct  131  NLSKGGLLEVDVEFSGHELFHYYKAFQYLIDVAEDAEYEFDNQEKQAIELMGSLFGDQIP  190
+
+Query  200  VVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLE---VVTLLNLDNLWVDPIQTLF  256
+            VVG+  DY +V+G   DK          DE GD ED E   +   L+ + LW +P Q L+
+Sbjct  191  VVGELEDYVLVDGAIQDK----------DENGDREDAESLWIAGTLDPEMLWQEPSQFLY  240
+
+Query  257  NNDQFVIYCRVEDVDIDR-WYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSELQN  315
+              ++F  Y RV +  I + W P+K+TR I S+S+P    L+        Q + +      
+Sbjct  241  EENEFTAYVRVSEAQIQKDWDPIKLTRVIKSISKPIGNQLSSVIDAAFSQAKEEFDTAGL  300
+
+Query  316  FTDWSAESAMEWGQDIQAYTESLEDEYNKHL-SDEEQELLIAEAMETVELGDEVSQTAQR  374
+              D   +   E       Y + +E++ N  L SD  +ELL+    ET    DE S     
+Sbjct  301  EEDDPDDIVREHH---NQYFDYIEEDGNLSLSSDRREELLVTAYSETTIQPDE-SNFELE  356
+
+Query  375  KRVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQSNVVTNSDDEAD-------KYRI  427
+             R+L   T   E         D     L  DT    +S ++ N +  AD       +  +
+Sbjct  357  TRLLRELTQVVE---------DDADVNLDRDTLAQRRSRIINNEEGVADSDSNTSNRNYL  407
+
+Query  428  EANTVAMYW  436
+            E + VA+YW
+Sbjct  408  EVSFVAVYW  416
+
+
+
+
+>DUF6414 family protein [Haladaptatus cibarius]
+Sequence ID: WP_049972505.1 Length: 435
+Range 1: 51 to 308
+
+Score:122 bits(307), Expect:1e-26, 
+Method:Compositional matrix adjust., 
+Identities:94/277(34%), Positives:139/277(50%), Gaps:21/277(7%)
+
+Query  28   DLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFSE  87
+            +LREFVYLD  SV SLLAS  EG I  E +  E    RS     G ++A  + V A    
+Sbjct  51   ELREFVYLDRDSVVSLLASI-EGAIKQERI--EQIGSRSEDRVSGGINASISGVGAKVEG  107
+
+Query  88   ER-EHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLATSELKR  146
+            ER E  E   E  +   IQS+F +L      +  L +      DE++        SE++R
+Sbjct  108  ERVEMGENSSEVVHNYAIQSLFDQLDQHRRNDVDLGVLDTNKKDEID-------ISEIER  160
+
+Query  147  GDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILELISNSLGNRIPVVGKAVD  206
+             DV+ + V L  + L+R Y  + Y  +   + +  + E+ LELI +  G+ +PV G+ +D
+Sbjct  161  SDVLRVDVELKTHYLYRFYTVMMYIQENIPESVGLEEEDTLELIESMFGSEVPVSGRVLD  220
+
+Query  207  YKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCR  266
+            Y+V NG        R + V SD   D E L +V  LN   LW D    LF+  ++ ++CR
+Sbjct  221  YQVKNG--------RIQPVESDNP-DGEPLHIVGQLNTMKLWQDIPDALFDGGEYTVFCR  271
+
+Query  267  VEDVDIDR-WYPLKVTRAIDSLSEPAAQNLNQEFRRG  302
+            V+++  D  W PL + + I+++S P AQ L Q   R 
+Sbjct  272  VKELYEDEPWRPLSLAQKIETVSPPLAQALTQFMERA  308
+
+
+
+
+>DUF6414 family protein [Halovenus carboxidivorans]
+Sequence ID: WP_159764184.1 Length: 411
+Range 1: 23 to 411
+
+Score:119 bits(299), Expect:1e-25, 
+Method:Compositional matrix adjust., 
+Identities:117/413(28%), Positives:199/413(48%), Gaps:29/413(7%)
+
+Query  29   LREFVYLDEISVRSLLAS-TGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFSE  87
+            LREFVYLDE SV SLLAS T E        D    +   G+    ++    + V A   E
+Sbjct  23   LREFVYLDETSVVSLLASLTREVTQARTETDTTEEQEGWGAKIKATLPLIGSGVDAHHLE  82
+
+Query  88   EREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLATSELKRG  147
+                 E  + R     IQS F  LY+  + + +L   +  +  +L         S++  G
+Sbjct  83   IDRDTEEVVRRSE---IQSKFDELYSETSSQFELQNGEQDVTRDL---------SDVSEG  130
+
+Query  148  DVIGLRVNLSANLLFRLYRTIDYF---ADAFEDQIDSDTEEILELISNSLGNRIPVVGKA  204
+             V  + V  SA+ LF  Y+  +Y    A+  E + + D ++I+EL+ +  G +IPVVG+ 
+Sbjct  131  GVAEVEVEFSAHELFHYYKAFEYLIDMAEGAEYEFNDDEKQIVELLGSLFGEQIPVVGEV  190
+
+Query  205  VDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIY  264
+              Y++V G+     ++ +E VS DE    E L +V  L+ D +W +  Q LF ++Q+  Y
+Sbjct  191  HGYRLVEGK-----LRPTETVSEDES---EPLLIVGTLDPDMMWQEASQFLFEDNQYTAY  242
+
+Query  265  CRVEDVDI-DRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSELQNFTDWSAES  323
+             R+ + +I D W PLK+TR I S+S      L+      L Q ++++ E  +  + + + 
+Sbjct  243  VRIPEPEIQDEWDPLKLTRVIRSISPRIGDQLSVVLDGALRQAKQEIDET-SIENVAVQD  301
+
+Query  324  AMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAMETVELGDEVSQTAQRKRVLNAYTD  383
+             +        Y + +E+E+   +SDE +  ++ +A E+    ++ S       VL   TD
+Sbjct  302  DL-VNDRHHNYFDYIEEEHEITVSDEYRAQIVEDAYESNNSPEDASDYEIESEVLKDATD  360
+
+Query  384  AFEAMFELDPTDDKTRQELRPDTTNSAQSNVVTNSDDEADKYRIEANTVAMYW  436
+            + E   +++  D ++  + R D  +  Q+  V  S +E   Y +E + VA+YW
+Sbjct  361  SIEEDKDVE-LDRESLSDFRSDILDQQQNGPVPGSSEEDQNY-LEVSFVAIYW  411
+
+
+
+
+>DUF6414 family protein [Halorhabdus rudnickae]
+Sequence ID: WP_135662485.1 Length: 435
+Range 1: 51 to 329
+
+Score:119 bits(299), Expect:1e-25, 
+Method:Compositional matrix adjust., 
+Identities:94/302(31%), Positives:155/302(51%), Gaps:33/302(10%)
+
+Query  28   DLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGF-S  86
+            +LREFVYLD  SV SLLAS  EG I  E + E++  R +   AGG V+A  + V A    
+Sbjct  51   ELREFVYLDRDSVVSLLASI-EGAIKQERI-EQIGSRSTERVAGG-VNASISGVGAKVEG  107
+
+Query  87   EEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSL----DQIPIDDELEEEFSGLATS  142
+            E+ E  E+  E  +   IQS+F +L      ++ + L    ++I +D            S
+Sbjct  108  EQVEMGESSSEVVHNYAIQSLFDQLDQHRQHDEDIGLIDAAERIEVD-----------VS  156
+
+Query  143  ELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILELISNSLGNRIPVVG  202
+            ++ RG ++ + V L  + L+R Y+ + Y  +   + +  + E++L+LI +  G  IPV G
+Sbjct  157  KVTRGKILRVDVELDTHYLYRFYKVMMYLQENIPEAVGPEDEDVLKLIESMFGTEIPVSG  216
+
+Query  203  KAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFV  262
+            + + ++V +G        R +    D + D E L +V  LN   LW D    LF+ +++ 
+Sbjct  217  RVLGFQVRDG--------RIQSGDPD-DSDGEPLRIVGQLNALKLWQDVPDALFDEEEYT  267
+
+Query  263  IYCRVEDV-DIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGL----EQTRRQLSELQNFT  317
+            I+CRVE++ D + W+PL + + I+++S P AQ L +   R      E+   Q S+  +  
+Sbjct  268  IFCRVEEIYDEESWHPLSLAQKIETVSPPLAQLLTEFMERAAALAKEEADNQTSDDVDLC  327
+
+Query  318  DW  319
+            DW
+Sbjct  328  DW  329
+
+
+
+
+>DUF6414 family protein [Haladaptatus pallidirubidus]
+Sequence ID: WP_227777228.1 Length: 435
+Range 1: 51 to 299
+
+Score:118 bits(296), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:87/268(32%), Positives:146/268(54%), Gaps:21/268(7%)
+
+Query  28   DLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFSE  87
+            + REFVYLD  SV SLLAS  EG I  E + E++  + +   AGG V+A  + V A    
+Sbjct  51   EFREFVYLDRDSVVSLLASI-EGAIKQERI-EQIGSQSTKRVAGG-VNASISGVGAKIEG  107
+
+Query  88   ER-EHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLATSELKR  146
+            E+    E+  E  +   IQS+F +L      ++ + L    ID + E   +G+  SE+ R
+Sbjct  108  EKVAMGESSSEVVHNYAIQSLFDQLDQHRRHDEDVGL----IDSDEE---TGVDISEVTR  160
+
+Query  147  GDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILELISNSLGNRIPVVGKAVD  206
+            G+++ + V L  + L+R Y+ + Y  +   + +  + E++LELI +  G  IPV G+ +D
+Sbjct  161  GEILRVDVELETHYLYRFYKVMMYLQENIPEAVGPEDEDVLELIESMFGTEIPVSGRVLD  220
+
+Query  207  YKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCR  266
+            Y+V +G      I+  E   SD     + L +V  LN   LW D    LF+ +++ ++CR
+Sbjct  221  YQVKDGR-----IQPEEPNDSDG----KPLYIVGQLNAMKLWQDVPDALFDEEEYTVFCR  271
+
+Query  267  VEDV-DIDRWYPLKVTRAIDSLSEPAAQ  293
+            VE++ + + W+PL + + ++++S P AQ
+Sbjct  272  VEEIYEEESWHPLSLAQKLETVSPPLAQ  299
+
+
+
+
+>DUF6414 family protein [Halorubrum sp. DTA46]
+Sequence ID: WP_418284841.1 Length: 426
+Range 1: 42 to 320
+
+Score:111 bits(277), Expect:1e-22, 
+Method:Compositional matrix adjust., 
+Identities:97/298(33%), Positives:153/298(51%), Gaps:25/298(8%)
+
+Query  28   DLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGF-S  86
+            +LREFVYLD  SV SLLAS  EG I  E V E++  R +   AGG V+A  + V A    
+Sbjct  42   ELREFVYLDRDSVVSLLASI-EGAIKQERV-EQIGSRSTDRVAGG-VNASISGVGAKVEG  98
+
+Query  87   EEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLATSELKR  146
+            E  E  E+  E  +   IQS+F +L      +  + L    ID + + E   +  S++ R
+Sbjct  99   EHVEMGESSSEVVHNYAIQSLFDQLDKHRRHDDDVGL----IDSDGDPE---IDLSKITR  151
+
+Query  147  GDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILELISNSLGNRIPVVGKAVD  206
+            G ++ ++V L  + L+R Y+ + Y  +   + +  + E++LEL+ +  G  IPV G+ +D
+Sbjct  152  GKILRVKVELETHYLYRFYKVMMYLQENIPEAVGPEEEDVLELVESMFGTEIPVSGRVLD  211
+
+Query  207  YKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCR  266
+            Y V +G      I+  E    D  G  E L +V  LN   LW D    LF+ +++ ++CR
+Sbjct  212  YHVKDGR-----IQPGE--PDDSCG--EPLHIVGQLNALKLWQDVPDALFDGEEYTVFCR  262
+
+Query  267  VEDV-DIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSELQN----FTDW  319
+            V++  + + W+PL + + I+++S P AQ L Q   R     + + SE  N      DW
+Sbjct  263  VQETYEEESWHPLSLAQKIETVSPPLAQILTQFIERAATLAKEEASEQYNGDVGLDDW  320
+
+
+
+
+>DUF6414 family protein [Halopiger xanaduensis]
+Sequence ID: WP_013878516.1 Length: 449
+Range 1: 37 to 449
+
+Score:110 bits(274), Expect:3e-22, 
+Method:Compositional matrix adjust., 
+Identities:121/446(27%), Positives:203/446(45%), Gaps:71/446(15%)
+
+Query  29   LREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFSEE  88
+            LREFVYLDE SV SL+AST  G  ++E      RR+ SGS  GG +    +S++A     
+Sbjct  37   LREFVYLDETSVISLIASTTGG--ITEQKSTVKRRQISGSIKGG-LGDKTSSLNANIGAT  93
+
+Query  89   REHQETKIERRNYDLIQSMFTRLYN--------SDAVEQKLSL-----DQIPIDDELEEE  135
+            +E     + R    +IQS F  LY         SD  E   S+     D++  +DE E  
+Sbjct  94   KESSSEAVRRY---VIQSNFKELYEMRADDMVISDEYEPHASVPRRIWDRLTSNDEPEP-  149
+
+Query  136  FSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAF-------EDQIDSDTEE---  185
+               L   +  RG +  + VNL ++ ++  Y  +   A+ F       E     DTEE   
+Sbjct  150  ---LTEVDFDRGSLAEVNVNLGSHEVYDFYTAVGSMAEMFDLFPEESEFSRHLDTEEFSM  206
+
+Query  186  -----ILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVT  240
+                   ELI + L   +P+VG+  +Y V+  +  D+ I   ED  S+ +   E L +V 
+Sbjct  207  RELEAFSELIEHLLAGLVPIVGEVENYGVIVED--DEPIIVHEDYVSEYQNKCEPLNIVG  264
+
+Query  241  LLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRAIDSLSEPAAQNLNQEF  299
+             +N D  W +  + LF++D++ +YCR++  ++ D W P+K+   +DS+            
+Sbjct  265  FVNSDKFWQEETRFLFDDDEYTVYCRLDSDEVSDEWMPIKLLSVVDSIV-----------  313
+
+Query  300  RRGLEQTRRQLSELQNFTDWSAESAMEWGQDI------QAYTESLEDEYNKHLSDEEQEL  353
+              GL ++   + E   F D +  + ++ G +I      ++Y + LE E N ++S EE E 
+Sbjct  314  -SGLGESIYDIPE--TFEDANPGAPVDEGNEIELRPRLESYLDELEGESNLNVSAEEAED  370
+
+Query  354  LIAEAM-ETVELGDEVSQTAQRKRVLNAYTDAFEAMFELDPT--DDKTRQELRPDTTNSA  410
+            ++   + +T E    +    +    L +  D+    +ELD +  DD     L  +    A
+Sbjct  371  VVQSVLSDTGETTSRIEGIEEAVEKLESELDSRSHDYELDESKRDDLIDAILSREFETLA  430
+
+Query  411  QSNVVTNSDDEADKYRIEANTVAMYW  436
+            +         E +++ +E +  A+YW
+Sbjct  431  RGG-------ERNEWYLEVSFTAIYW  449
+
+
+
+
+>DUF6414 family protein [Haloarcula marismortui]
+Sequence ID: WP_152418982.1 Length: 416
+Range 1: 1 to 416
+
+Score:109 bits(273), Expect:4e-22, 
+Method:Compositional matrix adjust., 
+Identities:118/441(27%), Positives:192/441(43%), Gaps:58/441(13%)
+
+Query  29   LREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVS-AGFSE  87
+            +REFVYLD  ++ SLLAST  GGI  +    + + R S S  GG    GP   +  G SE
+Sbjct  1    MREFVYLDNQALISLLASTT-GGITEQKTTGQ-KERISSSITGG---IGPVKANIGGQSE  55
+
+Query  88   EREHQETKIERRNYDLIQSMFTRLYNS-------DAVEQKLSLDQIPIDDELEEE-----  135
+            E   Q ++       +IQS F   Y          A  +  S     I D +  E     
+Sbjct  56   EYSEQTSRF------VIQSNFKEFYEMREEELLVSAGSEGESKPDFLISDSINREDIDTI  109
+
+Query  136  FSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFE--------------DQIDS  181
+             S        RG +  L V+L +  +F  YR    F D  E              + + S
+Sbjct  110  SSECCVKRFTRGSLAELDVHLGSAEVFDYYRVTQAFEDVLESFSTDEELQKQLQQEGVTS  169
+
+Query  182  DTEEIL-ELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVT  240
+                +L ELI   L   IP+ G+ VDY VV GE +  ++ R E   S  E + +   V  
+Sbjct  170  SKARMLNELIDVLLAGLIPIQGELVDYGVVEGETN--ILVRKEWAES-REIEYKQCHVAG  226
+
+Query  241  LLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRAIDSLSEPAAQNLNQEF  299
+             +N DNLW DP + LF++++F IY R++  ++ + W P+K+   +D        N+  E 
+Sbjct  227  FINEDNLWQDPTRVLFDDNKFTIYSRIDSPNLSNEWIPMKLVDVVD--------NVFSES  278
+
+Query  300  RRGLEQTRRQLSELQNFTDWSAESAMEWG--QDIQAYTESLEDEYNKHLSDEEQELLIAE  357
+              G+E          +++  S E  +      D++ Y ES+E+   +H S E+++ +++ 
+Sbjct  279  AEGIENFPELFKSTNDYSPQSGEQIIPTPIDDDLKNYLESIEE---QHTSIEDKDEIVSS  335
+
+Query  358  AMETVELGDEVSQTAQRK--RVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQSNVV  415
+             +  +++ D  S  ++R   R L+ Y       +E     +    E       S + +  
+Sbjct  336  VLTEMDIEDTQSVQSRRDSLRELDQYLQEHIDGYEDWSNSEAGYDEFLEQQWQSGEDHGE  395
+
+Query  416  TNSDDEADKYRIEANTVAMYW  436
+             +   E+D Y +E + +A+YW
+Sbjct  396  ASESTESDIYYLETSFIAIYW  416
+
+
+
+
+>DUF6414 family protein [Halorubrum lacusprofundi]
+Sequence ID: WP_422652236.1 Length: 354
+Range 1: 4 to 237
+
+Score:107 bits(267), Expect:9e-22, 
+Method:Compositional matrix adjust., 
+Identities:77/250(31%), Positives:125/250(50%), Gaps:18/250(7%)
+
+Query  65   RSGSSAGGSVSAGPASVSAGF-SEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSL  123
+            RS     G V+A  + V A    E+ E  E   E  +   IQS+F +L      ++ + L
+Sbjct  4    RSTKRVAGGVNASISGVGAKVEGEQVEMGENSSEVVHNYAIQSLFDQLDQHRRHDEDVGL  63
+
+Query  124  DQIPIDDELEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDT  183
+                ID + E E   +  SE+ RG ++ + V L  + L+R Y+ + Y  +   + +  + 
+Sbjct  64   ----IDSDEETE---IDVSEVIRGKILRVDVELETHYLYRFYKVMMYLQENIPEAVGPED  116
+
+Query  184  EEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLN  243
+            E++LELI +  G  IPV G+ +DY+V NG        R +    D + D E L +V  LN
+Sbjct  117  EDVLELIESMFGAEIPVSGRVLDYQVKNG--------RIQPGDPD-DSDGEPLHIVGQLN  167
+
+Query  244  LDNLWVDPIQTLFNNDQFVIYCRVEDV-DIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRG  302
+               LW D    LF+ +++ ++CRVE+  D + W+PL + + I+++S P AQ L Q   R 
+Sbjct  168  ALKLWQDVPDALFDEEEYTVFCRVEETYDEESWHPLSLAQKIETVSPPLAQLLTQFMERA  227
+
+Query  303  LEQTRRQLSE  312
+                + + SE
+Sbjct  228  AALAKEEASE  237
+
+
+
+
+>DUF6414 family protein [Haladaptatus sp. NG-WS-4]
+Sequence ID: WP_458186284.1 Length: 443
+Range 1: 5 to 443
+
+Score:108 bits(269), Expect:1e-21, 
+Method:Compositional matrix adjust., 
+Identities:134/476(28%), Positives:215/476(45%), Gaps:82/476(17%)
+
+Query  6    IRQRLHSVVTRI-QRW------LARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVD  58
+            IR  +++V   + +RW         +   +LREFVY+DE ++ SLLAST  GGI  +   
+Sbjct  5    IRNGVYAVWWWVLRRWNGLKGLFGFSSLPELREFVYIDEEALISLLAST-TGGITQQRTT  63
+
+Query  59   EEMRRRRSGSSAGGSVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVE  118
+               +R R  SS  GS+  GP + S G   E+  Q      R Y ++QS F   Y  D   
+Sbjct  64   --TQRERISSSIKGSL--GPLTSSIGSESEKATQAV----RKY-VVQSNFKEFY--DMRS  112
+
+Query  119  QKLSLDQIPID-----------DELEEEFSGL---ATSELKRGDVIGLRVNLSANLLFRL  164
+              L++   P D           DE+ E    L    T+EL RG+++ L V L ++ ++  
+Sbjct  113  GDLTITDNPADPPGVYVAAADSDEVREVAPNLDASRTTELARGELLELDVTLGSSKIY--  170
+
+Query  165  YRTIDYFA--DAFEDQIDS-DTEE------------------ILELISNSLGNRIPVVGK  203
+                DYF    AFE  IDS  TEE                  I++L+   +  +IPV  +
+Sbjct  171  ----DYFKVFGAFEQIIDSFSTEEEMRQQLREQNVSSEKVAMIIDLMDTLMAGQIPVECR  226
+
+Query  204  AVDYKVVNGEGHDKVIKRSEDVSSDEEGDVE--DLEVVTLLNLDNLWVDPIQTLFNNDQF  261
+              +Y VV  E H  V+ + E     EE D+E  + + V  ++  NLW DP Q LF  D+F
+Sbjct  227  ISNYAVV--EDHQDVLVQKEWA---EENDIEYTECKAVGFIDEKNLWQDPTQVLFEEDEF  281
+
+Query  262  VIYCRVED-VDIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSELQNFTDWS  320
+             IY RV++ V    W PLK+   +        QN+       LE  +  L + +    ++
+Sbjct  282  TIYGRVDNPVPASEWNPLKLVDVV--------QNVLPGLGDELEGLQSNLEDAEISNRYT  333
+
+Query  321  AESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAMETVELGDEVSQTAQRKRVLNA  380
+            ++   E  ++++ Y + + DE  K LS+  +  +I     +    D +S+ A++    +A
+Sbjct  334  SDGEFE--EELERYLDWVADENGKTLSEGTKATVIESITPST---DTISRGAKKDLFASA  388
+
+Query  381  YTDAFEAMFELDPTDDKTRQELRPDTTNSAQSNVVTNSDDEADKYRIEANTVAMYW  436
+                 E   E      + R E       S QS ++ +++ ++D+  +  N VA+YW
+Sbjct  389  EQKLSEVADEEMGVSAERRAEYLGKEWQSEQSALI-DTEGQSDEKYLMTNFVAIYW  443
+
+
+
+
+>DUF6414 family protein [Natrinema sp. 1APR25-10V2]
+Sequence ID: WP_310909212.1 Length: 412
+Range 1: 35 to 297
+
+Score:107 bits(268), Expect:1e-21, 
+Method:Compositional matrix adjust., 
+Identities:95/291(33%), Positives:148/291(50%), Gaps:44/291(15%)
+
+Query  29   LREFVYLDEISVRSLLASTGEGGIV------SETVDEEMRRRRSGSSAGGSVSAGPASVS  82
+            LREF+YLDE SV SLLAS  EG I       SE+V+ E+ +   G S  G+   G   ++
+Sbjct  35   LREFIYLDETSVVSLLASL-EGEITESLITRSESVNRELGKSNKGLSYKGT---GYNRIN  90
+
+Query  83   AGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLATS  142
+               + ER   ET I+R    +IQS F  LY S         +Q+ +  E      GL   
+Sbjct  91   ESETLERSGSET-IQRS---VIQSRFDELYESRQ-------NQLLLPSE-----EGLEVE  134
+
+Query  143  ELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFED------QIDSDTEEILELISNSL--  194
+            E+ R ++I L   ++    +R+++ ++Y  + FED       I+    E L+ +S  L  
+Sbjct  135  EVTRSEIIELDGYVNVAESYRVFKILEYLTNTFEDIEELQESIEDIPREELDAVSGFLSS  194
+
+Query  195  --GNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPI  252
+              GN++PV   A +Y++V  EGH   I+   ++ S EEG  + + +V  LN D+LW DP+
+Sbjct  195  LFGNQVPVKIDAANYRIV--EGH---IQHIHNLDSAEEG--KPISIVAYLNRDSLWDDPL  247
+
+Query  253  QTLFNNDQFVIYCRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGL  303
+                +N +F IY RV   ++D W PL++TR ++      A+ +N   +  L
+Sbjct  248  TVFSDNTEFTIYGRVISNEVD-WTPLRLTRVLEDHFPDQARQVNMALKTAL  297
+
+
+
+
+>DUF6414 family protein [Georgenia sp. EYE_87]
+Sequence ID: WP_248258843.1 Length: 455
+Range 1: 30 to 455
+
+Score:105 bits(261), Expect:2e-20, 
+Method:Compositional matrix adjust., 
+Identities:116/445(26%), Positives:194/445(43%), Gaps:55/445(12%)
+
+Query  28   DLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFSE  87
+            DLREFVYLDE+S+RSLL+S  +GG+   T   E     S ++  G+VSA    +     E
+Sbjct  30   DLREFVYLDEVSLRSLLSSQ-KGGVTDST--SEQATDASEAALAGTVSASSPLIGKAGVE  86
+
+Query  88   ER--EHQETKIERRNYDLIQSMFTRLYNSDAVEQ-KLSLDQIPIDDELEEEFSGLA----  140
+             R      + I+      +QS F   +    +   +L     P  D  E    G A    
+Sbjct  87   SRYQTSNSSTIQTSRKATVQSWFREFHEIKGLRLIELVKPSNPARDLAELNGVGEASLRA  146
+
+Query  141  -TSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQID-----------SDTEEILE  188
+             T +L+RG ++  RV LSA+ +F L   +  F    ED  D            + + I +
+Sbjct  147  RTDQLQRGTLVEYRVRLSADPVFHLGTMVSEFTGMAEDYPDMFAGGNGLGSLKEVQPINK  206
+
+Query  189  LISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLW  248
+            ++   L   IP+   +VDY VV  +G + V+ R   +        + L+VV +      W
+Sbjct  207  ILQRLLAGLIPIRATSVDYVVVELDGIEYVVHRG--LIDGLNLATKPLQVVGVTEHLAYW  264
+
+Query  249  VDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTR  307
+             D  + LF++ +F + CRV    + D W P+K+     +++    + +N   +       
+Sbjct  265  KDIRRVLFSDAEFTMLCRVSRPGLHDSWTPVKLADLFRTVTPNLVEQINAAGKVPFGSVG  324
+
+Query  308  RQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDE---EQELLIAEAMETVEL  364
+               +   N T  +A         +QAYT+S++ +  K+L+D+   E +LLIA       L
+Sbjct  325  AGRAGNVNETRLAAA--------LQAYTDSVQADIGKNLTDDQAAEVDLLIA------RL  370
+
+Query  365  GDEVSQTAQRKRVLNAYTDAFEAMFELDP-------TDDKTRQE----LRPDTTNSAQSN  413
+              + +  + ++      TD  E +    P         D+ RQ+    L P  T +A + 
+Sbjct  371  KPDATTVSGQRAAFGTLTDTLEKLLGSRPEAARALELRDEARQKAGLSLFPAVTAAALTT  430
+
+Query  414  VVTNS-DDEADKYR-IEANTVAMYW  436
+            V   + D+ AD  R ++ + +A+YW
+Sbjct  431  VSAQAPDNPADAARLLDVDVIAIYW  455
+
+
+
+
+>DUF6414 family protein [Halobacterium salinarum]
+Sequence ID: WP_170245794.1 Length: 413
+Range 1: 34 to 298
+
+Score:104 bits(259), Expect:3e-20, 
+Method:Compositional matrix adjust., 
+Identities:94/293(32%), Positives:150/293(51%), Gaps:44/293(15%)
+
+Query  27   DDLREFVYLDEISVRSLLASTGEGGIV------SETVDEEMRRRRSGSSAGGSVSAGPAS  80
+            D LREFVYLDE SV SLLAS  EG I       SE+V+ E+ + + G S  G+   G   
+Sbjct  34   DHLREFVYLDETSVVSLLASL-EGEITESLITRSESVNRELGKSKKGLSVKGT---GYNR  89
+
+Query  81   VSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLA  140
+            V+   + ER   ET I+R    +IQS F  LY S   +  L     P +D       G+ 
+Sbjct  90   VNESETLERSGSET-IQR---SVIQSRFDELYESRRNQLLL-----PSED-------GID  133
+
+Query  141  TSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQ------IDSDTEEILELISNSL  194
+              +++R ++I L   ++    +R+++ I+Y  D FED       ++  + E  E IS  L
+Sbjct  134  REDIQRREIIKLDGCVNVAKSYRIFKIIEYLVDTFEDMEGLGDSVEDISNEEFEAISGFL  193
+
+Query  195  ----GNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVD  250
+                GN+IPV  +AV+Y++     ++  ++  +++ S E+G+   + +V  LN D+LW D
+Sbjct  194  SSLYGNQIPVTVEAVNYRI-----YEDRVEHIQNLDSVEQGN--PISMVAYLNRDSLWDD  246
+
+Query  251  PIQTLFNNDQFVIYCRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGL  303
+            P+     + +F IY RV    +D W PL++TR ++      A+ +N   +  L
+Sbjct  247  PLTVFSEDTEFTIYGRVITDKVD-WNPLRLTRVLEEHFPDQAKQVNIALKTTL  298
+
+
+
+
+>DUF6414 family protein [Cellulosimicrobium funkei]
+Sequence ID: WP_251177161.1 Length: 460
+Range 1: 5 to 460
+
+Score:103 bits(256), Expect:9e-20, 
+Method:Compositional matrix adjust., 
+Identities:120/469(26%), Positives:212/469(45%), Gaps:60/469(12%)
+
+Query  15   TRIQRWLARN------------QFDDLREFVYLDEISVRSLLAS-TGEGGIVSETVDEEM  61
+            TRI+RWL R             Q   LREFVYLDE+S+RSLL+S TGE   V+++  E++
+Sbjct  5    TRIKRWLRRPKRTADPDMPQALQESPLREFVYLDEVSLRSLLSSQTGE---VTDSTSEQL  61
+
+Query  62   RRRRSGSSAGGSVSAGPASVSAG--FSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQ  119
+                S +   G++ A P  V+     S+ +    + I+      +QS F   +    + +
+Sbjct  62   SDALS-TELSGTIGANPGLVAKAELASKFQTSNSSSIQTSRKATVQSWFREFHAISGLRR  120
+
+Query  120  ------KLSLDQIPIDDELEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYF--  171
+                    S D IP  +++++      +++L+RGD++  RV L A+ +F L   +  F  
+Sbjct  121  IEPTSVSRSADDIPALEKVDDPALASKSADLRRGDLVEFRVRLKADPVFHLGTMVSEFSA  180
+
+Query  172  -ADAFEDQIDS--------DTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRS  222
+             A+ F D  ++        + + + +++   L   IP+  +A+DY V   EG + V+ + 
+Sbjct  181  MAEDFPDMFEAGNGLESLREAQPVNKILQRLLAGLIPIRAEAIDYSVAVIEGTEYVVHK-  239
+
+Query  223  EDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVT  281
+            E ++     DV+ LE+V +      W D  + LF++ +F +  RV    + D W P+K+ 
+Sbjct  240  ELIAGLPLDDVKRLEIVGVTEHLAYWKDIRRVLFSDAEFTLLARVARSGLEDSWTPVKLA  299
+
+Query  282  RAIDSLSEPAAQNLNQEFRRGLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDE  341
+                 ++      +N   R       + L+        + ESA+     +  Y++SL  E
+Sbjct  300  DLFRQVAPSLVDQINAASREPFNGAPQLLAPAS-----TPESAL--ANALMKYSDSLLKE  352
+
+Query  342  YNKHLSDEEQELLIAEAMETVE-LGDEVS--QTAQR--KRVLN---AYTDAFEAMFELDP  393
+              K L+ +  +L + + + ++E LG  VS  +TA R  K +L        A E   EL  
+Sbjct  353  SGKKLT-KAGKLQLTQRVNSLESLGGSVSDQRTAFRSVKELLGELAGVAVAPERDLELRE  411
+
+Query  394  TDDKTR-----QELRPDTTNSAQSNVVTNSDDEADKYR-IEANTVAMYW  436
+            T            L    + +A ++V+  S   A   R ++   +A+YW
+Sbjct  412  TARAAAALPIFPALSHGRSTAASTSVIAQSASPAASERLLDVEVIAIYW  460
+
+
+
+
+>MULTISPECIES: DUF6414 family protein [unclassified Haladaptatus]
+Sequence ID: WP_395284245.1 Length: 449
+Range 1: 37 to 449
+
+Score:100 bits(250), Expect:5e-19, 
+Method:Compositional matrix adjust., 
+Identities:114/435(26%), Positives:197/435(45%), Gaps:49/435(11%)
+
+Query  29   LREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFSEE  88
+            LREFVYLDE SV SL+AST  G  V+E      RR+ SGS  GG     P  ++      
+Sbjct  37   LREFVYLDETSVVSLIASTTGG--VTEQKSTVKRRQISGSIKGGLGGKNPL-LNGNIGGT  93
+
+Query  89   REHQETKIERRNYDLIQSMFTRLYN--------SDAVEQKLSLDQIPIDDELEEEFSGLA  140
+            RE     + R    +IQS F  LY         +D  + KLS+ +   +  L +      
+Sbjct  94   RERSSEAVRRY---VIQSNFKELYEMRAEDMVIADEYDPKLSIPKRIWNRILGKSNERTF  150
+
+Query  141  TSELK--RGDVIGLRVNLSANLLFRLYRTIDYFADAF-------------EDQIDS--DT  183
+             SE+   RG +  + +NL ++ ++  Y  +   A+ F             EDQ  S    
+Sbjct  151  DSEVDFVRGSLAEVNINLGSHEVYDFYTAMASIAEMFDTFPKIEELEGNIEDQELSLEKL  210
+
+Query  184  EEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLN  243
+            E   +LI + +   +P+VG+ VDY V+  +   +++  S++ + +   +++ L +V  ++
+Sbjct  211  EAFSDLIEHLMAGLVPIVGEVVDYGVLVRDESAEIV--SKEYAEENNIELDRLNIVGFVD  268
+
+Query  244  LDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRAIDSLSEPAAQNLNQEFRRG  302
+             D  W +  + LF++D++ +YCR++  ++ D W P+K+   +DS+     ++        
+Sbjct  269  SDKFWQEETRFLFDDDEYTVYCRLDSEEVSDDWMPIKLIAVVDSILSGTGES--------  320
+
+Query  303  LEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAMETV  362
+            LE       + +N T  S ++ ++    ++ Y E LE E N  +     E   AE +  +
+Sbjct  321  LEDIPDMFEKDENDTVISNKTDLDLRSRLEDYLEVLETEANLEI-----ESGTAEEVLEI  375
+
+Query  363  ELGDEVSQTAQRKRVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQS-NVVTNSDDE  421
+             L D V  T QR   +    +  E   E    D     + R DT ++  S +  T +  E
+Sbjct  376  TLQD-VGGTTQRLEGVEESIERLEKELESKNIDYNLSDDTRADTIDNLLSRDFDTITKHE  434
+
+Query  422  ADKYRIEANTVAMYW  436
+               + +E +  A+YW
+Sbjct  435  KRDWYLEVSFTAIYW  449
+
+
+
+
+>DUF6414 family protein [Halomicrobium salinisoli]
+Sequence ID: WP_226011750.1 Length: 457
+Range 1: 28 to 320
+
+Score:100 bits(248), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:90/307(29%), Positives:143/307(46%), Gaps:42/307(13%)
+
+Query  17   IQRWLARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSA  76
+            ++ WL  +    LREFVY+D  ++ SLLAST  GGI  +    + + R S S  GG    
+Sbjct  28   LRAWLGLDTLPPLREFVYIDNQALISLLAST-TGGITEQKTTGQ-KERISSSITGG---V  82
+
+Query  77   GPASVS-AGFSEEREHQETKIERRNYDLIQSMFTRLYN-------SDAVEQKLSLDQIPI  128
+            GP S +  G SEE   Q ++       +IQS F   Y        S A  ++   D +  
+Sbjct  83   GPISATVGGNSEEYSEQTSRF------VIQSNFKEFYEMRKDDIISSADSEEGPPDFLIG  136
+
+Query  129  DDELEEEFSGLA----TSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFED-------  177
+             D    E   +       +  RG ++ L V L +  +F  YR I  F +  E        
+Sbjct  137  SDVTASEVDAIQPDSRVEQYDRGSLVELEVLLGSAEVFDYYRVIQAFEEIVESFTSNEEL  196
+
+Query  178  -------QIDSDTEEIL-ELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDE  229
+                    + SDT  I  ELI   L   IP+ G+ V+Y V++ +  + V+ R E ++   
+Sbjct  197  QQQLQQEGVTSDTVRIFNELIDLLLAGLIPIQGELVNYGVLDNQ--ENVLIRKE-LAQSL  253
+
+Query  230  EGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDIDR-WYPLKVTRAIDSLS  288
+            + +  +      ++ DNLW DP + LF+N QF I+ RV+D ++ + W P+K+   ++++ 
+Sbjct  254  DLEYHECHATGFISEDNLWQDPTRVLFDNSQFTIFSRVDDPELSKEWTPMKLVSVVNTVF  313
+
+Query  289  EPAAQNL  295
+              A QN+
+Sbjct  314  SDADQNI  320
+
+
+
+
+>DUF6414 family protein [Halobacterium salinarum]
+Sequence ID: WP_285271123.1 Length: 423
+Range 1: 1 to 423
+
+Score:99.4 bits(246), Expect:1e-18, 
+Method:Compositional matrix adjust., 
+Identities:129/456(28%), Positives:193/456(42%), Gaps:69/456(15%)
+
+Query  17   IQRWLARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSA  76
+            ++ WL      +LREFVY+DE ++ SLLAST  GGI  +      +R R  SS  GS+  
+Sbjct  1    MRGWLGLTSLPELREFVYIDEDALISLLAST-TGGITQQRTT--TQRERISSSIKGSL--  55
+
+Query  77   GPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPID-------  129
+            GP   S G  +E+  Q      R Y +IQS F   Y  D     +S+   P D       
+Sbjct  56   GPLGSSIGSEKEKATQAV----RRY-VIQSNFKEFY--DMRSGDISITDDPDDPPGVYVA  108
+
+Query  130  ----DELEEEFSGL---ATSELKRGDVIGLRVNLSANLLFRLYRTIDYFA--DAFEDQID  180
+                +++ +   GL    T+EL RG +  L V L ++   R+Y   DYF    AFE+ ID
+Sbjct  109  AADSEQIRQVAPGLDSSRTTELSRGRLFELDVTLGSS---RIY---DYFKVFGAFEEIID  162
+
+Query  181  S-DTEE------------------ILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKR  221
+            S  TEE                  I++L+   +   +P+     +Y V        V K 
+Sbjct  163  SFSTEEEVRQQLRRQNVSSEKIAMIIDLMDTLMAGLVPIECTISNYGVAQDNQEVLVHKE  222
+
+Query  222  SEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVED-VDIDRWYPLKV  280
+              D +  E    E+   V  ++ DNLW DP + LF  D+F IY R++D +    W PLK+
+Sbjct  223  WADTNGIE---YEECRAVGFIDEDNLWQDPTEVLFERDEFTIYGRIDDPIPSTEWNPLKL  279
+
+Query  281  TRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLED  340
+               + S+  P   N     +  LE      S   N  D S E  +E       Y   + +
+Sbjct  280  VDVVQSIL-PELGNELGNLQTDLEDPE---SSSTNHGDQSVEDELE------NYLGWIAE  329
+
+Query  341  EYNKHLSDEEQELLIAEAMETVELGDEVSQTAQRKRVLNAYTDAFEAMFELDPTDDKTRQ  400
+            E    LSDE ++ +I      V   + +  +A+++   +A     E + E      + R 
+Sbjct  330  EQGTTLSDESKKAVIESVGPPVL--NPLPLSAKKELFESAERTLSEEVDEDMEVSAEQRA  387
+
+Query  401  ELRPDTTNSAQSNVVTNSDDEADKYRIEANTVAMYW  436
+            E         QS       ++AD+  +  N VA+YW
+Sbjct  388  EYLSQVWQPRQSGEENEKGNQADENYLTTNFVAIYW  423
+
+
+
+
+>hypothetical protein [Chloroflexota bacterium]
+Sequence ID: MEW6284759.1 Length: 462
+Range 1: 4 to 310
+
+Score:98.6 bits(244), Expect:3e-18, 
+Method:Compositional matrix adjust., 
+Identities:89/322(28%), Positives:153/322(47%), Gaps:50/322(15%)
+
+Query  1    MTRLKIRQRLHSVVTRIQRWLARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEE  60
+            +TRL+++ R        +RW A+N+   LREFVYLDE+SV SL+AS   G I +E  D E
+Sbjct  4    LTRLRMQFRQWR-----RRWAAKNEKGVLREFVYLDEVSVYSLIASR-LGPIAAEFTDTE  57
+
+Query  61   MRRRRS--GSSAGGSVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVE  118
+                +S  GSS G  V      V++     + +  +++ R++  ++Q+ F  LY  +   
+Sbjct  58   TSSLQSEIGSSIGAGVGIAKVDVNSKILNNQTNG-SQVLRKS--IVQTTFKDLYEYEL--  112
+
+Query  119  QKLSLDQIPID------DELEEEFSGLATS----------ELKRGDVIGLRVNLSANLLF  162
+              LS+  IP D        ++E  +   TS           L RG++  L V L A+ +F
+Sbjct  113  DSLSIQPIPGDLKPPKIHNIDELLAATRTSVDRYWIVDPINLSRGELFELEVQLEADPIF  172
+
+Query  163  RLYRTIDYFADAFEDQIDSDTE--------------EILELISNSLGNRIPVVGKAVDYK  208
+            R    ++  A A  + ++ D E               +  ++   LG  +P+ GKA+DY 
+Sbjct  173  R----VNAVASAILEILEEDAETFGLDANGDLNQMKSVGRILDKLLGGLVPISGKAIDYC  228
+
+Query  209  VVNGEGHDKVIKRS--EDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCR  266
+            VV  EG + ++ R   +D+ S ++     + VV +      W D  + LF+N ++ + CR
+Sbjct  229  VVELEGKEWIVNRKLLQDLPSTDQPITYPVFVVGVAEQALFWKDLRRILFSNARYRVLCR  288
+
+Query  267  VEDVDID-RWYPLKVTRAIDSL  287
+            +    +   W P+K+   ++S+
+Sbjct  289  IGQTGLQTSWTPVKLAHVLESV  310
+
+
+
+
+>DUF6414 family protein [Natronococcus jeotgali]
+Sequence ID: WP_008422303.1 Length: 447
+Range 1: 23 to 307
+
+Score:97.8 bits(242), Expect:5e-18, 
+Method:Compositional matrix adjust., 
+Identities:88/302(29%), Positives:149/302(49%), Gaps:48/302(15%)
+
+Query  17   IQRWLARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSA  76
+            I+  L    + DL+EFVYLD+ ++ SLL+ST  GGI  +      +++R  SS  GS+  
+Sbjct  23   IKERLGFTSYPDLKEFVYLDQTALISLLSST-TGGITQQKTSS--QKQRISSSITGSL--  77
+
+Query  77   GPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYN--------SDAVEQKLSLDQIPI  128
+            GP   S G   E E + T+  ++   +IQS F  LY         SD V+ +  +D   I
+Sbjct  78   GPIGASVG---EEEQKSTETVQKY--VIQSNFKELYEIRKKDLAISDYVDLQPDVDAAAI  132
+
+Query  129  ---DDELEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDS-DTE  184
+               D E  ++ S      L RGD+I +   LS++ ++  ++      DAFED ++S  TE
+Sbjct  133  ENADTETLKQESSPEIQTLSRGDLIEVDATLSSSDIYEYFQVF----DAFEDIVESFSTE  188
+
+Query  185  E------------------ILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVS  226
+            E                  ILEL+   +   +P+  K  +Y V    G D+ I   ++ +
+Sbjct  189  EEFQQQLREQGVSTDEIAMILELMEILMAGLVPIECKVSNYGVY---GEDQNIIVDKNWA  245
+
+Query  227  SDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDIDR-WYPLKVTRAID  285
+            ++ + D ++  +   ++ DNLW +P + LF+ ++F +Y R++     + W PLK+   +D
+Sbjct  246  NERDIDFDEFYLAGFIDEDNLWQEPSRILFSENEFTVYGRLDSPAPGKNWSPLKLVNILD  305
+
+Query  286  SL  287
+            S+
+Sbjct  306  SV  307
+
+
+
+
+>hypothetical protein [Halorussus aquaticus]
+Sequence ID: MFC4451421.1 Length: 287
+Range 1: 16 to 212
+
+Score:95.1 bits(235), Expect:7e-18, 
+Method:Compositional matrix adjust., 
+Identities:67/214(31%), Positives:116/214(54%), Gaps:17/214(7%)
+
+Query  137  SGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILELISNSLGN  196
+            + L  SEL RG V+ +R  +  + L+R+YR I+Y   A  ++     +E L++I  SLG+
+Sbjct  16   NSLGLSELNRGAVLEIRGIIRLHPLYRVYRAIEYINTAAPEE-SIIAQEDLQVIEESLGD  74
+
+Query  197  RIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLF  256
+            +IPV  +      V+G   D       ++  D EGD     +VTLL+   LW +PIQTL 
+Sbjct  75   KIPVEIE------VDGLSLDD----GGNIRRDSEGDT--FNIVTLLDETELWTEPIQTLA  122
+
+Query  257  NNDQFVIYCRVEDVDIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSELQNF  316
+            ++ QF ++CRVE V    WYP+K+ R ++S+S+  A+  N E    L+     +   +  
+Sbjct  123  SSKQFRVFCRVEAVQ-SNWYPMKLVRVLESISDDLAEEYNTELEGRLQAA---IDAFEAS  178
+
+Query  317  TDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEE  350
+             + S++++    Q +Q + E L ++ N  ++D++
+Sbjct  179  VEASSKTSEVDEQKVQNFVEFLVEKANTSVNDDQ  212
+
+
+
+
+>DUF6414 family protein [Halorientalis marina]
+Sequence ID: WP_443984578.1 Length: 279
+Range 1: 9 to 279
+
+Score:94.4 bits(233), Expect:1e-17, 
+Method:Compositional matrix adjust., 
+Identities:86/284(30%), Positives:141/284(49%), Gaps:46/284(16%)
+
+Query  13   VVTRIQRW----LARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGS  68
+            ++ R++ W    L       LREFVY++E +V SLLAST  GGI  +    +  ++R  S
+Sbjct  9    LLLRLKNWIWKKLGWTSLPPLREFVYMEEDTVISLLAST-TGGITEQQTTGQ--KKRISS  65
+
+Query  69   SAGGSVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSL-DQIP  127
+            S  G++    A V +     +E     +  R Y +I+S F  LY  D  E KL + D   
+Sbjct  66   SITGNLGVSQAGVKSSIGASKEESSEVV--RQY-VIESNFKELY--DMREDKLVISDNTE  120
+
+Query  128  ID------------DELEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAF  175
+            +D             E +  FS   T EL+RG++I + V L +  +F  YR I  F + F
+Sbjct  121  LDYDNPSVITNGSEKEDDPSFSEAKTEELERGNLIEVDVELGSAEVFDYYRVIQAFDNIF  180
+
+Query  176  E---------DQIDS------DTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIK  220
+            E         +Q+D+      + E ++EL+   + + IP+VG A +Y V   E  + ++ 
+Sbjct  181  ETISSKSDLREQLDAQDLSSEEIEMVIELMEILMADLIPIVGTAKNYGV--AENSEVIVD  238
+
+Query  221  RSEDVSSDEEG-DVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVI  263
+            ++     D+ G   E+L+VV  ++ DNLW+DP + LF++ +F +
+Sbjct  239  KT---WVDQNGIGYEELDVVGFVDEDNLWLDPTRVLFDDAEFTV  279
+
+
+
+
+>DUF6414 family protein [Pelagerythrobacter marinus]
+Sequence ID: WP_322295799.1 Length: 456
+Range 1: 27 to 327
+
+Score:95.9 bits(237), Expect:3e-17, 
+Method:Compositional matrix adjust., 
+Identities:82/305(27%), Positives:140/305(45%), Gaps:23/305(7%)
+
+Query  27   DDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFS  86
+            + LREFVYLDE+S+ SLLAS  + G ++E +  +M   +   + G   +  P   SA  S
+Sbjct  27   EPLREFVYLDEVSLGSLLAS--QKGEITENITSQMGNDKISDTGGKISTNSPVLPSAEIS  84
+
+Query  87   EE-REHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLAT----  141
+               +    + ++       QS+F  L+    + +   ++ I + D LE+ FSG  +    
+Sbjct  85   SRFQTTNSSALQTLRKATAQSLFRELHKLPKLRKIQPIEAIEVADSLEDLFSGKFSKAIH  144
+
+Query  142  --SELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEIL-----------E  188
+               +L RGD++  +V LSA+ +F++   I  F + F++      + +            +
+Sbjct  145  NAGDLARGDLVEFKVKLSASWIFQISSMIAEFFEMFDESPMLFMDHVKFKDLYQAKNANK  204
+
+Query  189  LISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLW  248
+            ++S  L   IPV G   DY V+   G +K I   + V+ +  GD   L +V +      W
+Sbjct  205  IVSKLLAGLIPVDGVVSDYLVIE-RGAEKFIVH-KGVAGNLNGDFSLLRIVGVTEHLGYW  262
+
+Query  249  VDPIQTLFNNDQFVIYCRVEDVDIDR-WYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTR  307
+             D  + LF +++F I CR+    I   W P+KV      L+   A+ +    R  + Q+ 
+Sbjct  263  KDIRRILFADNEFTILCRLSKNGIQNDWNPIKVADIFKELAPDLAKQIEVASRTAMLQST  322
+
+Query  308  RQLSE  312
+               SE
+Sbjct  323  SGRSE  327
+
+
+
+
+>DUF6414 family protein [Agrobacterium tumefaciens]
+Sequence ID: WP_143238611.1 Length: 435
+Range 1: 11 to 435
+
+Score:95.1 bits(235), Expect:4e-17, 
+Method:Compositional matrix adjust., 
+Identities:111/442(25%), Positives:187/442(42%), Gaps:51/442(11%)
+
+Query  29   LREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSG---SSAGGSVSAGPASVSAGF  85
+            LREFVYLDE+S+RSLL+S  + G V++T  E+      G   +  G     G A +S+ F
+Sbjct  11   LREFVYLDEVSLRSLLSS--QVGGVTDTTSEQKVAADLGELQAKLGSDALIGKAEISSRF  68
+
+Query  86   SEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEE------EFSGL  139
+               +    + ++      +QS F  LYN   +     +D +    +LE+          +
+Sbjct  69   ---QTSNSSTLQTLRKATVQSWFRELYNKPGLRMMELIDNVDAFVDLEDLNRCRNASIAV  125
+
+Query  140  ATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQ----------ID-SDTEEILE  188
+             + ELKRG +   RV LSA+ +F +   +  F    +D           +D  + E I +
+Sbjct  126  NSDELKRGLLAEFRVKLSADKVFHIDTLVSEFVGMAKDYPRIFEAGNAVVDMGEIEAIGK  185
+
+Query  189  LISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLW  248
+            L+   L   IP+ G AVDY V++ +G + V+ +    + D   D + L +V +      W
+Sbjct  186  LLQRLLAGLIPIRGVAVDYCVLDIDGTEYVVHKKAIENLDV--DTKPLVIVGVTEHLAYW  243
+
+Query  249  VDPIQTLFNNDQFVIYCRVEDVDIDR-WYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTR  307
+             D  + LF+  +F I CR     + + W P+K+   +   +   A  LN   R   ++T 
+Sbjct  244  KDIRRVLFSEAEFTILCRFSKSGLQQSWLPVKLADLMKDFAPDIADQLNSASRITFDRTP  303
+
+Query  308  RQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAMETVELGDE  367
+                E  N          ++G  +  Y   L   ++K + D + + +I       E GD 
+Sbjct  304  ATRKESVN--------ERQFGIALHQYASDLLATFHKSMEDVDFDAIIGMIGSLKERGDT  355
+
+Query  368  VSQ-----TAQRKRVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQSNVVTNSDDE-  421
+            VS      TA R ++        +A  E+D    +T + L   +   +Q+    +  D  
+Sbjct  356  VSCQVSAFTAIRAKISEMVGQNVDA--EIDAGLRETARNLSGLSLFPSQAKAAGDQSDRI  413
+
+Query  422  -------ADKYRIEANTVAMYW  436
+                    D+  ++   VAMYW
+Sbjct  414  AAPKLPAPDERLLDVEIVAMYW  435
+
+
+
+
+>hypothetical protein [Halopiger aswanensis]
+Sequence ID: WP_147376707.1 Length: 79
+Range 1: 1 to 79
+
+Score:86.7 bits(213), Expect:6e-17, 
+Method:Compositional matrix adjust., 
+Identities:44/79(56%), Positives:57/79(72%), Gaps:1/79(1%)
+
+Query  359  METVELGDEVSQTAQRKRVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNSAQSNVVTNS  418
+            M TV++GDEVSQTAQRK++LNAYTD+F  MF+LDP   + RQ+LR +T  + +     N 
+Sbjct  1    MRTVDVGDEVSQTAQRKKILNAYTDSFIEMFDLDPIGVEKRQQLRSETLATGEVVDQNNK  60
+
+Query  419  DDEADK-YRIEANTVAMYW  436
+             DE+   +RIEA TVAMYW
+Sbjct  61   LDESSNVFRIEAKTVAMYW  79
+
+
+
+
+>MULTISPECIES: DUF6414 family protein [Alphaproteobacteria]
+Sequence ID: WP_147181229.1 Length: 452
+Range 1: 7 to 319
+
+Score:94.7 bits(234), Expect:6e-17, 
+Method:Compositional matrix adjust., 
+Identities:89/325(27%), Positives:153/325(47%), Gaps:33/325(10%)
+
+Query  3    RLKIRQRLHSVVTRIQRWLARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMR  62
+            RL+ ++ +H VV  +    AR +   LREFVYLDE+S+RSLL+S  + G V++T  E+  
+Sbjct  7    RLRTKRTIHPVVAEVT---ARPE--PLREFVYLDEVSLRSLLSS--QAGGVTDTTSEQKV  59
+
+Query  63   RRRSG---SSAGGSVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQ  119
+                G   +  G     G A +S+ F   +    + ++ +    +QS F   YN   +  
+Sbjct  60   AADLGELQAKLGSDALIGKAEISSRF---QTSNSSTLQTQRKATVQSWFREFYNKPGLRI  116
+
+Query  120  KLSLDQIPIDDELEE----EFSGLA--TSELKRGDVIGLRVNLSANLLFRLYRTIDYFAD  173
+               +D++    +LE+    + + +A  ++ LKRG +   RVNLSA+ +F +   +  F  
+Sbjct  117  MDLIDKVDAFVDLEDLRRCDKASIAVDSNALKRGLLAEFRVNLSADKVFHVDTLVSEFVG  176
+
+Query  174  AFEDQ----------ID-SDTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRS  222
+              +D           +D  + E I +L+   L   IP+ G AVDY V++ +G + V+ + 
+Sbjct  177  MAKDYPRMFEAGNTVVDMGEIEAIGKLLQRLLAGLIPIRGVAVDYCVLDIDGTEYVVHKK  236
+
+Query  223  EDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVT  281
+               + D   D + L +V +      W D  + LF+  +F I CR       + W P+K+ 
+Sbjct  237  AIANLDV--DTKPLVIVGVTEHLAYWKDIRRVLFSEAEFTILCRFSKTGFQESWLPVKLA  294
+
+Query  282  RAIDSLSEPAAQNLNQEFRRGLEQT  306
+              +   +   A  LN   R   ++T
+Sbjct  295  DLMRDFAPDIADQLNSASRMTFDRT  319
+
+
+
+
+>DUF6414 family protein [Devosia sp.]
+Sequence ID: WP_299747503.1 Length: 447
+Range 1: 29 to 310
+
+Score:94.4 bits(233), Expect:8e-17, 
+Method:Compositional matrix adjust., 
+Identities:76/289(26%), Positives:139/289(48%), Gaps:27/289(9%)
+
+Query  29   LREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFSEE  88
+            LREFVYLDE+S+RSLL+S  + G V+++  +E+ R       GG  +  P   +   S  
+Sbjct  29   LREFVYLDEVSLRSLLSS--QTGGVTDSTSDEITRAAEAEITGGFGATSPVLNAEVGSRY  86
+
+Query  89   REHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPID-DELEEEFSG------LAT  141
+            +    + ++      +QS F  L     + + + + + P D  EL+E  +G      +  
+Sbjct  87   QTSNSSTLQTSRKATVQSWFRELLAISGL-RLIEVAEAPPDVAELDEVIAGSPSLGAIGA  145
+
+Query  142  SELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFED----------QIDSDTEEILELIS  191
+            + L+RG+++  RV LSA+ +F +   +  FA   ED          +  ++ E +  ++S
+Sbjct  146  AHLRRGELVEFRVKLSADPVFHMSTMVTEFAGMAEDFPGKLAPDAGKALAEVEPLNRILS  205
+
+Query  192  NSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNL--WV  249
+              L   IP+ G+AVDY+V    G D ++ +    +  E+ D+    ++ +   ++L  W 
+Sbjct  206  KLLAGLIPIRGEAVDYRVATVRGQDWLVHK----AIAEKFDLPSRPLIIVGVTEHLAYWK  261
+
+Query  250  DPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRAIDSLSEPAAQNLNQ  297
+            D  + LF+  +F I CRV    +   W P+K+      ++    Q +N+
+Sbjct  262  DIRRVLFSQAEFTILCRVSRSLLQPTWTPVKLADLFKMIAPDFVQQINE  310
+
+
+
+
+>DUF6414 family protein [Streptomyces sp. NPDC002868]
+Sequence ID: MHG4000863.1 Length: 472
+Range 1: 15 to 472
+
+Score:93.6 bits(231), Expect:2e-16, 
+Method:Compositional matrix adjust., 
+Identities:120/477(25%), Positives:209/477(43%), Gaps:71/477(14%)
+
+Query  12   SVVTRIQRWLAR-NQFDDL-----REFVYLDEISVRSLLASTGEGGI---VSETVDEEMR  62
+            S++ RI+ W  R ++F +L     REFVYLDE+SV SLL S+  G I   ++ET+   M 
+Sbjct  15   SLIRRIKAWFRRKDKFWNLEEKLLREFVYLDEVSVTSLL-SSHRGAIPEEITETLSNSMT  73
+
+Query  63   RRRSGSSAGGSVSAGPASVSAGFS-EEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKL  121
+            +     + G  +SAGP   + G   E  + Q+ ++ R+    IQ+ F  L     V   L
+Sbjct  74   KE---GNLGFEISAGPLKSNTGSRFESTKTQDYQVLRKAT--IQATFKDLLKR--VRHSL  126
+
+Query  122  SLDQIPIDD--ELEEEFSGLATS---------------ELKRGDVIGLRVNLSANLLFRL  164
+             +  IP+ +     E    L                  +L+RG +  + + L A+ +F+ 
+Sbjct  127  VMMPIPVQEASPAREVVRSLTVGGEIVTGPYRWAFDAVKLQRGRLFEVEIELEADPIFQF  186
+
+Query  165  YRTIDYFADAFE--DQID--------SDTEEILELISNSLGNRIPVVGKAVDYKVVNGEG  214
+               I   A+  E  DQ+         S   E+ +L+ + +G  IP+  +AV+Y   + +G
+Sbjct  187  STIISTIAEIIEQSDQLSAQVAPEEMSQAREVNQLLESLMGGLIPIRCRAVNYDAFSVDG  246
+
+Query  215  HDKVIKRS--EDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI  272
+               V  RS  +D ++      + L +V ++     W D  + LF+       CRV    I
+Sbjct  247  VGYVTHRSVTDDFAAQSGASAQPLYLVGVVEQSLFWKDIRRILFSKSPVTALCRVGKSGI  306
+
+Query  273  -DRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSELQNFTDWSAESAMEWGQDI  331
+               W P+K+   +D L E    ++ ++ R+   Q    L  +    D S  SA    + +
+Sbjct  307  RSSWTPVKL---VDVL-ERVVPDIGRDIRQIAPQA---LQVMATAGDSSTGSAELRKRAL  359
+
+Query  332  QAYTESLEDEYNKHLSDEE-QELLIAEAMETVELGDEVSQTAQRKRVLNAYTDAFEAMFE  390
+            +AY E+L  E    L+D + Q L +   +    L    +  ++ +R  +A  +  +A F 
+Sbjct  360  RAYGEALAAECEIPLNDSDLQRLQLQADIHHSHL----TSVSEARRGFSAIAEFMDAEFG  415
+
+Query  391  LDPTDDKT---RQE------LRPDTTNSAQSNVVTNSDDEADK--YRIEANTVAMYW  436
+               +  ++   R+E      L P    + QS+ +   D E +K    +++  VA+YW
+Sbjct  416  CRASSTRSAALREESMRECGLMPGGVLALQSSAIAQVDSEGEKEAQYLDSEIVAIYW  472
+
+
+
+
+>DUF6414 family protein [Dactylosporangium sp. NPDC048998]
+Sequence ID: WP_392801882.1 Length: 463
+Range 1: 25 to 463
+
+Score:93.2 bits(230), Expect:2e-16, 
+Method:Compositional matrix adjust., 
+Identities:113/462(24%), Positives:202/462(43%), Gaps:75/462(16%)
+
+Query  27   DDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFS  86
+            + LREFVYLDE+S+ SL++S   G + SE  D      ++  + G    AGP  V  GF 
+Sbjct  25   NPLREFVYLDEVSITSLVSSL-LGKVPSEFTDTSNVVVKAQRNVGFDTDAGPIKVKLGFG  83
+
+Query  87   EEREHQ-ETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDE--------LEEEFS  137
+             +     + K++ +    IQ++F RL+     E K +L  IP   +        +E    
+Sbjct  84   TDTTRTDDAKVQSKAT--IQALFKRLHQ----EVKSTLLTIPPGPKAMHPTKADIERALR  137
+
+Query  138  GLA----------TSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFED------QID-  180
+            G+A           ++L+RG ++ L+V L A+ +FRL   +  F D  E+       ID 
+Sbjct  138  GVAGEATKQWIVEPAQLQRGSLVELQVELQADPIFRLSAMVSTFTDLVEEGSKTFRGIDE  197
+
+Query  181  ------SDTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRS--EDVSSDEEGD  232
+                  S T  ILE +   L   +P+  + VDY  +     + +I RS  E ++S ++  
+Sbjct  198  NSLRELSSTNAILEKLMAGL---VPLKCRIVDYLAIATPQGETLIHRSAYEILASQKDNP  254
+
+Query  233  VEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDIDR-WYPLKVTRAIDSLSEPA  291
+              ++ +V ++   + W D  + LF+   F + CR+ D  + R W  +K+      ++   
+Sbjct  255  AHNVFLVGVVERSSFWKDIRRVLFSGSHFRVLCRLNDDGVTREWTAVKLAHMFSEVAP--  312
+
+Query  292  AQNLNQEFRRGLEQTRRQLSELQNFTDWSAESAMEWGQDIQA---YTESLEDEYNKHLSD  348
+                   FR+ +EQ    L   ++F +    +  E      A   + + L D     L+D
+Sbjct  313  ------TFRQAVEQF--SLDATRSFPELEEAAVPEMPPAAMALIRFGQLLADRAGIDLND  364
+
+Query  349  EEQELLIAEAM----ETVELGDEVSQTAQRKRVLNAYTDAFEAMFELDPTDDKTRQELRP  404
+            E  + + + A+    +TV +    ++ AQ   ++   +D  E      P ++ +R  ++ 
+Sbjct  365  EVMQKMASVAVLSSTQTVSVDRRRAEFAQISNIV--LSDENELNEGRVPAEELSRLRMQA  422
+
+Query  405  ----------DTTNSAQSNVVTNSDDEADKYRIEANTVAMYW  436
+                      + T  A + + T    E ++Y I+A  VA+YW
+Sbjct  423  MEEYGLLPGQEPTTRATAPLPTAPQREEERY-IDAEIVAIYW  463
+
+
+
+
+>DUF6414 family protein [Leucobacter sp. UCD-THU]
+Sequence ID: WP_017883172.1 Length: 454
+Range 1: 29 to 454
+
+Score:92.8 bits(229), Expect:3e-16, 
+Method:Compositional matrix adjust., 
+Identities:108/441(24%), Positives:194/441(43%), Gaps:46/441(10%)
+
+Query  27   DDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFS  86
+            D LREFVYLDE+SVRSLL+S  +GG+   T +++   R++      SV  G  + +   S
+Sbjct  29   DVLREFVYLDEVSVRSLLSSQ-KGGVTDSTSEQKTSGRQAEIEGSVSVEPGFLTKAEVTS  87
+
+Query  87   EEREHQETKIERRNYDLIQSMFTRLYNSDAVE--QKLSLDQIPIDD--ELEEEFSGLATS  142
+              +    + ++      +QS F  L     +   Q + +D  P+DD  ++++E +    S
+Sbjct  88   RYQTSNSSTVQTSRKATVQSWFRELLAIPDLRFIQPVKIDS-PVDDPAKIKQEGNQSRAS  146
+
+Query  143  ---ELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQID-----------SDTEEILE  188
+               + +RG V+  RV LSA+ +F L   +  F    ED  +            + + I +
+Sbjct  147  RSLDFQRGSVVEFRVKLSADPVFHLGTMVSEFTGMAEDYPEMFAADNGLATLREVQPINK  206
+
+Query  189  LISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLW  248
+            ++   L   IP+  +A+DY VV  +G + V+    D+ +D E D + L +V +      W
+Sbjct  207  ILQRLLAGLIPIRAEAIDYSVVEIDGEEFVVH--NDLLTDLELDRKPLVIVGVTEHLAYW  264
+
+Query  249  VDPIQTLFNNDQFVIYCRVEDVDIDR-WYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTR  307
+             D  + LF++ +F + CRV    + R W P+K+      L       +N   R  +    
+Sbjct  265  KDLRRVLFSDAEFTVLCRVSRDGLQRTWTPVKLADLFRPLVPKLVDQINAAGR--VPFVS  322
+
+Query  308  RQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAMETVELGDE  367
+            RQ S        +A    +  + +  Y  +L  E +  L+ E+   +    +E   L + 
+Sbjct  323  RQTSAA------AAPVNEKMVEALSNYKTALLGESDAQLNAEQSAEI---ELEIAALQER  373
+
+Query  368  VSQTAQRKRVLNAYTDAFEAMFELD---PTDDKTRQELR--------PDTTNS-AQSNVV  415
+                 +++       +   +M  +D    TD + R++ R        P  T+S  Q+   
+Sbjct  374  AGSAYEQRTAFALLREKIRSMSGVDVEASTDLELREQARQASGLPLLPLQTSSIVQAQAS  433
+
+Query  416  TNSDDEADKYRIEANTVAMYW  436
+            T   D  D+  ++ + +A+YW
+Sbjct  434  TAVPDIPDERLLDVDVIAIYW  454
+
+
+
+
+>DUF6414 family protein [Georgenia faecalis]
+Sequence ID: WP_127571819.1 Length: 439
+Range 1: 16 to 377
+
+Score:92.4 bits(228), Expect:3e-16, 
+Method:Compositional matrix adjust., 
+Identities:93/380(24%), Positives:171/380(45%), Gaps:40/380(10%)
+
+Query  28   DLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFSE  87
+            DLREFVYLDE+S+RSLL+S  +GGI   T ++    R +   +   V++   + +   S 
+Sbjct  16   DLREFVYLDEVSLRSLLSSQ-KGGITDSTSEQATDAREAALVSTLGVNSPLIAKAELESR  74
+
+Query  88   EREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGL--------  139
+             +    + I+      +QS F  L++ +     L L ++       ++ +GL        
+Sbjct  75   YQTSNSSTIQTSRKATVQSWFRELHDIEG----LRLVELMKPSTAAQDLAGLKDVKDPSL  130
+
+Query  140  --ATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQ---------IDS--DTEEI  186
+              A   L+RG ++  RV LSA+ +F L   +  F    ED          +DS    + I
+Sbjct  131  LAAAEGLRRGALVEFRVRLSADPIFHLGTMVSEFTGMAEDHPEIFAAGSGLDSLRAVQPI  190
+
+Query  187  LELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDN  246
+             +++   L   IP+   ++DY VV  +G + V+ +  ++  D +     LE+V +     
+Sbjct  191  NKILQRLLAGLIPIRATSIDYVVVELDGTECVVHK--ELIKDLDLATTRLEIVGVTEHLA  248
+
+Query  247  LWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQ  305
+             W D  + LF++ +F + CR+    + D W P+K+     +++    + +N   +   + 
+Sbjct  249  YWKDIRRVLFSDAEFTMLCRISRPGLHDSWTPVKLADLFRTVTPDLVEQINAVGKVPFDA  308
+
+Query  306  TRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAMETVELG  365
+                +   +N  +   E+A+      + Y E+L  +  KHLSD+E   ++ + +      
+Sbjct  309  V--GMGRAENVNEVRLEAAL------RTYAEALLADGGKHLSDDEA--ILVDGLIAKRKR  358
+
+Query  366  DEVSQTAQRKRVLNAYTDAF  385
+            D  + + QR     A TDA 
+Sbjct  359  DAATVSGQRA-AFGALTDAL  377
+
+
+
+
+>DUF6414 family protein [Thioclava sp. JE_KL1]
+Sequence ID: WP_152843832.1 Length: 452
+Range 1: 15 to 290
+
+Score:92.4 bits(228), Expect:4e-16, 
+Method:Compositional matrix adjust., 
+Identities:88/285(31%), Positives:143/285(50%), Gaps:32/285(11%)
+
+Query  18   QRWLARNQFDDLREFVYLDEISVRSLLAS-TGE--GGIVSETVDEEMRRRRSGSSAGGSV  74
+            Q+ ++ ++ + LREFVYLDE+S+ SLLAS  GE    I S+T +E       G+   GSV
+Sbjct  15   QKRISNSEPEPLREFVYLDEVSLASLLASQKGEITDNITSQTGNE------LGAEISGSV  68
+
+Query  75   SA-GPASVSAGF-SEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQ----KLSLDQIPI  128
+            S   P + SA   S  +      ++       QS+F  L+  D + +    K+S     I
+Sbjct  69   STHNPLTPSAEVRSRFQTTNSNSLQTIRKATAQSLFRELHKLDYLRKIQPVKVSERAKSI  128
+
+Query  129  DDELEEEFSGL--ATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFE-------DQI  179
+            +D    +FS +  + S+LKRGD+I  +V LSA+ +F++   +  F+D F+       DQ+
+Sbjct  129  EDLRSTKFSHVVHSASDLKRGDLIEFKVRLSASWIFQISTMVAEFSDMFDESPVLFIDQV  188
+
+Query  180  D----SDTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVED  235
+            +           ++IS  L   IPV G   DY VV GE  + ++ R  D     + +++ 
+Sbjct  189  NFLDLYQARNANKIISKLLAGLIPVDGVVSDYVVVKGE-ENLIVHR--DAIKGLDIEMQP  245
+
+Query  236  LEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLK  279
+            L +V +      W D  + LF +++F I CR+   +I + W P+K
+Sbjct  246  LRIVGVTEHLAYWKDIRRILFADNEFTILCRLSKSNIQNNWNPIK  290
+
+
+
+
+>DUF6414 family protein [Halobellus inordinatus]
+Sequence ID: WP_256289512.1 Length: 456
+Range 1: 27 to 456
+
+Score:91.7 bits(226), Expect:6e-16, 
+Method:Compositional matrix adjust., 
+Identities:118/458(26%), Positives:214/458(46%), Gaps:70/458(15%)
+
+Query  21   LARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPAS  80
+            L    + +L+EFVYLD+ ++ SLL+ST  GGI  +      +++R  SS  GS+  GP  
+Sbjct  27   LGWASYPELKEFVYLDQTALISLLSSTT-GGITQQQTTS--KKQRISSSIKGSL--GPIG  81
+
+Query  81   VSAGFSEEREHQETKIERRNYDLIQSMFTRLYN--------SDAVEQKLSLD-QIPIDDE  131
+             S G S E E  ET ++R    ++QS F  LY         SD  + + S D   P+  +
+Sbjct  82   ASVG-SNESETNET-VQRY---VVQSNFKELYEIRKNDLDISDHRDTRPSTDVAAPVATD  136
+
+Query  132  LEE-EFSGLA-TSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEE----  185
+            +E  E SG   T EL RG ++ L   L ++ ++  +   D    AFED ++S + E    
+Sbjct  137  IESTELSGTPQTQELLRGSLVELDATLKSSEIYEYFLIFD----AFEDIVESFSSEEEFR  192
+
+Query  186  ---------------ILELISNSLGNRIPVVGKAVDYKV----VNGEGHDKV--IKRSED  224
+                           +LEL+   +   IP+  +  +Y V    +  E  +KV  I  + D
+Sbjct  193  QKLQQQGVSADEIAMVLELMEILMAGLIPIECEVSNYGVYKEEMESEDSEKVNRIIVAND  252
+
+Query  225  VSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDIDR-WYPLKVTRA  283
+             + +   D + L +   ++ DNLW +P + LF+ ++F IY R+++ + +  W PLK+   
+Sbjct  253  WAEEHNVDTDKLYLAGFIDEDNLWQEPSRVLFSENEFTIYGRLDNPEPNSDWSPLKLVDI  312
+
+Query  284  IDSLSEPAA---QNLNQEFRRGLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLED  340
+            + ++    A   ++L  EF+   E++    S  ++F D            +  Y   LE 
+Sbjct  313  LSTVFPETASDIEDLPSEFQESNEEST---SGSEDFED-----------SVCDYLNWLES  358
+
+Query  341  EYNKHLSDEEQELLIAEAMETVELGDEVSQTAQRKRV-LNAYTDAFEAMFELDPTDDKTR  399
+            E ++    E    ++ E   +++     ++ A  +RV ++  ++  E+  E    ++  R
+Sbjct  359  EADRSFPPETVSTVLDEIDSSLKNESHEAKEALLQRVEVSLASELSESDLEAYGLENIPR  418
+
+Query  400  QELRPDTTNSAQSNVVTNSDD-EADKYRIEANTVAMYW  436
+            +      ++S + +  + S D +++K  +E N VA+YW
+Sbjct  419  KRADFLDSSSFEGDYPSGSSDGKSNKIYLETNFVAVYW  456
+
+
+
+
+>DUF6414 family protein [Qipengyuania algicola]
+Sequence ID: WP_379548292.1 Length: 451
+Range 1: 27 to 451
+
+Score:91.7 bits(226), Expect:7e-16, 
+Method:Compositional matrix adjust., 
+Identities:113/446(25%), Positives:197/446(44%), Gaps:57/446(12%)
+
+Query  27   DDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFS  86
+            + LREF+YLDE+S++SLL+S   G + S T  E  +R      +  S+SA     +   S
+Sbjct  27   NPLREFIYLDEVSLQSLLSSKN-GEMTSSTSTEVSQRVEEEVQSSASMSATGIGRAEARS  85
+
+Query  87   EEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSGLATSEL--  144
+              +    + ++      +QS F  L   D V     ++ +    +L + F+  +T EL  
+Sbjct  86   RFQTQNSSTLQTAKKATVQSWFREL---DEVPNLRKMETV----QLVQPFA--STGELIS  136
+
+Query  145  -------------KRGDVIGLRVNLSANLLFRLYRTID---YFADAFEDQIDSD--TEEI  186
+                          RGD++  RV L+A+ +F L   +      A+ +   +DS+   E+ 
+Sbjct  137  CENRSVCMRDDHFLRGDIVEFRVRLAADPIFHLVTIVSEMKAMAEDYPTMMDSNGGLEQF  196
+
+Query  187  LEL------ISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVT  240
+             EL      +   L   IPV  + +DY VV+ E H+ ++    D   + E + + LE+  
+Sbjct  197  GELDGISRVLQRLLAGLIPVRAQVIDYVVVDIEDHEYIVHV--DALKNLEVEHKPLEIGC  254
+
+Query  241  LLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDIDR-WYPLKVTRAIDSLSEPAAQNLNQEF  299
+            +  LD  W D  + LF++ +F + CRV    + R W P+K+   +  L+   AQ ++   
+Sbjct  255  VTELDAYWKDIRRVLFSDAEFTMLCRVAQNGLKRKWTPVKLADLLGQLAPDLAQQIDDAA  314
+
+Query  300  RRGLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAM  359
+                + TRR + + +  + ++A         ++ Y+ +   E  + L + +Q  +  + +
+Sbjct  315  AIMFDVTRRGMPQNEQKSTFAAL--------LEVYSRAHFAEVGESLEENQQTSVELKVI  366
+
+Query  360  ETVELGDEVS-QTAQRKRV---LNAYT----DAFEAMFELDPTDDKTRQE-LRPDTTNSA  410
+            E    G  VS QTA  K +   LN  T    DA  A+   +     T QE   P  +N  
+Sbjct  367  ELSATGQSVSEQTAALKEMGEFLNELTDHMIDAQTALKLREYARKATGQEYFEPPRSNPL  426
+
+Query  411  QSNVVTNSDDEADKYRIEANTVAMYW  436
+                   S  + D++ ++   VAMYW
+Sbjct  427  VPPEDIESVPQNDRF-LDVEVVAMYW  451
+
+
+
+
+>hypothetical protein [Anaerolineales bacterium]
+Sequence ID: MCZ7547639.1 Length: 460
+Range 1: 23 to 372
+
+Score:91.7 bits(226), Expect:8e-16, 
+Method:Compositional matrix adjust., 
+Identities:91/359(25%), Positives:168/359(46%), Gaps:44/359(12%)
+
+Query  29   LREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASV-SAGFSE  87
+            LREF+YLD++SV SLLAST  G +  E +D       S    G +++ G AS  +     
+Sbjct  23   LREFIYLDDVSVHSLLAST-RGPVAFEYLDTLSNTSHSEVEGGINLTTGLASAETKARRF  81
+
+Query  88   EREHQETKIERRNYDLIQSMFTRLYNSD-------AVEQKLSL--DQIPIDD------EL  132
+            +     T++ R++  +IQ++F +LY+ +        ++  L L  +Q+ + D      +L
+Sbjct  82   DTLSHGTQVTRKS--IIQALFKQLYDQEKESLIISPIQGALQLAGEQMSLQDMQRDITKL  139
+
+Query  133  EEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQI----DSDTEEIL-  187
+            E     +  S L+RG +I + + L A+++FR+   I  F +  E+ I     SD+ +I  
+Sbjct  140  EAAGWVIDPSRLQRGQLIEVEIQLEADMVFRISTVISVFREIIEENIGLFGHSDSLDITA  199
+
+Query  188  -----ELISNSLGNRIPVVGKAVDYKVVNGEG-----HDKVIKR-SEDVSSDEEGDVEDL  236
+                 +++   L   IP+ G AVDY+++         H K + R SE+V S        L
+Sbjct  200  MKSIDKVLEKILVGLIPIRGLAVDYRIITINNKEWIVHQKCLARLSENVPS------MPL  253
+
+Query  237  EVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRAIDSLSEPAAQNL  295
+             +V +      W D  + LF   ++ ++CR+   D+ + W P+K+   +DS+     Q +
+Sbjct  254  YIVGVTEQRLYWKDIRRLLFAKSRYSVFCRLSLSDLRNTWSPIKIVNLLDSVVPGLTQEM  313
+
+Query  296  NQEFRRGLEQTRRQLSELQ--NFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQE  352
+            +      L +  R +  +   +  D      ++  + +Q Y + +  E+   LS  ++E
+Sbjct  314  HLSQPEELAKMMRPIKSMSMPDVDDTDQIDQLQMKKILQIYADLIAKEFQIELSQLDRE  372
+
+
+
+
+>DUF6414 family protein [Zavarzinia marina]
+Sequence ID: WP_236108510.1 Length: 456
+Range 1: 27 to 327
+
+Score:90.9 bits(224), Expect:1e-15, 
+Method:Compositional matrix adjust., 
+Identities:75/305(25%), Positives:135/305(44%), Gaps:23/305(7%)
+
+Query  27   DDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGF-  85
+            + LREFVYLDE+S+ SLLAS  + G ++E +  ++   R     G   ++GP   SA   
+Sbjct  27   EPLREFVYLDEVSLGSLLAS--QKGEITENITSQIENERIAEIGGKISASGPVLPSAEIN  84
+
+Query  86   SEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEFSG------L  139
+            S  +      ++       QS+F  L+    + +   ++   + +  E  FSG       
+Sbjct  85   SRFQTINSNALQTLRKATAQSLFRELHKLPNLRKIHPIEVDEVAESFENLFSGNFPKAIY  144
+
+Query  140  ATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEIL-----------E  188
+               +L RGD++  RV LSA+ +F++   +  F+D F++        +            +
+Sbjct  145  NAGDLTRGDLVEFRVKLSASWIFQISSMVAEFSDMFDESPTLFMGHVKFTDLYQAKNANK  204
+
+Query  189  LISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLW  248
+            +++  L   +PV G   DY V+   G   ++ +  D++   + D   L +V +      W
+Sbjct  205  IVNKLLAGLVPVDGVVSDYLVIRHGGEKFIVHK--DITKKLKADFSPLRIVGVTEHLAYW  262
+
+Query  249  VDPIQTLFNNDQFVIYCRVEDVDIDR-WYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTR  307
+             D  + LF +++F + CR+    I   W P+KV      L+   A+ +    R  + Q+ 
+Sbjct  263  KDIRRILFADNEFTMLCRLSKNGIQTDWNPIKVADVFKELAPNLAKQIEIAGRTAMLQSA  322
+
+Query  308  RQLSE  312
+               SE
+Sbjct  323  SSQSE  327
+
+
+
+
+>DUF6414 family protein [Microbacterium festucae]
+Sequence ID: WP_261579090.1 Length: 418
+Range 1: 4 to 265
+
+Score:89.7 bits(221), Expect:3e-15, 
+Method:Compositional matrix adjust., 
+Identities:77/277(28%), Positives:127/277(45%), Gaps:42/277(15%)
+
+Query  23   RNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRR--SGSSAGGSVSAGPAS  80
+            RN   ++REF+YLDE  V S+LA+  +G I+ +T +   R R   +G++  G  + G   
+Sbjct  4    RNALGEIREFIYLDETGVESMLAAV-DGEILVQTTNSTSRSREFTAGATMPGDSAFGATE  62
+
+Query  81   VSAG--FSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPI----------  128
+            VS G      R  +ET+       + QS F R  + +   Q   L   P           
+Sbjct  63   VSTGLKLGRTRAQEETR-----KSVAQSAFARFRSKN--HQSFVLRHAPTYRWLAKRRLD  115
+
+Query  129  ---DDELEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFAD---AFEDQIDSD  182
+                  L +  +G+  S+L+RGD+I L V L+A   +++   I+  AD   +F + +  +
+Sbjct  116  ALDQSALRKYGAGVKVSDLRRGDLIELEVTLAAADSYQVRTAINAVADVVNSFPELLPLE  175
+
+Query  183  TEEILE-------LISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVED  235
+              E+         LI N  G  +PVV    + ++V   G D +      V+  E  DV +
+Sbjct  176  QREVFRQVRPLTALIDNLNGEAVPVVAMLPNLRLVTIGGEDWLT-----VTPGESSDVVE  230
+
+Query  236  LEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI  272
+            L  VT+ N    W D  +TLF + ++ + CR+ D ++
+Sbjct  231  LHAVTMPNW--FWGDLGRTLFQSRRYTVLCRIIDPEL  265
+
+
+
+
+>DUF6414 family protein [Rubrobacter marinus]
+Sequence ID: WP_166398820.1 Length: 464
+Range 1: 2 to 464
+
+Score:89.7 bits(221), Expect:3e-15, 
+Method:Compositional matrix adjust., 
+Identities:117/477(25%), Positives:199/477(41%), Gaps:66/477(13%)
+
+Query  12   SVVTRIQRWLAR--------NQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRR  63
+            S+V R++ W  R         +   LREFVYLDE+SV SL+AS   G I +E  D+E   
+Sbjct  2    SIVDRVKLWFRRWRRKRAFEKEKSPLREFVYLDEVSVFSLVASR-LGAIATEFTDKETAS  60
+
+Query  64   RRSGSSAGGSVSAGPASVSAGFSEER----EHQETKIERRNYDLIQSMFTRLYNS--DAV  117
+             +S   A  ++SAG   V+    + R    + QE+++ R++  ++Q+ F   Y    D++
+Sbjct  61   LQSEIKA--NISAGGTGVAKAGLDSRLTSGQTQESQVVRKS--IVQTTFKEFYEHERDSL  116
+
+Query  118  EQKL-----SLDQIPIDDELEEEFSGL-------ATSELKRGDVIGLRVNLSANLLFRLY  165
+              +L      + ++   D+ + +  GL          +L RG ++   V L A  +FR+ 
+Sbjct  117  AVRLVAEDGEVPEVKSLDDFDSKVKGLESGGWITGAEKLARGQLVEAEVQLEAENVFRMS  176
+
+Query  166  RTIDYFADAFEDQIDS----DTEEILELISNS------LGNRIPVVGKAVDYKVVNGEGH  215
+              +    D  +D  +       E I++L S S      L   +PV G  VDY+V      
+Sbjct  177  AVVSAIQDMVQDDAEMFGLDGNEGIVQLRSISRVLEKLLVGLVPVRGCVVDYEVAQIGRR  236
+
+Query  216  DKVIKRS--EDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-  272
+            + ++ R     + S E      L VV +      W D  + LF+N +F + CR+    + 
+Sbjct  237  ELIVHRGLLNQLMSTEHVSSRPLYVVGVTEQSLFWKDIRRVLFSNARFRVLCRISQGGLQ  296
+
+Query  273  DRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSELQNFTDWSAESAMEWGQDIQ  332
+            D W P+K+ + + S+    A  L +E             E    TD   +   E    + 
+Sbjct  297  DSWTPVKLFQVLQSVVPRLADPL-EEALGSGAAALADGGEPNQSTDQKGQLMRE---ALV  352
+
+Query  333  AYTESLEDEYNKHLSDEEQ-ELLIAEAMETVELGDEVSQTAQRKRVLNAYTDAFEAMFEL  391
+            +Y  SL D Y  +L++++  E+ +         G       +R++   A T      F+ 
+Sbjct  353  SYASSLADHYGFNLTEQDSAEVDLLAGQHCASFGT----LTERRQAFGAITSFLHERFDF  408
+
+Query  392  DPTDDKTRQELRPDTTN------SAQSNVVTNSDD------EADKYRIEANTVAMYW  436
+             P +  T    R    N      S Q + +  S+D       A    +++  VA+YW
+Sbjct  409  -PREPDTAAAYRGVALNDAGFRYSGQVSPLAASEDVLRTAASARGRFLDSEFVAIYW  464
+
+
+
+
+>DUF6414 family protein [Paenarthrobacter sp. PH39-S1]
+Sequence ID: WP_283559518.1 Length: 455
+Range 1: 20 to 455
+
+Score:89.4 bits(220), Expect:4e-15, 
+Method:Compositional matrix adjust., 
+Identities:107/452(24%), Positives:189/452(41%), Gaps:53/452(11%)
+
+Query  22   ARNQFD----DLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAG  77
+             RN  D    +LREFVYLDE+S+RSLL+S  +GGI   T +E    R +G S    VS+ 
+Sbjct  20   GRNATDQDKPNLREFVYLDEVSLRSLLSSQ-KGGITDSTSEEATDVREAGLSGTVGVSSP  78
+
+Query  78   PASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYN------SDAVEQKLSLDQIPIDDE  131
+              + +   S  +    + I+      +QS F   +        + V+   +   +    +
+Sbjct  79   LIAKAEIESRFQTSNSSTIQTSRKATVQSWFREFHEIKGLRLIEVVKSSTAARDLAALKD  138
+
+Query  132  LEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFED---------QIDS-  181
+            + E    +A  +L+RG ++  RV LSA+ +F L   +       +D          I+S 
+Sbjct  139  VNEPSLIVAAEKLQRGALVEYRVRLSADSVFHLGTMVSEITGMAQDYPEMFSGVNGINSL  198
+
+Query  182  -DTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVT  240
+             + + I +++   L   IP+   ++DY VV  EG++ V  +   +          L++V 
+Sbjct  199  QEVQPINKILQRLLAGLIPIRATSIDYVVVEVEGNEYVAHK--QLIEGLNLATRPLQIVG  256
+
+Query  241  LLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRAIDSLSEPAAQNLNQEF  299
+            +      W D  + LF++ +F + CRV    +   W P+K+     S++    + +N   
+Sbjct  257  VTEHLAYWKDIRRVLFSDAEFTMLCRVSRPSLHGSWTPVKLADLFLSVTPDLVEKINSA-  315
+
+Query  300  RRGLEQTRRQLSELQNFTDWSAESAME--WGQDIQAYTESLEDEYNKHLSDEEQELLIAE  357
+                                SAE+  +   G  ++ Y +++  +  K L+D++    +A 
+Sbjct  316  ---------GTVPFGTVGTGSAENVNQARLGTALRTYCDAVLADIGKQLTDDQT---VAV  363
+
+Query  358  AMETVELGDEVSQTAQRKRVLNAYTDAFEAMFELDP-------TDDKTRQ----ELRPDT  406
+                 EL    +  + ++      TD  E +    P         D  RQ     L P  
+Sbjct  364  DQLIAELKPGATTVSGQRAAFGVLTDTLEELLGCRPEAARALVLRDGARQSAGLSLFPSV  423
+
+Query  407  TNSAQSNVVT-NSDDEADKYR-IEANTVAMYW  436
+              +A + V T  +DD AD  R ++ + VA+YW
+Sbjct  424  PAAAVTEVPTQTTDDPADGPRLLDVDVVAIYW  455
+
+
+
+
+>DUF6414 family protein [Planococcus rifietoensis]
+Sequence ID: WP_404337968.1 Length: 447
+Range 1: 17 to 309
+
+Score:89.4 bits(220), Expect:4e-15, 
+Method:Compositional matrix adjust., 
+Identities:76/300(25%), Positives:147/300(49%), Gaps:29/300(9%)
+
+Query  16   RIQRWLARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSV-  74
+            +++R   R +   LREFVYLDE+SV SL AS   G + +E  + + R  +  +S    + 
+Sbjct  17   QLKRAKKRQEGIPLREFVYLDEVSVYSLFASRV-GALATEYSEAKSRTLQMDASLTSGIN  75
+
+Query  75   ---SAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYN------------SDAVEQ  119
+               S   A + + F+   +   T+I R+N   IQS +   Y+             D  ++
+Sbjct  76   EKTSKNEAKIGSMFN---QGYNTQILRKN--TIQSTYKEFYDLERDTLVLRNNYEDTNDK  130
+
+Query  120  KLSLDQIPIDDELEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDY---FADAFE  176
+              S++++ I ++ +   +   T  L RGD++   V LS   +F++   ++    F D   
+Sbjct  131  YKSINKL-IKEDSQHNTNFKTTKNLNRGDLVEFEVELSPEYIFKVNTVLNILVEFKDKVS  189
+
+Query  177  DQIDSDTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRS--EDVSSDEEGDVE  234
+            + I  +  +I ++++  L   +P+  K ++YK +  EG+  +I  S  +++S  +  DV 
+Sbjct  190  ELIPKEAMDINDILNQLLSGLVPIKCKVLNYKFLVNEGNQYLIHESLLKNLSDIDIKDVS  249
+
+Query  235  DLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDIDR-WYPLKVTRAIDSLSEPAAQ  293
+            D  +V +++ + +W D  Q L++N+++ + CR+E   I + W  LK   A   +    +Q
+Sbjct  250  DFNIVGVIDKNLVWKDIRQILYDNNRYSLLCRIEKPIISKSWTSLKNMAAFRDIIPEVSQ  309
+
+
+
+
+>DUF6414 family protein [Rhizobium leguminosarum]
+Sequence ID: WP_168318425.1 Length: 451
+Range 1: 7 to 319
+
+Score:89.0 bits(219), Expect:5e-15, 
+Method:Compositional matrix adjust., 
+Identities:83/325(26%), Positives:148/325(45%), Gaps:33/325(10%)
+
+Query  3    RLKIRQRLHSVVTRIQRWLARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMR  62
+            RL+ ++ +H V   +       + + LREFVYLDE+S+RSLL+S  + G V++T  E+  
+Sbjct  7    RLRRKRTIHPVEPEVA-----ERPEPLREFVYLDEVSLRSLLSS--QAGGVTDTTSEQKV  59
+
+Query  63   RRRSG---SSAGGSVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQ  119
+                G   +        G A +S+ F   +    + ++      +QS F   YN   +  
+Sbjct  60   ATDLGELQAKLASDAVIGKAEISSRF---QTSNSSTLQTLRKATVQSWFREFYNKPGLRM  116
+
+Query  120  KLSLDQIPIDDELE------EEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFAD  173
+               +D +    +LE      +  + + +  L+RG +   +V LSA+ +F +   +  F  
+Sbjct  117  IELIDDVAAFADLEDVQRCKKTSAAIRSDRLQRGILAEFKVKLSADKVFHIDTLVSEFVG  176
+
+Query  174  AFEDQ----------ID-SDTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRS  222
+              +D           +D  + E I +L+   L   IP+ G+AVDY V++ EG D V+ + 
+Sbjct  177  MAKDYPRIFQAGKTVVDMGEIEAIGKLLQRLLAGLIPIRGEAVDYCVIDIEGIDYVVHKK  236
+
+Query  223  EDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRV-EDVDIDRWYPLKVT  281
+                +D + D + L +V +      W D  + LF+  +F I CR  +D   + W P+K+ 
+Sbjct  237  --AVADLDVDTKPLVIVGVTEHLAYWKDIRRVLFSEAEFTILCRFSKDGLQESWLPVKLA  294
+
+Query  282  RAIDSLSEPAAQNLNQEFRRGLEQT  306
+              +   +   A  +N   R   ++T
+Sbjct  295  DLMKDFAPDIADQINSASRMSFDRT  319
+
+
+
+
+>hypothetical protein [Chloroflexota bacterium]
+Sequence ID: MEP0805399.1 Length: 462
+Range 1: 4 to 310
+
+Score:89.0 bits(219), Expect:6e-15, 
+Method:Compositional matrix adjust., 
+Identities:83/313(27%), Positives:145/313(46%), Gaps:41/313(13%)
+
+Query  10   LHSVVTRIQRWLARNQFD----DLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRR  65
+            L  +  RI++W  +++ +     LREFVYLDE+SV SL+AST  G I  +  D +    +
+Sbjct  4    LKRIPARIRQWRKKDKLNIEKGSLREFVYLDEVSVYSLVAST-LGPIAEQFTDTDTSSWQ  62
+
+Query  66   S--GSSAGGSVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSL  123
+            S  GSS G  V    A +++      +   T++ R++  ++Q+ F +LY S+   + LS+
+Sbjct  63   SEVGSSVGAGVGVAKAELNSRIMNN-QTSGTQVVRKS--IVQATFKQLYESEL--ESLSI  117
+
+Query  124  DQIPIDDE------LEEEFSGLATS----------ELKRGDVIGLRVNLSANLLFRLYRT  167
+              IP D E      ++E  + + TS           L RG +  L V L A+ +FR    
+Sbjct  118  RPIPGDLEHPKIHNMDELLATVQTSADGYWVIDPLNLSRGKLFELEVELDADPIFRASTF  177
+
+Query  168  IDYFADAFEDQID----------SDTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDK  217
+                 +  E+  D             + +  ++   L   +P+ GK VDY V+  +  + 
+Sbjct  178  TSTILEILEENADLFGLDVAGELVQMKSVGRILEKLLAGLVPIRGKVVDYCVIELDDKEW  237
+
+Query  218  VIKR--SEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDID-R  274
+            +I R    D+ S ++     + VV +      W D  + LF+N ++ I CR+    +   
+Sbjct  238  IINRLLLRDLPSQDQPLTHPVFVVGVAEQALFWKDIRRILFSNARYRILCRMGQTGLQTT  297
+
+Query  275  WYPLKVTRAIDSL  287
+            W P+K+   ++S+
+Sbjct  298  WTPVKLAHILESV  310
+
+
+
+
+>DUF6414 family protein [Novosphingobium sp. HR1a]
+Sequence ID: WP_211152189.1 Length: 470
+Range 1: 43 to 310
+
+Score:88.6 bits(218), Expect:8e-15, 
+Method:Compositional matrix adjust., 
+Identities:77/278(28%), Positives:133/278(47%), Gaps:35/278(12%)
+
+Query  29   LREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSA----GPAS-VSA  83
+            LREF+YLDEIS+ SLLAS  + G +++ +  +        S GG +SA    GPA+ +++
+Sbjct  43   LREFIYLDEISLSSLLAS--QKGEITDNITAKSEVALLAES-GGKISAKSAVGPAAEITS  99
+
+Query  84   GFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELE------EEFS  137
+             F     +    + + N    QS+F  L+    + +      + + D ++      EE+S
+Sbjct  100  RFQSTNSNAIQTVRKAN---AQSLFRELHMLQNLRKIQPETAVNLPDSMDILFSNPEEYS  156
+
+Query  138  GLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEIL----------  187
+               +++LKRGD++  RV LSA+ +F++   I  F+D F+D      E +           
+Sbjct  157  AYKSTDLKRGDLLEFRVRLSASWIFQISSMIAEFSDMFDDSPTMFIENVKFSDLYNAKNA  216
+
+Query  188  -ELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVE--DLEVVTLLNL  244
+             ++I+  L   IP+ G A DY VV     + ++    D  + E  D+E   L++V +   
+Sbjct  217  NKIINRLLAGLIPIDGIASDYSVVLDGKEEYIV----DNRALENFDIETAPLKIVGVTEH  272
+
+Query  245  DNLWVDPIQTLFNNDQFVIYCRVEDVDIDR-WYPLKVT  281
+               W D  + LF  ++F + CR+    +   W P+K  
+Sbjct  273  SAYWKDIRRVLFAENEFTVLCRLSKSGLQSDWNPIKAA  310
+
+
+
+
+>DUF6414 family protein [Jiangella alba]
+Sequence ID: WP_141711863.1 Length: 462
+Range 1: 26 to 462
+
+Score:88.2 bits(217), Expect:1e-14, 
+Method:Compositional matrix adjust., 
+Identities:119/462(26%), Positives:189/462(40%), Gaps:78/462(16%)
+
+Query  28   DLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFSE  87
+            ++REFVYLDE+SV SLL+S  EG + SE  D      R+  SA    +AG A    G   
+Sbjct  26   EMREFVYLDEVSVVSLLSSR-EGKVPSEFTDTSTNSSRAQLSANIGANAGFAKSEIGSQL  84
+
+Query  88   EREHQE-TKIERRNYDLIQSMFTRLYNSDAVEQKLSL------DQIPIDDELEEEFS---  137
+            E    E TK+  R    IQ++F RLY+ +     L++      D+ P   + E   S   
+Sbjct  85   ESSATEDTKVVSRA--TIQAIFKRLYDGELARDHLAIAPIRDNDKKPTSSDSEAMLSEPS  142
+
+Query  138  --GLA-----TSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFED------QIDSDTE  184
+              G+A      + L+RG ++ L V L A+  FR+      FA+  +D      Q+    E
+Sbjct  143  RAGVAPWTINVASLRRGQMVELEVELYADPAFRVSTIASSFAEMVKDSKELIGQLMERHE  202
+
+Query  185  -----EILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRS--EDVSSDEEGDVEDLE  237
+                 EI  LI   +   +P+  +  +Y +V  + +  ++ R   + V  +E     D++
+Sbjct  203  LDQALEINALIEKLMAGLVPLRCRVANYVLVGEDDNAALVHREVVKKVPENERRATVDVQ  262
+
+Query  238  VVTLLNLDNLWVDPIQTLFNNDQFVIYCRV-EDVDIDRWYPLKVTRAIDSLSEPA-----  291
+            +V +      W D  + LF  D+F + CR+ ED     W P+ +   +D L E A     
+Sbjct  263  LVGVTEKSLYWKDTRRVLFAKDRFRVLCRLNEDGIGSAWRPVTL---VDVLGEVAPDFGE  319
+
+Query  292  ------AQNLNQEFRRGLEQTR---RQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEY  342
+                     L Q   R   Q+R    +++ L+NF                   E +  E 
+Sbjct  320  VLGIFGPDALQQMADRSARQSRLIEPRVAALRNF------------------GELMALEM  361
+
+Query  343  NKHLSDEEQELLIAEAMETVELGDEVSQTAQRKRVLNAYTDAFEAMFELDPTDDKT----  398
+            +  L+DE+ E +   A E  EL   V  +    R +  Y     ++   +P         
+Sbjct  362  DVKLTDEDLEQIDLFASEGAELFKSVHDSRPAFRAITEYIKDRSSV-PFNPVAAAKLRAA  420
+
+Query  399  ---RQELRP-DTTNSAQSNVVTNSDDEADKYRIEANTVAMYW  436
+               RQ L P  T   A +  +        +Y + A  +A+YW
+Sbjct  421  AAQRQGLHPGGTAMDASATTLATKLTRETEYFLNAEIIAIYW  462
+
+
+
+
+>hypothetical protein [Anaerolineales bacterium]
+Sequence ID: MBV6390964.1 Length: 460
+Range 1: 23 to 460
+
+Score:87.8 bits(216), Expect:1e-14, 
+Method:Compositional matrix adjust., 
+Identities:112/456(25%), Positives:200/456(43%), Gaps:66/456(14%)
+
+Query  29   LREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAG--PASVSAGFS  86
+            LREF+YLD++SV SLLAS   G +  E +D     R+S    G ++++G   A   A   
+Sbjct  23   LREFIYLDDVSVHSLLASK-RGPVDIEYLDTLSNTRQSEIEGGININSGLMGAETKARRF  81
+
+Query  87   EEREHQETKIERRNYDLIQSMFTRLYNSDAVE---------QKLSLDQIPIDDE----LE  133
+            +   H  T++ R++  +IQ++F +LY+ +            QK   ++I +DD     L+
+Sbjct  82   DTLSHG-TQVTRKS--IIQALFKQLYDQEKESLILYPLKEAQKYHAEKISLDDMKKDLLK  138
+
+Query  134  EEFSGLAT--SELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFE---------DQID-S  181
+             E  GL    S+LKRG ++ + V L A+++FR+   I  F +  E         D  D S
+Sbjct  139  LESDGLVIDPSKLKRGQLLEIEVQLEADMVFRISTVISVFREIIEENSELFRNYDLFDIS  198
+
+Query  182  DTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVED--LEVV  239
+              + I +++   L   IP+ G A++Y+++  +  + ++   +   S   G+V    L VV
+Sbjct  199  AIKSIDKVLEKILVGLIPIRGLALEYRILKIDDKEWIV--HQQYLSQLAGNVPSMPLYVV  256
+
+Query  240  TLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDIDR--WYPLKVTRAIDSLSEPAAQNLN-  296
+             +      W D  + LF   ++   CR+  +D  R  W P+K+   IDS+     Q ++ 
+Sbjct  257  GVTEQRLFWKDIRRLLFAKSRYSALCRLS-IDGIRHTWSPMKIVNLIDSVVPGLTQEMHL  315
+
+Query  297  ---QEFRRGLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQEL  353
+                E  R L+  +     + +  +      M+    +Q Y + L  EY   L+  + E 
+Sbjct  316  SQPDELARMLQLNKS--PSINDIDEIYQIDQMQMKSILQTYADLLAQEYKIFLTQLDHE-  372
+
+Query  354  LIAEAMETVELGDE----VSQTAQRKRVLNAYTDAFEAMFELDPTDDKTRQELRPDTTNS  409
+                      L D+     S    R+   N+        + + P  D T  ++R +  N 
+Sbjct  373  ------NIERLSDKHSALFSTVDTRRTAFNSILSYLSEHYSIKPDLDVT-SKMRDEAINK  425
+
+Query  410  AQSNVVTNSDD---------EADKYRIEANTVAMYW  436
+            A+ + + N            E D++ ++   +A+YW
+Sbjct  426  AKRDKLANDKHNQNFSFVPLEEDRF-LDTEFIAIYW  460
+
+
+
+
+>DUF6414 family protein [Tsuneonella flava]
+Sequence ID: WP_102155284.1 Length: 456
+Range 1: 27 to 323
+
+Score:87.4 bits(215), Expect:2e-14, 
+Method:Compositional matrix adjust., 
+Identities:80/305(26%), Positives:135/305(44%), Gaps:31/305(10%)
+
+Query  27   DDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGP----ASVS  82
+            + LREF+YLDE+S+ SLLAS  + G ++E +  ++   RS  S G     GP    A  S
+Sbjct  27   EPLREFIYLDEVSLASLLAS--QKGEITENITSQIEEGRSLESGGKVGVNGPLLPSAEAS  84
+
+Query  83   AGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEEEF------  136
+            + F          + + N    QS+F  L+  + + +K+   +         EF      
+Sbjct  85   SRFQTTNSTALQTVRKANA---QSLFRELHELEHL-RKIKPTKPKCSAASFSEFIASLNS  140
+
+Query  137  -SGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQID--------SD---TE  184
+             S     +LKRGD++  +V LSA+ +F++   +  F++ F++           SD    +
+Sbjct  141  DSAFKAQDLKRGDLVEFKVKLSASWIFQISTMVAEFSEMFDESPTLFLENVKFSDLYQAK  200
+
+Query  185  EILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNL  244
+             + ++I+  L   IP+ G   +Y VV  EG D +I  S  V      D   L++V +   
+Sbjct  201  NVNKIINKLLAGLIPIDGLVTEYGVVEYEGEDYIIHSS--VIKKFGLDNRPLQIVGVTEH  258
+
+Query  245  DNLWVDPIQTLFNNDQFVIYCRVEDVDIDR-WYPLKVTRAIDSLSEPAAQNLNQEFRRGL  303
+               W D  + LF + +F + CR+    +   W P+KV       +   A  +    R  +
+Sbjct  259  LAYWKDIRRILFADSEFTVLCRLSKSGLQTDWNPIKVADIFSQFAPDLAGQIEVSSRAAI  318
+
+Query  304  EQTRR  308
+             Q+ R
+Sbjct  319  AQSSR  323
+
+
+
+
+>DUF6414 family protein [Actinoplanes sp. NPDC026619]
+Sequence ID: WP_360417327.1 Length: 443
+Range 1: 2 to 297
+
+Score:87.4 bits(215), Expect:2e-14, 
+Method:Compositional matrix adjust., 
+Identities:87/303(29%), Positives:135/303(44%), Gaps:41/303(13%)
+
+Query  17   IQRWLARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSA  76
+            I R   R    + REFVYLDE SV SL+AS    G + +TV E + R   G    G  SA
+Sbjct  2    IFRRKGRRWAKERREFVYLDEASVTSLIAS--RDGAIKDTVKETLTRSTEGEFKAGGSSA  59
+
+Query  77   GPASVSAGFSEEREHQETKI---ERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELE  133
+            G      G S E   ++T     E     +IQS F  L      E   ++D+     E+E
+Sbjct  60   GK---KLGLSAEARVKKTNTSGQEVVRKAVIQSTFRDLRTGGTDELLTTVDRKRRRREVE  116
+
+Query  134  EEFSGLAT--------------------SELKRGDVIGLRVNLSANLLFRLYRTIDYFAD  173
+                 LAT                    +++KRGDV+ L VNLSA   ++L   +    D
+Sbjct  117  PR--SLATVRDVVRHKRKLLNHGQLLRVADIKRGDVLELTVNLSAERTYQLATALSSVVD  174
+
+Query  174  AF---EDQIDSDTEE------ILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRS-E  223
+                 ED    D  +      ILE+I   L   +P+ G ++D+ V+  +G + ++ RS  
+Sbjct  175  LVNGREDLFGIDKPQYNQIVGILEIIEGMLVGLVPIRGTSIDFAVLTIDGEEHLLHRSLV  234
+
+Query  224  DVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTR  282
+            D + + +  ++ LEVV + N  +   D  + LF  + +  Y R+E   + + W P+K+  
+Sbjct  235  DPNGNLQHHLKLLEVVGVTNFASYTRDLRRVLFAGESYTTYVRIESATLRESWQPVKLAT  294
+
+Query  283  AID  285
+             ++
+Sbjct  295  VLE  297
+
+
+
+
+>DUF6414 family protein [Nocardiopsis nanhaiensis]
+Sequence ID: WP_460772040.1 Length: 434
+Range 1: 13 to 294
+
+Score:87.4 bits(215), Expect:2e-14, 
+Method:Compositional matrix adjust., 
+Identities:86/289(30%), Positives:128/289(44%), Gaps:34/289(11%)
+
+Query  27   DDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRR--RSGSSAGGSVSAGPASVSAG  84
+            D  REF+YLDE+SV SLLA  G  G +   V E + R   RS S + G  S G A V + 
+Sbjct  13   DRHREFIYLDEVSVISLLA--GLQGEIKNAVTETLARTTDRSLSGSLGVASEGTA-VESR  69
+
+Query  85   FSEEREHQETKIERRNYDLIQSMFTRLYNSD--------AVEQKLSLDQIPIDDELEEEF  136
+                R      + R    +IQS F  L+  D        A  ++ S   I     LE+  
+Sbjct  70   LGTSRTSTNEVVRR---AVIQSTFRDLWRRDVGVLLHDAAGVKRKSRKTIHSYSGLEDAL  126
+
+Query  137  SGLATSELK-------RGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQ---IDSDT---  183
+              L  S+L        RGD++ L + + A+  F++        D F  +    D+     
+Sbjct  127  PRLKKSKLAVPLGNITRGDIVELDIEVEADEFFKMITVATTLLDLFRGRDELFDASAAEF  186
+
+Query  184  ---EEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVT  240
+               E ++E++   L   IPV G A  ++V+   G   VI  SE +  D + D   +E+V 
+Sbjct  187  RKLEPMIEVLKELLVGLIPVRGLATSHRVIAVAGEQVVIA-SELLGEDLQADARRVELVG  245
+
+Query  241  LLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRAIDSLS  288
+                ++ W D  +TLF+   F +Y R E   + D W P K+   ++SLS
+Sbjct  246  FAEANSFWRDLRRTLFSGSTFTVYARAEGPPLTDPWSPFKIADLLESLS  294
+
+
+
+
+>hypothetical protein [Anaerolineales bacterium]
+Sequence ID: MBE7434741.1 Length: 462
+Range 1: 2 to 319
+
+Score:86.7 bits(213), Expect:3e-14, 
+Method:Compositional matrix adjust., 
+Identities:85/324(26%), Positives:141/324(43%), Gaps:45/324(13%)
+
+Query  12   SVVTRIQRWLAR--------NQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRR  63
+            S +TR Q W  +        N+   LREFVYLDE+SV SL+AS   G I +E  D E   
+Sbjct  2    SFLTRFQVWFRQWRRRRAARNKTGTLREFVYLDEVSVYSLIASR-LGPIATEFTDTETTS  60
+
+Query  64   RRS--GSSAGGSVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKL  121
+             +S  GSS G       A VS   S    +Q +  +     +IQ+ F  LY  +     L
+Sbjct  61   LQSEIGSSIGAGAGLAKADVS---SRILNNQTSGTQVLRKSIIQTAFKDLYEYEL--DSL  115
+
+Query  122  SLDQIP----------------IDDELEEEFSGLATSELKRGDVIGLRVNLSANLLFRLY  165
+            S+  +P                      + +  +   +L RG++  L V L A+ +FR+ 
+Sbjct  116  SIKPVPGVLKPPKISNRNDLLVATQSYVDGYWIIDPEKLSRGELFELEVQLEADPIFRVN  175
+
+Query  166  RTIDYFADAFEDQIDS---DTEEILE-------LISNSLGNRIPVVGKAVDYKVVNGEGH  215
+                   +  E   +S   +T + LE       ++   L   +P+ GKA+DY  V  +G 
+Sbjct  176  AVASTILEILEKDAESLGLNTNDELEQMKSVGRILEKLLAGLVPIRGKAIDYCGVELDGK  235
+
+Query  216  DKVIKRS--EDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDID  273
+            + ++ R   +D+ +D+E     + VV +      W D  + LF+N  + + CR+    + 
+Sbjct  236  EWIVNRKLLQDIQTDDELHTFPVFVVGVAEQVLFWKDLRRILFSNACYRVLCRIAQTGLQ  295
+
+Query  274  -RWYPLKVTRAIDSLSEPAAQNLN  296
+              W P+K+ +  +S+    +  +N
+Sbjct  296  ASWTPVKLAQVFESVIPGFSNQIN  319
+
+
+
+
+>hypothetical protein [Mariprofundaceae bacterium]
+Sequence ID: MBL4761013.1 Length: 448
+Range 1: 21 to 305
+
+Score:86.7 bits(213), Expect:3e-14, 
+Method:Compositional matrix adjust., 
+Identities:82/292(28%), Positives:135/292(46%), Gaps:29/292(9%)
+
+Query  27   DDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRS--GSSAGGSVSAGPASV--S  82
+            D LREFVYLDE+S+RSLL+S      V E  D   ++     G   G +VSAG   V  S
+Sbjct  21   DPLREFVYLDEVSLRSLLSSQ-----VGEVKDSTSKQTSDTLGVDVGSTVSAGIPQVGRS  75
+
+Query  83   AGFSEEREHQETKIERRNYDLIQSMFTRLY---NSDAVEQKLSLDQIPIDDEL---EEEF  136
+               S  +    + ++      +QS F   Y   N   +E   + D +   +EL   +E  
+Sbjct  76   ELISRFQTSNSSTLQTSRKATVQSWFRDFYKIKNIRLIEPVPAADAVSNLEELAAIKETS  135
+
+Query  137  SGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEE-----------  185
+              + +S+L RG+++  RV L+ + +F L   +  F+   ED  +  +E+           
+Sbjct  136  KVIKSSDLTRGELVEFRVKLAPDPIFHLATMMSEFSGMAEDYPEMFSEKNALKALKEAQP  195
+
+Query  186  ILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLD  245
+            + +++   L   IP+  +A+DY VV  +  + V+ RS  V S    D + LE+V +    
+Sbjct  196  VNKILQRLLAGLIPIRAEAIDYVVVEIDDVEHVVHRS--VVSGLNLDEKQLEIVGVTEHL  253
+
+Query  246  NLWVDPIQTLFNNDQFVIYCRVE-DVDIDRWYPLKVTRAIDSLSEPAAQNLN  296
+              W D  + LF+  +F I CR+  D   + W P+K+     +L     + +N
+Sbjct  254  AYWKDIRRVLFSEAEFTILCRISRDALHNSWTPVKLADLFKNLVPGLVEQIN  305
+
+
+
+
+>hypothetical protein [Candidatus Saccharimonadales bacterium]
+Sequence ID: MGB4800305.1 Length: 451
+Range 1: 4 to 451
+
+Score:86.3 bits(212), Expect:4e-14, 
+Method:Compositional matrix adjust., 
+Identities:111/464(24%), Positives:200/464(43%), Gaps:59/464(12%)
+
+Query  16   RIQRWLARNQFD-------DLREFVYLDEISVRSLLASTGEGGIVS---ETVDEEMRRRR  65
+            RI++W  R + +       +LREF+YLDE+S+ SLL+S   G I S   ET  + +    
+Sbjct  4    RIKQWGLRKKQNTERDDAAELREFIYLDEVSITSLLSSR-LGAIPSEFKETFSDSLSAEA  62
+
+Query  66   SGSSAGGSVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSD----AVEQKL  121
+            SG     ++ A    V + FS         + +     IQ+ F  LY  +    AV    
+Sbjct  63   SGQIQADAIVAK-TKVGSKFSTSISADRQIVRKAT---IQATFKDLYERECKRLAVNPPK  118
+
+Query  122  SLDQIPID--------DELEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFAD  173
+              +  P D        +++   +S LA S+LK+G +I L V L A+ +FR+   I  FA 
+Sbjct  119  EGESAPADIIKQLKDLEKITPPWS-LAGSQLKQGRIIELSVELQADPIFRVSSIISVFAT  177
+
+Query  174  AFE----------DQIDSDTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRS-  222
+             FE          D+  +D  E+  ++   +   IP+  + +DY+VV  +G+D ++  S 
+Sbjct  178  MFEKSKLLSSQINDKNITDATEVNRILEQLMDGLIPLKCRVIDYEVVTIDGNDYIVHSSV  237
+
+Query  223  -EDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRV-EDVDIDRWYPLKV  280
+             + +S  +  +   L +  +      W D  + LF+  +  + CR+ +D     W P+K+
+Sbjct  238  LDKMSGADRPETRPLYLTGVTEQGLFWKDIRRVLFSKARVKVLCRLNKDGLSSAWLPVKL  297
+
+Query  281  TRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLED  340
+               +  ++   A+ +     RGL  T   L  + +       SA         Y +++  
+Sbjct  298  VNVLGEVAPEVAETM-----RGLGDT--TLEAMTSGYKSQGNSAEAGVNMFVLYADAVAK  350
+
+Query  341  EYNKHLSDEEQELLIAEAMETVELGDEVSQTAQRKRVLNAYTDAFEAMFELDPTDDK---  397
+             ++  L+ +++  + + A         +  + +   V+ AY    +  F +  TDD+   
+Sbjct  351  NFDLKLTKKDKIDIASMARPYTADTSPILTSREGFMVVTAY---LQKRFNVVLTDDQELL  407
+
+Query  398  --TRQELRPDTT--NSAQSNVVTNS-DDEADKYRIEANTVAMYW  436
+               R+  R +    + A     TNS  DE +   I+A  +A+YW
+Sbjct  408  STMRETARKEYALKSIADHKGATNSPKDETNDAYIDAEVIAIYW  451
+
+
+
+
+>MULTISPECIES: DUF6414 family protein [unclassified Leucobacter]
+Sequence ID: WP_188058306.1 Length: 434
+Range 1: 13 to 434
+
+Score:85.1 bits(209), Expect:9e-14, 
+Method:Compositional matrix adjust., 
+Identities:112/447(25%), Positives:181/447(40%), Gaps:62/447(13%)
+
+Query  27   DDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSA--GPASVSAG  84
+            D  REF+YLDE+SV SLLA  G  G + E V + + R     S GG +SA    ASV + 
+Sbjct  13   DRHREFIYLDEVSVVSLLA--GLQGEIKEAVTDTLSRTED-HSLGGKLSAPKAGASVESR  69
+
+Query  85   FSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQI------PIDD--------  130
+                R      + R    +IQS F  L+  D      ++  I      PI          
+Sbjct  70   LGTSRTSTNEVVRR---AVIQSTFRDLWRRDVGVLLHNISGIKRRSRKPIHSYRDLENAL  126
+
+Query  131  -ELEEEFSGLATSELKRGDVIGLRVNLSANLLFRLY---RTIDYFADAFEDQI---DSDT  183
+              L++    +  S+++RGD++ + V + A+  F++     TI    +  ED     D D 
+Sbjct  127  PRLKKAKLAVPLSDIRRGDIVEMDVEVEADQFFKIITIGTTILDLMNGREDLFGISDGDV  186
+
+Query  184  EEI---LELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVT  240
+             E+   +E++   L   +P+ G A  + VV   G    I  +E +  +  G    LE+V 
+Sbjct  187  REVAPMIEVLRELLVGLVPMRGLATSHSVVEIAGEQVAIA-TELLGHEVRGAARPLELVG  245
+
+Query  241  LLNLDNLWVDPIQTLFNNDQFVIYCRVE-DVDIDRWYPLKVTRAIDSLSEPAAQNLNQEF  299
+                D+ W D  +TLF+   F +Y R E  +    W P+K+   ++S+S     +L  + 
+Sbjct  246  FAESDSFWRDLRRTLFSGSTFTVYARAEGPILTSPWSPIKIADLLESISP----DLRNQV  301
+
+Query  300  RRGLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEAM  359
+               L+Q    L   Q F    A++        Q   ES        +       L+ EA+
+Sbjct  302  VLPLQQL--DLGNTQPFKTPEAKATA------QFQLESFAVALQTAMGTTSDATLVKEAV  353
+
+Query  360  ETVELGDEVSQTAQRKRVLNAYTDAFEAMFELDPTDDKTRQEL----------RPDTTNS  409
+             T       ++T + +R       AFE + +    +D  R+ L           P++  +
+Sbjct  354  ATAVPVLVSARTIEERR------RAFEPVVQAVAGEDADRELLLTTRSEWIDRLPESVQN  407
+
+Query  410  AQSNVVTNSDDEADKYRIEANTVAMYW  436
+              S        E    ++E   VA+YW
+Sbjct  408  PSSAPRERLKSEVSPLQLEVGFVALYW  434
+
+
+
+
+>MULTISPECIES: DUF6414 family protein [Citromicrobium]
+Sequence ID: WP_156323666.1 Length: 456
+Range 1: 21 to 321
+
+Score:84.7 bits(208), Expect:1e-13, 
+Method:Compositional matrix adjust., 
+Identities:82/309(27%), Positives:140/309(45%), Gaps:31/309(10%)
+
+Query  21   LARNQFDDLREFVYLDEISVRSLLAS-TGEG--GIVSETVDEEMRRRRSGSSAGGSVSAG  77
+            L   Q + LREFVYLDE+S+ SLLAS  GE    + S++ DE      S +  GG VS+ 
+Sbjct  21   LPIGQTEPLREFVYLDEVSLASLLASQKGEATENVTSQSGDE------STAEVGGKVSSN  74
+
+Query  78   -PASVSAGFSEEREHQET-KIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDELEE-  134
+             P + SA  S   +   +  ++  +    QS F  L+  D + +   ++ +     LE+ 
+Sbjct  75   TPMTPSAEVSSRFQTTNSNSLQTVSKATAQSRFRELHKFDYLRKIKPVEVLKSATSLEDL  134
+
+Query  135  -----EFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEI---  186
+                 E +    S+LKRGD++  +V LSA+ +F++   +  F++ F+       E +   
+Sbjct  135  KDGSYENTCYRASDLKRGDLVEFKVQLSASWIFQISTMVAEFSEMFDQSPTMFMESVNFL  194
+
+Query  187  --------LELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEV  238
+                     ++IS  L   IPV G   DY V+     + ++ R  +  S    +  +L +
+Sbjct  195  DLYQAKNANKIISKLLAGLIPVDGVVSDYVVIADGEQNLIVHR--NAISGFPIECSELRI  252
+
+Query  239  VTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDIDR-WYPLKVTRAIDSLSEPAAQNLNQ  297
+            V +      W D  + LF +++F + CR+    I   W P+KV       +   A+ +  
+Sbjct  253  VGVTEHLAYWKDIRRVLFADNEFTMLCRLSKSGIQNDWNPIKVADIFRDFAPDLARQIET  312
+
+Query  298  EFRRGLEQT  306
+              R  + Q+
+Sbjct  313  SSRAAMTQS  321
+
+
+
+
+>DUF6414 family protein [Actinoplanes sp. NPDC051861]
+Sequence ID: WP_364224327.1 Length: 454
+Range 1: 20 to 454
+
+Score:84.3 bits(207), Expect:2e-13, 
+Method:Compositional matrix adjust., 
+Identities:117/454(26%), Positives:196/454(43%), Gaps:58/454(12%)
+
+Query  22   ARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRR---SGSSAGGSVSAGP  78
+            AR+    LREFVYLDE+SV SLLAS  +G + +E  D +    R   +G  +GG V    
+Sbjct  20   ARSTSASLREFVYLDEVSVYSLLASR-QGALAAEYTDVKTNASRNELAGKVSGG-VPVAK  77
+
+Query  79   ASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSL-----DQIPIDDELE  133
+            A VS+   EE     T+  R++   IQ+ F   Y  +  E +L++     D  P D E  
+Sbjct  78   AEVSSKL-EETLTLSTQTLRKST--IQAAFKEFYEGE--EGRLTMRPLDRDSRPPDVESI  132
+
+Query  134  EEFSGLATSE-------LKRGDVIGLRVNLSANLLFRLYRTID----YFAD---AFEDQI  179
+            ++ S     E         RGD+I + V L  + LFR+   +      FAD    F D +
+Sbjct  133  DDLSAADLQEWVHNAEDFARGDLIEVEVELETDRLFRVSSIMSALGGIFADNPTIFPDPM  192
+
+Query  180  DSDTEE---ILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVED-  235
+             S   +   I  ++   L   IP+  KAVDY+V+  +G D ++ ++  V +     V+D 
+Sbjct  193  QSRVSQLSAINRILETLLVGLIPIECKAVDYQVLEVDGQDLIVHKA--VLAQLPESVKDG  250
+
+Query  236  ---LEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRAIDSLSEPA  291
+               L VV +      W D  + LF++ +F   CR+    + D W P+K+   +  +    
+Sbjct  251  SRPLIVVGVTEERLFWKDIRRVLFSSSRFRALCRLNHTGLRDSWVPVKLINVLGDVVPGL  310
+
+Query  292  AQNLNQEFRRGLEQTRRQ-LSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEE  350
+               L+   R   + + R  LSE        +ES  + G  + AY   L   +    + E 
+Sbjct  311  DLKLDSLSRSAFDGSSRSDLSE--------SESLQQVGSVLNAYRNLLCAHHGLDPATEP  362
+
+Query  351  QELLIAEAME-TVELGDEVSQTAQRKRVLNAYTDAFEAMFELDPTDDK-------TRQEL  402
+              +    A++   E G   ++ A  K +   ++   +A  ++DP           +   L
+Sbjct  363  SAIASEVALKYHHEFGRYDARMAAFKAIAEEFSS--KAGADVDPLVAAHLRGLALSEAFL  420
+
+Query  403  RPDTTNSAQSNVVTNSDDEADKYRIEANTVAMYW  436
+             PD +  +       + ++ ++  ++   VA+YW
+Sbjct  421  HPDGSPVSLPIRPAKTIEKENRLLVDTEIVAIYW  454
+
+
+
+
+>MULTISPECIES: DUF6414 family protein [unclassified Rhodococcus (in: high G+C Gram-positive bacteria)]
+Sequence ID: WP_156388378.1 Length: 433
+Range 1: 13 to 297
+
+Score:84.0 bits(206), Expect:2e-13, 
+Method:Compositional matrix adjust., 
+Identities:80/293(27%), Positives:132/293(45%), Gaps:33/293(11%)
+
+Query  27   DDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFS  86
+            D  REF+YLDE+SV SLLA  G  G + ++V + + R     S G S+ A    + +   
+Sbjct  13   DRQREFIYLDEVSVVSLLA--GLQGEIKDSVTQTLARTED-RSVGASIGAAGVGLESRLG  69
+
+Query  87   EEREHQETKIERRNYDLIQSMFTRLYNSDA------VEQKLSLDQIPIDD--ELEEEFSG  138
+              R      + R    +IQS F  L+  D       +       + PI    ELE     
+Sbjct  70   ASRSSTNEVVRR---AIIQSTFRDLWQRDIGVLLHDISGAKPKARRPISTLRELENVLPR  126
+
+Query  139  LATSEL-------KRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQID----SDTE---  184
+            L  +++        RGD++ + + + A+  F +      F D    + +    S+ E   
+Sbjct  127  LTKAKMAVPLNKISRGDIVEMEIEVRADRFFEMITVGTTFLDMMHGRENLFGVSEAEFRE  186
+
+Query  185  --EILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLL  242
+               ++E++   L   +P+ G A  +KVV   G   VI  SE + ++ + + + LE+V   
+Sbjct  187  MAPMIEVLKELLVGLVPIRGVAASHKVVEISGQQIVIA-SELLGAELQTNAKPLEIVGFA  245
+
+Query  243  NLDNLWVDPIQTLFNNDQFVIYCRVE-DVDIDRWYPLKVTRAIDSLSEPAAQN  294
+              ++ W D  +TLF+   F +Y R E  V  +RW P+K+   + SLS P  +N
+Sbjct  246  ESESFWRDLRRTLFSGSVFTMYARAEGPVLTERWSPIKIADLLGSLS-PGLRN  297
+
+
+
+
+>DUF6414 family protein [Glycomyces sp. MUSA5-2]
+Sequence ID: WP_335988480.1 Length: 456
+Range 1: 22 to 338
+
+Score:83.6 bits(205), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:83/320(26%), Positives:134/320(41%), Gaps:32/320(10%)
+
+Query  28   DLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFSE  87
+            +LREFVYLDE+SV SLL+S   G I S+        R S S    ++      V A    
+Sbjct  22   ELREFVYLDEVSVVSLLSSR-LGKIPSQYT--HTLTRGSTSEVNSAIEGNATVVKAKVGS  78
+
+Query  88   EREHQETK-IERRNYDLIQSMFTRLYNSD----AVEQKLSLDQIPIDDELEEEFSG----  138
+              E  ET+  +  +   IQ+ F   Y+S+    A+      D +P  +E+          
+Sbjct  79   RLESTETEDTQVVSKATIQATFKEFYDSENTSFALRPIPPSDVVPTFNEVRASVEARRNE  138
+
+Query  139  -------LATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILELIS  191
+                   +    L RG +I L V+LSA+ LFR+   I   +D   +  D+    +   I 
+Sbjct  139  GSLTQWLMPVDRLSRGQIIELEVDLSADSLFRMSTIISTISDIVSETADAQDSAVQGGID  198
+
+Query  192  NSLG----------NRIPVVGKAVDYKVVNGEGHDKVIKRS--EDVSSDEEGDVEDLEVV  239
+             ++G            IP+  +A DY V++ E    +I R   E +  DE     +L + 
+Sbjct  199  TAMGINKILEKLMAGLIPLYSRASDYFVISDEKGRYLIHRRLLESIQPDERPSTSELHLA  258
+
+Query  240  TLLNLDNLWVDPIQTLFNNDQFVIYCRV-EDVDIDRWYPLKVTRAIDSLSEPAAQNLNQE  298
+             +      W D  + LF+N +F I CR+  D     W P+K+   I  +       ++  
+Sbjct  259  CVTQKSLFWKDIRRLLFSNARFRILCRLNHDGLASNWSPIKMDDIIGEVVPEFKAQISMF  318
+
+Query  299  FRRGLEQTRRQLSELQNFTD  318
+              +GL+   R +++   F +
+Sbjct  319  GAQGLDAMSRSVAKQSRFIE  338
+
+
+
+
+>DUF6414 family protein [Cellulosimicrobium arenosum]
+Sequence ID: WP_191827770.1 Length: 438
+Range 1: 14 to 369
+
+Score:83.6 bits(205), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:103/397(26%), Positives:169/397(42%), Gaps:75/397(18%)
+
+Query  29   LREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGS-----SAGGSVSAGPASVSA  83
+            LREFVYLDE+S+ SLL S        +T+ E +   RS S     SA  SV A    V+A
+Sbjct  14   LREFVYLDEVSLTSLLVSQ------RDTIPEHVTSGRSVSEQAEISAKASVDA----VAA  63
+
+Query  84   GFSEEREHQ---ETKIERRNYDLIQSMFTRLYNSDAVEQKLSLD-----QIPIDDELEE-  134
+                   +Q    + +E     ++Q++F  L +   +   L  D      IP+D   E+ 
+Sbjct  64   KAESATRYQTANSSSVESSRKAVVQTLFNELRDDAKLPIALRDDAVGPVSIPVDSATEDG  123
+
+Query  135  EFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFAD--------------AFEDQID  180
+               G    +L RG +I L V L  + +F+L   +  F+               A  D+I 
+Sbjct  124  GHRGWRGEDLLRGQLIELEVVLEVDPVFKLGTMVSEFSAMAAEYPQMAGPAGLAMLDEI-  182
+
+Query  181  SDTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEG-DVEDLEVV  239
+               E + +++   L   IP+   A +Y V   +GH+ V++ S   ++ E G  V  LE+V
+Sbjct  183  ---EPVKKVLDRLLAGLIPIRATACNYVVATVDGHEYVVRSS---TASELGVPVRPLEIV  236
+
+Query  240  TLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRAIDSLSEPAAQNLNQE  298
+             +      W D  + LF++ QF + CRV    + + W P+KV      ++    + ++  
+Sbjct  237  GVTEHIGYWKDIRRVLFSSGQFKLLCRVARPGLHETWTPVKVAHLFGDVAPSLVEQIDTL  296
+
+Query  299  FRRGLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAEA  358
+             + G        + L       +  A+   + + AY + +    N       Q L  + A
+Sbjct  297  SKAG-------TTGLDGLASGHSHPALV--RALAAYADQIASMTN-------QGLRPSAA  340
+
+Query  359  METVELG----DEVSQTAQRKRVLNAYTDAFEAMFEL  391
+            +E +E+     DE S +AQR+        AF A+ EL
+Sbjct  341  VELIEIAARASDEASPSAQRQ--------AFAAVREL  369
+
+
+
+
+>DUF6414 family protein [Brevibacterium album]
+Sequence ID: WP_156913990.1 Length: 434
+Range 1: 13 to 294
+
+Score:83.6 bits(205), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:80/289(28%), Positives:128/289(44%), Gaps:34/289(11%)
+
+Query  27   DDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAG--GSVSAGPASVSAG  84
+            D  REF+YLDE+SV SLLA  G  G + E V + + R    S  G  G+  AG ASV + 
+Sbjct  13   DRHREFIYLDEVSVVSLLA--GLQGEIKEAVTDTLSRTEDHSLGGTIGAAKAG-ASVESR  69
+
+Query  85   FSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQI------PIDD--------  130
+                R      + R    +IQS F  L+  D      ++  I      PI          
+Sbjct  70   LGASRTSTNEVVRR---AVIQSTFRDLWRRDVGVLLHNISGIKRRSRKPIHSYRDLENAL  126
+
+Query  131  -ELEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQ------IDSDT  183
+              L++    +  SE+ RGD++ + V + A+  F++        D    +       D+D 
+Sbjct  127  PRLKKAKLAVPLSEIHRGDIVEMDVKIEADQFFKIITMGTTILDLMNGREHLFGISDADV  186
+
+Query  184  EEILELIS---NSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVT  240
+             E+  +I      L   +P+ G A  + V+   G ++V+  +E + ++  G    LE+V 
+Sbjct  187  REVAPMIKVLRELLVGLVPMRGLATSHSVIEVAG-ERVVIATELLGNEVRGGARPLELVG  245
+
+Query  241  LLNLDNLWVDPIQTLFNNDQFVIYCRVE-DVDIDRWYPLKVTRAIDSLS  288
+                D+ W D  +TLF+   F +Y R E  V    W P+K+   ++SL+
+Sbjct  246  FAESDSFWRDLRRTLFSGSTFTVYARAEGPVLSSPWSPIKIADLLESLA  294
+
+
+
+
+>DUF6414 family protein [Micromonospora sp. NPDC049201]
+Sequence ID: MHH2112329.1 Length: 459
+Range 1: 4 to 459
+
+Score:83.6 bits(205), Expect:3e-13, 
+Method:Compositional matrix adjust., 
+Identities:114/475(24%), Positives:202/475(42%), Gaps:63/475(13%)
+
+Query  6    IRQRLHSVVTRIQRWLARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRR  65
+             +++L S+  R +   AR     LREFVYLDE+SV SLLAS  +G + SE  D +    R
+Sbjct  4    FKRKLASLRRRRRIKAARLLTTPLREFVYLDEVSVYSLLASR-QGALASEYTDTQTAASR  62
+
+Query  66   SGSSAGGSVSAGPASVSAGFSEERE---HQETKIERRNYDLIQSMFTRLYNSDAVEQKLS  122
+               S  G V  G  +    FS +RE    Q +++ R++   +Q+ F  LY  +  E +L 
+Sbjct  63   GELS--GKVGVGVNATKGEFSSKREDTYTQSSQVIRKS--TVQAAFKELYEGE--EDRLG  116
+
+Query  123  LDQIPID---------DELEEEFSG-------LATSELKRGDVIGLRVNLSANLLFRLYR  166
+            +    +          ++L ++ S        +  S L RG ++ L + L+ + +F++  
+Sbjct  117  VTPFKLSEKPPKVSSWEQLSQDLSNPVFDGWIMRPSSLSRGQLVELEIELATHSIFKMTS  176
+
+Query  167  TI-----------DYFADAFEDQIDSDTEEILELISNSLGNRIPVVGKAVDYKV--VNGE  213
+             +           + F  +   Q+  D   +  +++  L   IP+  +A+DY V  VNG+
+Sbjct  177  VMSALWGIIAENPELFPQSQFPQLQ-DVAAVNRVLNKLLVGLIPLRCRALDYCVVEVNGQ  235
+
+Query  214  GHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-  272
+                 ++ +E ++ D       L VV +      W D  + LF   +F I  R+    + 
+Sbjct  236  KVALHVRLAEQIAPDPNFVPVPLYVVGVTEERLYWKDVRRVLFTGQRFRILARMSTGAVT  295
+
+Query  273  DRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLSELQNFTDWSAESAMEWGQDIQ  332
+              W P+K+   +D LS     ++  +    +EQ  R   E         + +      + 
+Sbjct  296  SHWVPVKL---VDVLS-----DVVPDMAERIEQAGRVFGEASVARTGDGDHSASVAVALV  347
+
+Query  333  AYTESLEDEYNKHLSDEEQELLIAEAMETVELGDEVSQTAQRKRVLNAYTDAFEAMF--E  390
+            +Y++ L D Y+  + D +QE       ET     E +    R+    A    F   +  +
+Sbjct  348  SYSKLLADRYDIAI-DADQEKAFEAIAET--HCHEFNGYDARRAAFEAIARHFSTAYSIK  404
+
+Query  391  LDPTDDK-------TRQELRPDTTNSAQSNVVTNSDDEA--DKYRIEANTVAMYW  436
+            +DP D         T   L PD   +A S++   ++ +   D+  ++A  VA+YW
+Sbjct  405  VDPVDAARLRSVALTDALLLPDGRLAASSDLAGPAEPQQKNDEMLLDAEIVAVYW  459
+
+
+
+
+>DUF6414 family protein [Micromonospora rifamycinica]
+Sequence ID: WP_357655964.1 Length: 445
+Range 1: 3 to 386
+
+Score:83.2 bits(204), Expect:4e-13, 
+Method:Compositional matrix adjust., 
+Identities:103/396(26%), Positives:173/396(43%), Gaps:41/396(10%)
+
+Query  21   LARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRS--GSSAGGSVSAGP  78
+            +AR     LREFVYLDE+SV SL+AS   G + +E  D +    +S   ++AG +V    
+Sbjct  3    VARKLNATLREFVYLDEVSVFSLIASR-LGPVAAEFTDTQSDSLKSELQTTAGATVGVAK  61
+
+Query  79   ASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSD----AVEQKLSLDQIPIDDEL--  132
+                +  SE    + +++ R+    +Q+ F  LY  +    A+      D+ P    L  
+Sbjct  62   GEAKSR-SEVTNTRTSQVLRKAT--VQATFKDLYELEEGNLAIRPFTPADKPPTVRTLGE  118
+
+Query  133  ------EEEFSG--LATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTE  184
+                  E  F G  L   + +RG ++ L + L A+ ++R+   +    D   D  +    
+Sbjct  119  IEARFGEPAFDGWVLGPGDWRRGQLMELEIELEADPIYRIGSVLTSLVDLINDSPELFPP  178
+
+Query  185  EILELISNSLG-NR---------IPVVGKAVDYKVVNGEGHDKVIK-RSEDVSSDEEGDV  233
+             I   + N +  NR         IP+ GK+ +Y+V+       ++  R  D   +   +V
+Sbjct  179  SIQAELRNPIAVNRVLERLMVGLIPIRGKSTEYRVIRLRDTALLVHTRLLDQLGESAANV  238
+
+Query  234  EDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRAIDSLSEPAA  292
+            EDL VV +      W D  Q L+++ +F ++CRV   D+ D W P+K+   +  +  P  
+Sbjct  239  EDLYVVGVTEQRLYWKDIRQVLYSDSRFRVFCRVNHDDLADTWKPVKMVDILGGVV-PDL  297
+
+Query  293  QNLNQEFRRGLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQE  352
+             ++   F  G E   R LS     ++ S   A    + +  Y +S+ D  N  L+ +   
+Sbjct  298  PDVLSRFSVGAE---RLLSGGHIASESSERQASCMQKALLEYAQSVTDHCNAVLTPD---  351
+
+Query  353  LLIAEAMETVELG-DEVSQTAQRKRVLNAYTDAFEA  387
+             L+AE      L  D  S  A R++  +A   A E+
+Sbjct  352  -LLAELHAISILHRDAFSDHAARRQAFDAMRSAIES  386
+
+
+
+
+>DUF6414 family protein [Microthrixaceae bacterium]
+Sequence ID: MGQ0433383.1 Length: 459
+Range 1: 28 to 307
+
+Score:82.4 bits(202), Expect:8e-13, 
+Method:Compositional matrix adjust., 
+Identities:78/290(27%), Positives:134/290(46%), Gaps:40/290(13%)
+
+Query  29   LREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSA--------GPAS  80
+            LREFVYLD++SV SL AS   G I +E  D E       ++ GG V +            
+Sbjct  28   LREFVYLDDVSVYSLTASR-LGAIATEFTDTET------NTLGGEVESSIEGFGGFAKGG  80
+
+Query  81   VSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDDEL-EEEFSGL  139
+            V A  S  RE Q +++ R++  +IQ+ F  LY  +A    +      + D+L   + + L
+Sbjct  81   VRAKSSASRE-QSSQVVRKS--IIQTAFKDLYELEADRLLIGGPSAQLPDQLASADLTRL  137
+
+Query  140  A--------TSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQID----------S  181
+            A         ++ +RG +I L V L    +FR+   +  F +  ++ ++          +
+Sbjct  138  ADQGEWVIDPAKFERGGLIELEVELETEAVFRVNAVVSAFLEIVQEDLEVFGITGPVGIA  197
+
+Query  182  DTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRS--EDVSSDEEGDVEDLEVV  239
+            +   +  ++   L   +P+ G+AVD+   +  G D V+ R   + +       VE L VV
+Sbjct  198  EARAMSRVLDKLLTGLVPLRGRAVDFVRTSVNGRDLVVHREVLDRLPESSRPAVEPLLVV  257
+
+Query  240  TLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRAIDSLS  288
+             +      W D  + LF+N +F ++CRV    + DRW P+K+T  +  ++
+Sbjct  258  GVAEQRLFWKDIRRVLFSNSRFRMFCRVSQSGLRDRWAPVKLTEVLKEIA  307
+
+
+
+
+>DUF6414 family protein [Nocardia cyriacigeorgica]
+Sequence ID: WP_195047478.1 Length: 439
+Range 1: 3 to 439
+
+Score:82.0 bits(201), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:123/461(27%), Positives:204/461(44%), Gaps:63/461(13%)
+
+Query  15   TRIQRWL------ARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRR---R  65
+            TR +RW        +     +REF+YLDEISV SLL S    G V+E + E   R    +
+Sbjct  3    TRTERWKFWRRSSPKPAGSAVREFIYLDEISVISLLVS--REGEVTEQIQEGSTREDQIQ  60
+
+Query  66   SGSSAGGSVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQ  125
+            + SSAG SV    A   + F + +  Q  +  R+    IQS F RL+   A+++KL+   
+Sbjct  61   TDSSAGVSVKGLKAESKSSF-QTKNSQSVQTTRKAN--IQSQFRRLHKR-AIKEKLTF--  114
+
+Query  126  IPID----------DELEEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTI-------  168
+             P D          D L       A   + RGD++   V L A+  +R+   I       
+Sbjct  115  -PGDLPRRDIKNQKDLLRRAEICRAEKNICRGDLMEFTVTLRADPSYRMGAMITELVNMS  173
+
+Query  169  DYFADAF---EDQIDSDTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDV  225
+            D   + F   +  I S+      L+   +   +PV     + + ++  G D ++  + + 
+Sbjct  174  DEHPEVFGTVQASISSEMRSYGRLLDRFMTGLVPVKASIKNLRRLSINGSDYLV--NAEA  231
+
+Query  226  SSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRAI  284
+            ++       ++++V + + D+ W D  + LF++ +  I  RV D  I D W P+K+    
+Sbjct  232  AARLGLSTTEIQLVGVTDKDSYWKDMRRVLFSDQEVTILARVNDKSIKDSWSPVKLV---  288
+
+Query  285  DSLSEPAAQNLNQEFRRGLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNK  344
+              L E     L Q+F      T  +L +LQ+ +  S  ++  + + +  Y E +  +   
+Sbjct  289  -DLFEGTIPGLRQQF-----STLSRL-DLQHPSMQSTHNSELFRRALIFYAEDVTADRAI  341
+
+Query  345  HLSDEEQELLIAEAMETVELGDEV-SQTAQRK--RVLNAYTDAFEAMFELDPTDDKTRQE  401
+             L+ + Q   I    E  ELG++V +Q AQR   R +    + F A  E +      RQ 
+Sbjct  342  TLT-QGQRFEIERLAE--ELGNQVGTQEAQRSAFRHIQQKLNTFGATIEPNRAAQFRRQA  398
+
+Query  402  LR----PDTTNSAQSNVVT--NSDDEADKYRIEANTVAMYW  436
+                  P  ++SA + + T  NSDD +D+  +E   +AMYW
+Sbjct  399  RNRAALPLFSDSATTPLWTGDNSDDSSDEQLLEVEIIAMYW  439
+
+
+
+
+>hypothetical protein [Chloroflexota bacterium]
+Sequence ID: MYE32650.1 Length: 459
+Range 1: 11 to 306
+
+Score:82.0 bits(201), Expect:1e-12, 
+Method:Compositional matrix adjust., 
+Identities:82/309(27%), Positives:134/309(43%), Gaps:50/309(16%)
+
+Query  17   IQRWLARNQFD----DLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGG  72
+            ++R   R Q +      REFVYLDE+SV SLLAS   G  V++T  E      + S  G 
+Sbjct  11   VKRLFGRGQAEVELVGRREFVYLDEVSVYSLLASHKAG--VADTFTETATASLT-SDVGS  67
+
+Query  73   SVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQ--IPIDD  130
+            S+      V AG +   + Q ++I R+    +Q+ F  LY    +EQ + + Q  +P D 
+Sbjct  68   SIGVAGTGVRAG-AGSNQSQSSQIVRKAT--VQTHFKELYE---IEQPMLVIQTLVPTDP  121
+
+Query  131  ELEEEFSGLAT--------------SELKRGDVIGLRVNLSANLLFRLYRTID-------  169
+                + S L +              + L RG++I + V L  + LFRL   I+       
+Sbjct  122  PTPADVSDLQSMLKDSARGRWVVGHAALSRGELIEVDVELDTDPLFRLSTVINTVRRLID  181
+
+Query  170  ----YFADAFEDQIDSDTEEILELISNSLGNRIPVVGKAVDYKVVNGEG-----HDKVIK  220
+                 FA +   Q+D +   + +++ + L   +PV G+ VDY+     G     H+ V+K
+Sbjct  182  ENAALFARSGITQLD-EMRAVAQVLESLLEGLVPVRGRLVDYRFATIAGEDVLIHNAVLK  240
+
+Query  221  RSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLK  279
+               D +    G      V  +      W D  +TLF+  ++ + CR+    +  RW P  
+Sbjct  241  NMTDEARPPTGPA---YVAGVAQHSFFWKDIRRTLFSTPRYTMLCRIAATGLSSRWSPTT  297
+
+Query  280  VTRAIDSLS  288
+                + +L+
+Sbjct  298  TVDLLGALA  306
+
+
+
+
+>DUF6414 family protein [Solirubrobacteraceae bacterium]
+Sequence ID: MGI8730134.1 Length: 461
+Range 1: 17 to 318
+
+Score:81.3 bits(199), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:88/308(29%), Positives:137/308(44%), Gaps:32/308(10%)
+
+Query  22   ARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASV  81
+            A+ +   LREFVYLD+ SV SLLAS   G + +E  D E R   +G ++    SA     
+Sbjct  17   AQTRGRPLREFVYLDDTSVLSLLASR-IGAVPTEYTDSESRALSTGVNSKLGASAAVLKA  75
+
+Query  82   SAGFS-EEREHQETKIERRNYDLIQSMFTRL--YNSDAVEQKL-----------SLDQIP  127
+             AG S E      T++ R +   IQS F  L  Y  D++  +            +L  + 
+Sbjct  76   EAGSSIETSRSTATQVIRMSS--IQSAFKELLEYAEDSLALQWPRATPRPPRVRTLRDLA  133
+
+Query  128  IDDELEEEFSGLATSELKRGDVIGLRVNLSANLLFR-------LYRTIDY---FADAFED  177
+               E  +     + SEL+RG++I + V+L A+ +FR       L R +D     A+  + 
+Sbjct  134  AQAEGTDRHWVTSPSELRRGELIEVEVSLDADEIFRFSVILTTLLRFVDQIPELANVTDG  193
+
+Query  178  QIDSDTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEE-GDVEDL  236
+            Q   D     +++   L   +P+ G+ VDY++V  EG   V+        DE   DV  L
+Sbjct  194  QSLKDALTANQILDQMLAGLVPLRGEVVDYRLVTVEGKQLVVHTDLLEQLDEAVVDVHPL  253
+
+Query  237  EVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDID-RWYPLKVTRAIDSLSEPAAQNL  295
+            +VV +   D  W D  + LF+  ++ +  R+    I   W P+K+   +       A N 
+Sbjct  254  QVVAVAEADLFWRDIRRVLFSGARYTVLARLSRAGIQTEWMPVKLVELLKDFVPDLAANF  313
+
+Query  296  NQEFRRGL  303
+            +    RGL
+Sbjct  314  DG---RGL  318
+
+
+
+
+>DUF6414 family protein [Nesterenkonia sp. CL21]
+Sequence ID: WP_311023755.1 Length: 450
+Range 1: 29 to 450
+
+Score:80.9 bits(198), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:101/454(22%), Positives:190/454(41%), Gaps:78/454(17%)
+
+Query  29   LREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGS-----SAGGSVSAGPASVSA  83
+            LREF+YLDE+S+ SLL S        +TV E +   R+ S     S+  SV A  A V +
+Sbjct  29   LREFIYLDEVSLTSLLVSQ------RDTVPEHVTSGRTSSEQAEISSRASVDAVAARVES  82
+
+Query  84   GFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLD-QIPIDDELEEEFSGLATS  142
+              +  +    + +E     ++Q++F  L + DA+   L+ D Q P+     +E       
+Sbjct  83   A-TRYQTANSSSVESSRKAVVQTLFNELRDDDALPIFLTEDAQGPVALPGADEIGAWPIE  141
+
+Query  143  ELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFED----------QIDSDTEEILELISN  192
+            +L RG +I +   L A+ +++L   +  F+    +           + ++ + I +++  
+Sbjct  142  DLHRGRMIEVEAVLDADPVYKLGTMVSEFSAMAAEYPQMAGRGGLAMLAEVDPINKVLDR  201
+
+Query  193  SLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNLWVDPI  252
+             L   IP+  +A ++ VV       +++ ++  + D    V+ L++V +      W D  
+Sbjct  202  LLAGLIPIRARACNFSVVTVSDRGFIVRITDADALDLA--VQPLDIVGVTEHLGYWKDIR  259
+
+Query  253  QTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQTRRQLS  311
+            + LF++ QF + CR+    + + W P+KV      ++    + +    R G         
+Sbjct  260  RVLFSSGQFKLLCRLSRSGVHESWNPVKVAHLFGDVAPTLVEQIEAAGRVGT--------  311
+
+Query  312  ELQNFTDWSAESAMEWGQD-------IQAYTESLEDEYNKHLSDEEQELLIAEAMETVEL  364
+                    S  S++  GQ        + AY + ++   ++     +   LIA A    E+
+Sbjct  312  --------SGGSSLSVGQPQLALVRALAAYVDEIKSANSQSFEAPQVSELIAVA---AEV  360
+
+Query  365  GDEVSQTAQRKRVLNAYTDAFEAM------FELDPTDDK-TRQELR-------------P  404
+             DE S + QR+    A+ D  + +        + P  D+  RQ  R             P
+Sbjct  361  SDEASPSEQRR----AFADVRKLIDLQNPDLAMTPEQDRDARQRARAHAGLMTTFQGAVP  416
+
+Query  405  DTTNSAQSNV--VTNSDDEADKYRIEANTVAMYW  436
+            + +++A   V  V   +D  D   ++   VA+YW
+Sbjct  417  NASSAAGGGVADVATHEDFTDLKMVDVEVVAIYW  450
+
+
+
+
+>DUF6414 family protein [Jonesia denitrificans]
+Sequence ID: WP_041287925.1 Length: 435
+Range 1: 7 to 340
+
+Score:80.9 bits(198), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:91/342(27%), Positives:152/342(44%), Gaps:51/342(14%)
+
+Query  29   LREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRR------RSGSSAGGSVSAGPASVS  82
+            LREFVYLD +S+ SLL S  E   + E + + + R        S S++ GS   G A   
+Sbjct  7    LREFVYLDAVSLHSLLVSQAE--TIPEAITQTISRADEAELIGSASTSVGSDLIGKAEAQ  64
+
+Query  83   AGFSEEREHQETKIERRNYDLIQSMFTRL------YNSDAVEQKLSLDQIPIDDELEEEF  136
+                 +  + ++    R   +IQ++F +L      +   A EQ  +L    ID +   E 
+Sbjct  65   TSARYKTGNSDSTQSSRKA-VIQTLFKQLREQPLEFKLSAPEQVDALKDA-IDIKGVSEN  122
+
+Query  137  SGLATSELKRGDVIGLRVNLSANLLFRLYRTID---YFADAFEDQIDS--------DTEE  185
+               A S   RGD+I + V L+ + +F+L   ++     A  + +   S        D+E 
+Sbjct  123  VASAASSFVRGDLIEVEVVLAVDPVFKLKAMMNEWSVMASDYPEMFSSSGALGFLRDSEP  182
+
+Query  186  ILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLD  245
+            I++++   L   IPV  KAV+Y VV  +G D ++ +  +   D + +V+ L V  +    
+Sbjct  183  IMKVLDQFLAGLIPVRAKAVNYVVVILDGVDYIVHK--NAVDDLDLEVQPLFVTGVTEHL  240
+
+Query  246  NLWVDPIQTLFNNDQFVIYCRVE-DVDIDRWYPLKVTRA-----------IDSLSEPAAQ  293
+              W D  + LF++ +F + CRV  D   D W P+K+              I+++  P A+
+Sbjct  241  GFWKDIRRVLFSDARFTMLCRVARDGLHDTWTPVKLADLFSEVAPDFVDHINAIRIPTAE  300
+
+Query  294  --------NLNQEFRRGLEQTRRQLSELQNFTDWSAESAMEW  327
+                    + N    R L Q R  ++ +   T WS+E   E+
+Sbjct  301  DGFAATASSHNVALERALTQYRSTIAPVG--TSWSSEQQREF  340
+
+
+
+
+>DUF6414 family protein [Citricoccus sp. NR2]
+Sequence ID: WP_270106556.1 Length: 434
+Range 1: 8 to 294
+
+Score:80.9 bits(198), Expect:2e-12, 
+Method:Compositional matrix adjust., 
+Identities:81/297(27%), Positives:136/297(45%), Gaps:41/297(13%)
+
+Query  23   RNQFDD-LREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAG--GSVSAGPA  79
+            RN+  D  REF+YLDE+SV SLLA  G  G + + V + + R    S  G  G+   G A
+Sbjct  8    RNEIRDRHREFIYLDEVSVVSLLA--GLQGEIKDAVTDTLSRTEDHSLGGTLGAAKTG-A  64
+
+Query  80   SVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSD---------AVEQKLSLDQIPIDD  130
+            SV +     R      + R    +IQS F  L+  D          ++++L   + PI  
+Sbjct  65   SVESRLGTSRSSTNEVVRR---AVIQSTFRDLWRRDVGVLLHDISGIKRRL---RKPIHS  118
+
+Query  131  --ELEEEFSGLATSEL-------KRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQID-  180
+              +LE     L  ++L        RGD++ + V + A+  F++      F D    + D 
+Sbjct  119  YRDLENALPRLKKAKLAVPLGNIHRGDIVEMDVKVEADQFFKMITVGTTFLDLMNGREDL  178
+
+Query  181  -----SDTEEI---LELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGD  232
+                 +D  E+   +E++   L   +P+ G A  + V+   G ++V   +E + ++ +G 
+Sbjct  179  FGVSAADVREVAPMIEVLKELLVGLVPMRGVATSHSVIEVAG-EQVAIATELLGNEVQGG  237
+
+Query  233  VEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRAIDSLS  288
+               LE+V     ++ W D  +TLF+   F +Y R E   +   W P+K+   ++SLS
+Sbjct  238  ARPLELVGFAEANSFWRDLRRTLFSASTFTVYARAEGPTLTSPWSPIKIADLLESLS  294
+
+
+
+
+>DUF6414 family protein [Amycolatopsis sp. 3B14]
+Sequence ID: WP_433744397.1 Length: 458
+Range 1: 23 to 335
+
+Score:80.9 bits(198), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:81/327(25%), Positives:149/327(45%), Gaps:54/327(16%)
+
+Query  29   LREFVYLDEISVRSLLASTGEGGIVSETVDEE---MRRRRSGSSAGGSVSAGPASVSAGF  85
+            LREF+YLDE+SV SL AS  EG +  E  D     ++   +G    G  + G A + + +
+Sbjct  23   LREFIYLDEVSVTSLFASR-EGKVPHEFTDSATAGVKAEVNGQVEAGIAAVGKARIGSKY  81
+
+Query  86   SEEREHQETKIERRNYDLIQSMFTRLYNSD------AVEQKLSLDQIPIDDELEEEFSG-  138
+               R      + +     IQ++F  LY+S+      A  + +S    P  + L E  SG 
+Sbjct  82   ESSRSVNSQVVSKAT---IQTLFKNLYDSEKKSFVIATPKSIS-SSPPRRERLMEMLSGS  137
+
+Query  139  --------LATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEILELI  190
+                    +  ++L+RG++  L V L A+ +F+    +  F     +++  ++EE+   +
+Sbjct  138  RKADPRWVIPLTDLRRGELAELNVELEADPIFQFGTILSSF-----EELTDESEELRASL  192
+
+Query  191  SNSLGNR---------------IPVVGKAVDYKVVNGEGHDKVIKRS------EDVSSDE  229
+            S  + ++               IP+  + VD+  VN E    +I++S       DV S+ 
+Sbjct  193  SGPIFDQMLDFNRVFDKLMVGLIPIKCRVVDWSAVNFEDRSYIIRQSAAASLLADVGSNL  252
+
+Query  230  EGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVD-IDRWYPLKVTRAIDSLS  288
+               +E L +V     D  W D  + LF+  +F + CR+     I  W P++++ A++ +S
+Sbjct  253  --SIEPLYLVADTEQDLFWKDVRRVLFSAARFTVLCRLNGEGLIPEWNPVRLSNALELVS  310
+
+Query  289  EPAAQNLNQEFRRGLEQTRRQLSELQN  315
+             PA     Q F + + +   ++++ Q+
+Sbjct  311  -PAFGKQMQGFSKNISKA-AEMAQFQH  335
+
+
+
+
+>DUF6414 family protein [Promicromonospora soli]
+Sequence ID: WP_454852452.1 Length: 452
+Range 1: 28 to 452
+
+Score:80.9 bits(198), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:111/447(25%), Positives:185/447(41%), Gaps:61/447(13%)
+
+Query  29   LREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFSEE  88
+            LREFVYLDE SV SLL S  + G V ETV          +   G +SAG  +V    S  
+Sbjct  28   LREFVYLDETSVTSLLVS--QTGTVPETVSHGTTVAEE-AELSGKLSAGVPTVGKAESGS  84
+
+Query  89   R--EHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIPIDD-------ELEEEFSGL  139
+            R      + ++     ++QS+F  L + + +   L     P+D              + +
+Sbjct  85   RYQTSNSSTVQISRKAVVQSVFRELRDLE-LNYVLKSPVGPVDKLSSAGDIATVASPAAV  143
+
+Query  140  ATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFE-------------DQIDSDTEEI  186
+            A S L+RG+++ + V L  + +FR+   I  F    E             + +  +T+ +
+Sbjct  144  AASRLERGELVEIDVVLEVHPVFRMGTMISEFTAMVEEWPAMSDTAGQAGESMLRETQPV  203
+
+Query  187  LELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDN  246
+             +L+   L   IP+  KAVDY VV  +G + V     D  SD       L VV +     
+Sbjct  204  SKLLQRLLAGLIPISAKAVDYSVVTVDGCEYVAH--NDAISDLNLPRRPLMVVGVTEHLG  261
+
+Query  247  LWVDPIQTLFNNDQFVIYCRVE-DVDIDRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQ  305
+             W D  + LF++ +F + CRV  D   D W P+K+      ++    + +N   R GLE 
+Sbjct  262  YWKDIRRVLFSSGRFTMLCRVSRDGLQDTWTPVKLADLFGEIAPSLVEQINVASRAGLEG  321
+
+Query  306  TRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQELLIAE----AMET  361
+                 +E                 D  A+T++L    +K LS    EL        ++  
+Sbjct  322  VGAPPTE---------------SSDDNAFTKALFIYRDKLLSASGAELSTGVGADLSVAM  366
+
+Query  362  VELGDEVSQTAQRKRVLNAYTDAFE-----AMFELDP-TDDKTRQELRPDTTNSA-----  410
+            +++G E    ++ ++   +   A E      + ++D   D + RQE R +   +      
+Sbjct  367  LKMGTEAVSASKERQAFASVRKAIEDASNDELADVDADADLRARQEARSEAGVALLAPEE  426
+
+Query  411  -QSNVVTNSDDEADKYRIEANTVAMYW  436
+             + +VV     E ++  ++   VA+YW
+Sbjct  427  EKHSVVEPPAPENERL-LDVEVVAIYW  452
+
+
+
+
+>DUF6414 family protein [Nocardiopsis oceani]
+Sequence ID: WP_460749348.1 Length: 472
+Range 1: 46 to 472
+
+Score:80.9 bits(198), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:111/464(24%), Positives:197/464(42%), Gaps:93/464(20%)
+
+Query  29   LREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAG---GSVSAGPASVSAGF  85
+            LREF+YLDE+S+RSLL S       ++T+ E + R  S +  G   G VSAG A+V    
+Sbjct  46   LREFIYLDEVSLRSLLVSQ------NDTILEGVSRAISDAEEGELNGRVSAGVATVGKAE  99
+
+Query  86   SEER--EHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSL-DQIPIDDELEEEFSG----  138
+             E R      + ++     ++Q++F  L +   ++  L + +  P     +EEF G    
+Sbjct  100  IESRYKTSNSSTVQTSRKAVVQTLFKELRDDKNLDYALVVRNGKPKKLVSDEEFPGSDNS  159
+
+Query  139  ---LATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFED------QIDSDTEEILE-  188
+               +   + +RG ++ + V L  + +F++      F    E+      ++ S  ++ LE 
+Sbjct  160  GYIVPAVQFERGALVEIEVILDVDPVFKMGTLFSEFLSMAEEYPAMLGKVGSKDQKFLEE  219
+
+Query  189  ------LISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLL  242
+                  ++   L   IP+  KA++Y VV  +G + V+    +  +D E +   LEVV + 
+Sbjct  220  AQPVNKVLQRLLAGLIPIRAKALNYSVVTVKGVEYVVH--NEAVADLEMEKRPLEVVGVT  277
+
+Query  243  NLDNLWVDPIQTLFNNDQFVIYCRVEDVDIDR-WYPLKVTRAIDSLSEPAAQNLNQEFRR  301
+                 W D  + LF++ +F + CRV    + R W P+K+      ++    + +N     
+Sbjct  278  EHLGYWKDIRRVLFSSGKFTVLCRVSRDGLQRTWTPVKLADLFGDVAPSLVEQIN-----  332
+
+Query  302  GLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYN-----KHLSDEEQELLIA  356
+                                 +A  +G+   A  ES +D+ N     K L   + +LL+A
+Sbjct  333  ---------------------AASYFGK--SAVDESSKDDKNHGALAKALVSYKNKLLVA  369
+
+Query  357  EAMET---VELGDEVSQ--------TAQRKRVLNAYTDAFEAMFELDPTDD-------KT  398
+              +++   +ELG  +S+        T QR    N      +A     P++D       + 
+Sbjct  370  SGVDSNVEIELGHIISKADSEAPSATLQRSAFRNVRKAVEDAGVRSLPSEDADLLLRKEA  429
+
+Query  399  RQELRPDTTNSAQSNVVT------NSDDEADKYRIEANTVAMYW  436
+            R E+      S +S  V       N+  E D+  ++   VA+YW
+Sbjct  430  RDEVGISLFPSLESKPVPSRDQRENNSTEEDRL-LDVEVVAIYW  472
+
+
+
+
+>DUF6414 family protein [Rhodococcus sp. SGAir0479]
+Sequence ID: WP_441346901.1 Length: 454
+Range 1: 29 to 323
+
+Score:80.9 bits(198), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:78/309(25%), Positives:138/309(44%), Gaps:44/309(14%)
+
+Query  29   LREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRS--------GSSAGGSVSAGPAS  80
+            LREFVYLDE+S+RSLL S        +T+ E++ R  S        G  A G+   G A 
+Sbjct  29   LREFVYLDEVSLRSLLTSQ------KDTIPEQVSRAISQAEEAEVTGKVAAGNDVLGKAE  82
+
+Query  81   VSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQIP------IDDELEE  134
+            + + F   +      ++     ++Q++F  LY+  ++E  + + ++       +D  ++ 
+Sbjct  83   LGSRF---KTSNSNNVQTSRKAIVQTLFNELYDDASIEYAIKVSKVAPRPASNVDSAIKP  139
+
+Query  135  --EFSGLATSELKRGDVIGLRVNLSANLLFRLYRT----IDYFADAFEDQIDSDTEEIL-  187
+               +  +  S   RG +I + V+L  + +F+L RT    I+  A    +   S  + +L 
+Sbjct  140  VGRYGAVPASVFTRGTLIEVEVSLDVDPVFKL-RTMMSEIEAMAKESGELFGSAGQAMLR  198
+
+Query  188  ------ELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDV--EDLEVV  239
+                  + I   L   IP+  KA    V+  +G + ++    D    ++ DV    LEVV
+Sbjct  199  EVGPMNQFIERLLAGLIPIRAKATSLSVIEVDGQEYIV----DNRIIDQIDVVRRPLEVV  254
+
+Query  240  TLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRAIDSLSEPAAQNLNQE  298
+             +      W D  + LF++ +  + CRV    I  RW P+K+    + +S   A  +N+ 
+Sbjct  255  GVTEHIGYWKDIRRVLFSSSRVKVLCRVARDGIHHRWTPVKLAHLFNDVSPELADQINEA  314
+
+Query  299  FRRGLEQTR  307
+             R G+   R
+Sbjct  315  GRTGISGLR  323
+
+
+
+
+>DUF6414 family protein [Sphingomonas sp.]
+Sequence ID: WP_372852133.1 Length: 456
+Range 1: 27 to 321
+
+Score:80.5 bits(197), Expect:3e-12, 
+Method:Compositional matrix adjust., 
+Identities:79/301(26%), Positives:137/301(45%), Gaps:27/301(8%)
+
+Query  27   DDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSA-GPASVSAGF  85
+            + LREFVYLDE+S+ SLLAS  + G ++E +  +M   +  +  GG +SA  P  +S   
+Sbjct  27   EPLREFVYLDEVSLGSLLAS--QKGEITENITSQMGSEQI-AEIGGKISANSPMLLSTEI  83
+
+Query  86   -SEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKLSLDQI-----PIDDELEEEFSGL  139
+             S  +      ++       QS+F  L+    + +K+   QI       +D L E F+G 
+Sbjct  84   NSRFQTTNSNALQTLRKATAQSLFRELHKLPNL-RKIQPIQIIKEAESFEDLLSEAFTGA  142
+
+Query  140  A--TSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEI-----------  186
+                  L RGD++  +V LSA+ +F++   +  F++ F++      E +           
+Sbjct  143  VHNVKYLMRGDLVEFKVKLSASWIFQISYMVAEFSEMFDESPVLLMESVNFSDLYQAKNA  202
+
+Query  187  LELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDN  246
+             ++I+  L   +PV G   DY VV   G DK I   + +      +   L +V +     
+Sbjct  203  NKIITKLLAGLVPVDGVVSDYVVVPF-GEDKFITHKDSIKGIRV-NFSPLRIVGVTEHLA  260
+
+Query  247  LWVDPIQTLFNNDQFVIYCRVEDVDIDR-WYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQ  305
+             W D  + LF +++F++ CR+    I + W P+KV       +   A+ +    R  + Q
+Sbjct  261  YWKDIRRILFADNEFIMLCRLSKNGIQKAWNPIKVADIFKEFAPDIAKQIEVSSRTAMLQ  320
+
+Query  306  T  306
+            +
+Sbjct  321  S  321
+
+
+
+
+>DUF6414 family protein [Nocardioides lianchengensis]
+Sequence ID: WP_090854311.1 Length: 456
+Range 1: 3 to 456
+
+Score:80.1 bits(196), Expect:4e-12, 
+Method:Compositional matrix adjust., 
+Identities:107/468(23%), Positives:199/468(42%), Gaps:62/468(13%)
+
+Query  17   IQRWLARNQF--DDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGS-  73
+            ++ W  RN+      REFVYLDE+SV SL+A+    G ++E+  +      SG+  G S 
+Sbjct  3    LKFWKPRNRAWEQRRREFVYLDEVSVTSLVAA--RHGSIAESF-KNTHSETSGAQVGSSL  59
+
+Query  74   -VSAGPASVSAGFSEEREHQET---KIERRNYDLIQSMFTRLYNSD-----AVEQKLSLD  124
+             V A P +  A  +       T   ++ RR   ++Q  F  L  +D     +VE +   +
+Sbjct  60   TVPATPLTPGANLTSRMTSSRTTTQEVVRRA--VVQGTFRSLRITDTDLKLSVEDRQPEN  117
+
+Query  125  QIP---IDDELEEEFSGLA-------TSELKRGDVIGLRVNLSANLLFRLYRTIDYFAD-  173
+            + P    + EL +  + LA        ++LKRGDVI LRV LSA+  ++         D 
+Sbjct  118  KPPPATTEAELTKALTKLAKQRRAVRVTDLKRGDVIELRVQLSADPTYQFAAAASSMLDL  177
+
+Query  174  --------AFEDQIDSDTEEILELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDV  225
+                      ++Q  +D   +LEL+   L + +P+  K + ++ ++ +    ++  +   
+Sbjct  178  IKGRSAMFGIDEQQFADIAPMLELLPQMLVDLVPLNAKVISHRRIDLDDESWLVDTTMLT  237
+
+Query  226  SSDEEGDV-EDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRA  283
+                   V E + +V +  +   W D  + LF+N ++ +Y R+    +   W P+K+   
+Sbjct  238  PGSSLAAVAETIAIVGVTEIPLYWKDARRVLFDNAEYTVYTRLAKPGLATTWTPIKLADV  297
+
+Query  284  IDSLSEPAAQNLNQEFR------RGLEQTRRQLSELQNFTDWSAESAMEWGQDIQAYTES  337
+             D+L       + ++FR      + L +   ++  +     ++ E  + +G  +   T  
+Sbjct  298  FDTLDP----KIGKDFRELPNGFKNLHKAGVEVLAVPFVEIFATEGLIPFGHALAQQTGR  353
+
+Query  338  LEDEYNKHLSDEEQELLIAEAMETVELGDEVSQTAQRKRVLNAYTDAFEAMFELDPTDDK  397
+            + DE    L+    E   A+A+  ++   ++S T      + A  +A   +  L P D  
+Sbjct  354  ILDE--DKLTSTAHE--AAQAINDLDSLGDISATRSAFEHIVAAVEASPPLL-LTPIDRN  408
+
+Query  398  TRQELR-PD--------TTNSAQSNVVTNSDDEADKYRIEANTVAMYW  436
+                LR P         T  + Q+ +    +   D+  +E   VA+YW
+Sbjct  409  LVAALREPHQALAQLSATVPALQTAIEEPEETTHDRKLLEVEFVAIYW  456
+
+
+
+
+>DUF6414 family protein [Sphingomonas sp. SORGH_AS_0879]
+Sequence ID: WP_306998608.1 Length: 438
+Range 1: 11 to 276
+
+Score:80.1 bits(196), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:80/277(29%), Positives:126/277(45%), Gaps:37/277(13%)
+
+Query  29   LREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSA--GGSVSAGP-----ASV  81
+            LREF+YLDEIS+ SLLAS        E  D    +  +   A  GG +SA P     A V
+Sbjct  11   LREFIYLDEISLASLLASQK-----GEITDNITAKSEAALLAEIGGKISAKPIPGASAEV  65
+
+Query  82   SAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVE--QKLSLDQIP--IDDELEEE--  135
+            ++            + + N    QS+F  L+    +   Q  +  ++P  +DD   +   
+Sbjct  66   TSRLQSTNSSAIQTVRKANA---QSLFRELHMLKNLRKIQPNNKGELPEKLDDLFSDPHT  122
+
+Query  136  FSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDSDTEEIL--------  187
+            +S    SEL RGD++   V LSA+ +F++   I  F+D F++      E +         
+Sbjct  123  YSAFKASELNRGDLVEFHVQLSASWIFQMSTMIAEFSDMFDESPALFIENVKFSDLYNAK  182
+
+Query  188  ---ELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEG-DVEDLEVVTLLN  243
+               ++I+  L   +P+ G A  Y VV  +G D+ I ++  V  D  G D   L+VV +  
+Sbjct  183  NANKIINRLLAGLVPIDGIASGYSVVI-DGTDEYIVKNMVV--DHLGLDSIPLKVVGVTE  239
+
+Query  244  LDNLWVDPIQTLFNNDQFVIYCRVEDVDID-RWYPLK  279
+                W D  + LF N++F + CR+    +   W P+K
+Sbjct  240  HSAYWKDIRRVLFANNEFTVLCRLSKAGLQTEWNPIK  276
+
+
+
+
+>hypothetical protein [Brevundimonas sp.]
+Sequence ID: MFN7128645.1 Length: 454
+Range 1: 6 to 313
+
+Score:80.1 bits(196), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:85/315(27%), Positives:136/315(43%), Gaps:37/315(11%)
+
+Query  16   RIQRW---------LARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMR---R  63
+            R +RW         +A+     LREFVYLDE+S+RSLL+S  + G +++T  +++     
+Sbjct  6    RWKRWRAKVATAKVVAKRAKMPLREFVYLDEVSLRSLLSS--QKGEITDTTSQQLADTVL  63
+
+Query  64   RRSGSSAGGSVSAGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDA---VEQK  120
+              +G  A        A +++ F   +    + ++      +QS F  L+       +E  
+Sbjct  64   AEAGGKASVDAQVAKAELTSRF---QTTNSSTLQTSKKATVQSWFRELHGLPGLRLIEAG  120
+
+Query  121  LSLDQIPIDDEL---EEEFSGLATSELKRGDVIGLRVNLSANLLFRLYRTIDYF---ADA  174
+                  P    L   ++    L  S L RG+++  RV LSA+ +F L   +  F   AD 
+Sbjct  121  ADPHAAPTVTALLETQDPSVLLPVSRLGRGELVEFRVKLSADPVFHLGTLVSEFSGMADD  180
+
+Query  175  FEDQI-----DSDTEEIL---ELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVS  226
+            F D       D    E+L   +++   L   IPV G AVDY+VV  E  D V+      +
+Sbjct  181  FPDMFSAKNADETLREMLPINKILQRLLAGLIPVRGLAVDYRVVRVEDVDYVVHEKAVAA  240
+
+Query  227  SDEEGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRAID  285
+               E     LEVV +      W D  + LF++ +F +  RV    + D W P+K+     
+Sbjct  241  LGLES--RALEVVGVTEHLAYWKDIRRVLFSHAEFTVLSRVARPGLHDSWTPVKLADLFR  298
+
+Query  286  SLSEPAAQNLNQEFR  300
+             L+    + +N   R
+Sbjct  299  QLAPDLVEQINAAGR  313
+
+
+
+
+>hypothetical protein [Frondihabitans sp.]
+Sequence ID: MCU1529432.1 Length: 458
+Range 1: 16 to 308
+
+Score:80.1 bits(196), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:75/297(25%), Positives:143/297(48%), Gaps:31/297(10%)
+
+Query  16   RIQRWLARNQFDDLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVS  75
+            R+QR L  ++  D REFVYLDE+SV SL+AS   G + SE  + +     + SSA   + 
+Sbjct  16   RVQRALTNSRGTDRREFVYLDEVSVYSLIASR-LGEVTSELTEGQTASLMTESSADIELG  74
+
+Query  76   AGPASVSAGFSEEREHQETKIERRNYDLIQSMFTRLYNSDAVEQKL-----SLDQIPIDD  130
+              P + +   ++ +  + +  +      +QS F +L     VE +L     S D  P   
+Sbjct  75   LSPVAKAKAATKIQGTRGSSTQVLRKATVQSTFKKLLE---VESRLILPPPSADSAPYAS  131
+
+Query  131  ELEEEFSG---------LATSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQIDS  181
+             ++ +            LA+ +L RG+++   V +S + ++R+   ID  ++  ++    
+Sbjct  132  WVDLKAGAMRGKAEPWVLASEKLSRGELVEAVVEVSVDPVYRVSSIIDAMSELLDEHPAM  191
+
+Query  182  DTEEI------LELISNSLG----NRIPVVGKAVDYKVVNGEGHDKVI-KRSEDVSSD-E  229
+             T E+        +++  LG      +P+  K VDY+ V+ +G + ++ +R+ D   D E
+Sbjct  192  VTPEVRSQFEQARIMNRVLGKFMVGLVPIKCKMVDYRCVDIDGKEYLVHQRAIDGLPDVE  251
+
+Query  230  EGDVEDLEVVTLLNLDNLWVDPIQTLFNNDQFVIYCRVEDVDIDR-WYPLKVTRAID  285
+                +++ VV + +    W D  + LF++ +F + CR+  + I R W P+K+   ++
+Sbjct  252  RPPSKEVFVVGVTDEQLYWKDLRRILFSDSRFTVLCRINRLGIRRSWTPVKLAEVLE  308
+
+
+
+
+>DUF6414 family protein [Actinomyces massiliensis]
+Sequence ID: WP_315070934.1 Length: 454
+Range 1: 30 to 454
+
+Score:79.7 bits(195), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:106/439(24%), Positives:197/439(44%), Gaps:44/439(10%)
+
+Query  28   DLREFVYLDEISVRSLLASTGEGGIVSETVDEEMRRRRSGSSAGGSVSAGPASVSAGFSE  87
+            DLREF+YLDE+S+ SLLAS  + G ++++  E+       +S  G+    P  ++    +
+Sbjct  30   DLREFIYLDEVSLLSLLAS--QKGEITDSKSEQASEGNE-ASVDGTAGGNPGFIAKAEIK  86
+
+Query  88   EREHQETK---IERRNYDLIQSMFTRLYNSDA---VEQKLSLDQIPIDDELEE--EFSGL  139
+             R +Q T    I+      +QS F  L+       +E  +  D     D L++    S +
+Sbjct  87   SR-YQTTNSSTIQTSRKATVQSRFRDLHEIGGLRIIEPIMVADPAKNVDGLKKIDNPSKM  145
+
+Query  140  A-TSELKRGDVIGLRVNLSANLLFRLYRTIDYFADAFEDQID-----------SDTEEIL  187
+            A T+EL+RG +I +RV L A+ +F L   +  F    ED  D            + + I 
+Sbjct  146  ASTNELQRGSLIEVRVRLGADPIFHLGTMVSEFTALSEDYPDMFAAERGLAMLREVQPIN  205
+
+Query  188  ELISNSLGNRIPVVGKAVDYKVVNGEGHDKVIKRSEDVSSDEEGDVEDLEVVTLLNLDNL  247
+            +++   L   +P+   AVDY V + +  + ++ +   +  + +  V  LE+V +   +  
+Sbjct  206  KILQRLLAGLVPIRAIAVDYVVADIDDTEYIVHKK--LIEELDLKVRPLEIVGVTEQEAY  263
+
+Query  248  WVDPIQTLFNNDQFVIYCRVEDVDI-DRWYPLKVTRAIDSLSEPAAQNLNQEFRRGLEQT  306
+            W D  + LF++ +F ++ R+    + D W P+K+    D  +E A   ++Q    G    
+Sbjct  264  WKDLRRVLFSDAEFTVFARISRSGLHDSWTPVKLA---DLFTEVAPNLIDQINAAGRVSF  320
+
+Query  307  RRQLSELQNFTDWSAESAMEWGQDIQAYTESLEDEYNKHLSDEEQE--LLIAEAMET--V  362
+             + +S     +D +    ++    +  Y  +L ++    L+ E++E   LI + ++T  V
+Sbjct  321  SKPVS-----SDNAGSLDLKLANALTCYKSALLNDLGVTLTPEQEERITLIIDDLKTRSV  375
+
+Query  363  ELGDEVSQTAQRKRVLNAYTDAFEAMFELDPTDDKTRQE----LRPDTTNSAQSNVVTNS  418
+             + D+ S  +   + +   TD   A  +        R+E      P   +SAQ     + 
+Sbjct  376  TVSDQTSAFSVLTKRMLEMTDGEVAPAKALDLRTAAREEAGLSFFPQKASSAQIAPTVHE  435
+
+Query  419  DDEADKYR-IEANTVAMYW  436
+              E D  R ++ + VA+YW
+Sbjct  436  KLEDDNPRLLDVDFVAIYW  454
+
+
+
+
+
+
+
+		
+
+
