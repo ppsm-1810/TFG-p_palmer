@@ -1,0 +1,21 @@
+Rank   :2 Template name:3g06A5
+REMARK :Column 1 -  30 present Atom & Residue records of query sequence.
+REMARK :Column 31 - 54 present XYZ coordinates of query sequence obtained after threading alignment.
+REMARK :Column 55 - 59 present residue number in Template
+REMARK :Column 60 - 59 present residue name of Template
+ATOM   1001  CA  ALA    50       9.964  29.161 -21.957    3 ARG
+ATOM   1002  CA  THR    51      10.795  25.748 -20.529    4 GLU
+ATOM   1003  CA  ILE    52       8.909  26.402 -17.306    5 TRP
+ATOM   1004  CA  THR    53       5.589  27.011 -19.146    6 ILE
+ATOM   1005  CA  GLN    54       5.828  23.466 -20.642    7 LEU
+ATOM   1006  CA  GLN    55       5.239  22.100 -17.125    8 GLN
+ATOM   1007  CA  GLN    56       2.593  24.657 -16.243    9 TRP
+ATOM   1008  CA  ASN    57      -0.704  22.841 -15.461   10 GLY
+ATOM   1009  CA  PRO    58      -3.130  25.343 -16.965   11 PRO
+ATOM   1010  CA  ASP    59      -1.178  25.229 -20.246   12 LEU
+ATOM   1011  CA  SER    60      -1.755  21.440 -20.302   13 HIS
+ATOM   1012  CA  THR    61      -5.540  22.046 -19.908   14 ARG
+ATOM   1013  CA  VAL    62      -5.432  24.489 -22.818   15 VAL
+ATOM   1014  CA  LEU    63      -3.379  22.085 -25.030   16 LEU
+ATOM   1015  CA  MET    64      -5.709  19.170 -24.280   17 GLU
+TER

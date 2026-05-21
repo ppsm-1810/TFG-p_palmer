@@ -1,0 +1,21 @@
+Rank   :6 Template name:5kh1A3
+REMARK :Column 1 -  30 present Atom & Residue records of query sequence.
+REMARK :Column 31 - 54 present XYZ coordinates of query sequence obtained after threading alignment.
+REMARK :Column 55 - 59 present residue number in Template
+REMARK :Column 60 - 59 present residue name of Template
+ATOM   2001  CA  ALA    50     -11.499 -15.012  -2.164    2 THR
+ATOM   2002  CA  THR    51     -13.451 -18.195  -2.703    3 ASP
+ATOM   2003  CA  ILE    52     -11.901 -18.257  -6.244    4 TRP
+ATOM   2004  CA  THR    53      -8.243 -18.539  -5.320    5 PHE
+ATOM   2005  CA  GLN    54      -8.821 -21.446  -2.896    6 SER
+ATOM   2006  CA  GLN    55     -10.122 -23.667  -5.697    7 LEU
+ATOM   2007  CA  GLN    56      -7.589 -22.490  -8.261    8 TRP
+ATOM   2008  CA  ASN    57      -5.263 -24.786  -9.977    9 GLY
+ATOM   2009  CA  PRO    58      -1.770 -23.446  -9.316   10 PRO
+ATOM   2010  CA  ASP    59      -2.764 -22.496  -5.818   11 TRP
+ATOM   2011  CA  SER    60      -3.197 -26.140  -5.067   12 HIS
+ATOM   2012  CA  THR    61       0.042 -26.914  -6.981   13 ALA
+ATOM   2013  CA  VAL    62       1.864 -24.586  -4.581   14 VAL
+ATOM   2014  CA  LEU    63       0.131 -25.981  -1.543   15 LEU
+ATOM   2015  CA  MET    64       1.035 -29.598  -2.100   16 LYS
+TER
