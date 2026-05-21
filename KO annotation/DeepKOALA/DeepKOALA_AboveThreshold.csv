@@ -1,0 +1,2 @@
+name,predict_label,probability,threshold,annotate
+tr|Q18IW2|Q18IW2_HALWD,K11719,0.9517,0.8487,*

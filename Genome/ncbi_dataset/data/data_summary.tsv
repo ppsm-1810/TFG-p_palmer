@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Haloquadratum walsbyi DSM 16790		strain: DSM 16790 = HBSQ001	362976	ASM918v1	GCA_000009185.1	GenBank	Annotation submitted by Max Planck Institute	Complete Genome	3132494	3179361	2006-06-22	3487	PRJNA17185	SAMEA3138195
+Haloquadratum walsbyi DSM 16790		strain: DSM 16790 = HBSQ001	362976	ASM918v1	GCF_000009185.1	RefSeq	GCF_000009185.1-RS_2024_10_21	Complete Genome	3132494	3179361	2006-07-25	2936	PRJNA17185	SAMEA3138195

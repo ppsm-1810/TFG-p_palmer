@@ -1,0 +1,103 @@
+# gene name              KO     thrshld  score   E-value KO definition
+#----------------------- ------ ------- ------ --------- ---------------------
+  tr|J7RFT8|J7RFT8_HALWD -            -      -         - -
+  tr|Q18E01|Q18E01_HALWD -            -      -         - -
+  tr|Q18EI8|Q18EI8_HALWD K26642 1145.60   13.8   9.8e-06 Fusariviridae RNA-directed RNA polymerase
+  tr|Q18EI8|Q18EI8_HALWD K24846  552.57    8.4   0.00084 ATP-binding cassette, subfamily B, bacterial PglK [EC:7.5.2.-]
+  tr|Q18EI8|Q18EI8_HALWD K12952  577.03    5.5    0.0045 cation-transporting P-type ATPase E [EC:7.2.2.-]
+  tr|Q18EI8|Q18EI8_HALWD K11622   74.80    0.8      0.35 lia operon protein LiaF
+  tr|Q18F64|Q18F64_HALWD K10650  762.97   10.2   0.00027 tripartite motif-containing protein 11 [EC:2.3.2.27]
+  tr|Q18F66|Q18F66_HALWD -            -      -         - -
+  tr|Q18F80|Q18F80_HALWD K19664  133.47   11.0   0.00041 CDP-2,3-bis-(O-geranylgeranyl)-sn-glycerol synthase [EC:2.7.7.67]
+  tr|Q18FA8|Q18FA8_HALWD K19907  440.13   16.4   4.4e-06 synaptotagmin-7
+  tr|Q18FA8|Q18FA8_HALWD K27816  434.93   11.6   0.00014 fibrinogen C domain-containing protein 1
+  tr|Q18FD4|Q18FD4_HALWD K01023  125.63   72.1   4.9e-23 arylsulfate sulfotransferase [EC:2.8.2.22]
+  tr|Q18FD7|Q18FD7_HALWD K10862  158.77   11.5   0.00011 tyrosyl-DNA phosphodiesterase 1 [EC:3.1.4.-]
+  tr|Q18FM1|Q18FM1_HALWD K17318  172.97   11.9   0.00013 putative aldouronate transport system substrate-binding protein
+  tr|Q18FM1|Q18FM1_HALWD K14953   54.53    8.9    0.0018 ipoprotein LpqH
+  tr|Q18FW5|Q18FW5_HALWD -            -      -         - -
+  tr|Q18GD8|Q18GD8_HALWD K07243   47.07   10.6    0.0002 high-affinity iron transporter
+  tr|Q18GD8|Q18GD8_HALWD K06497  245.40    7.6    0.0033 CD63 antigen
+  tr|Q18GI1|Q18GI1_HALWD K13655   58.83   11.4   0.00026 HTH-type transcriptional regulator / antitoxin MqsA
+  tr|Q18GI9|Q18GI9_HALWD -            -      -         - -
+  tr|Q18H44|Q18H44_HALWD K08151  352.57   11.8   9.3e-05 MFS transporter, DHA1 family, tetracycline resistance protein
+  tr|Q18H89|Q18H89_HALWD K14340  128.97   20.7   2.2e-07 mannosyltransferase [EC:2.4.1.-]
+  tr|Q18H89|Q18H89_HALWD K00728  212.03   16.5   2.6e-06 dolichyl-phosphate-mannose-protein mannosyltransferase [EC:2.4.1.109]
+  tr|Q18H89|Q18H89_HALWD K21306  299.70    4.0     0.015 dolichyl-phosphooligosaccharide-protein glycotransferase [EC:2.4.99.21]
+  tr|Q18HM5|Q18HM5_HALWD K28349  194.33   19.8   5.1e-07 cell division protein A
+  tr|Q18HZ6|Q18HZ6_HALWD K12460  448.00    5.2    0.0032 ankyrin repeat-rich membrane spanning protein
+  tr|Q18IF7|Q18IF7_HALWD K07153   75.30   11.7   0.00017 high frequency lysogenization protein
+  tr|Q18IF9|Q18IF9_HALWD -            -      -         - -
+  tr|Q18IK6|Q18IK6_HALWD K21020  235.97   11.3    0.0002 diguanylate cyclase [EC:2.7.7.65]
+  tr|Q18IK6|Q18IK6_HALWD K05038  924.00   10.3   0.00017 solute carrier family 6 (neurotransmitter transporter, glycine) member 5/9
+  tr|Q18IK6|Q18IK6_HALWD K16258   99.70    8.4    0.0024 mxaK protein
+  tr|Q18IW2|Q18IW2_HALWD K03980  212.03   14.5   1.1e-05 putative peptidoglycan lipid II flippase
+  tr|Q18IW2|Q18IW2_HALWD K02847  103.53   13.6   2.7e-05 O-antigen ligase [EC:2.4.99.26]
+  tr|Q18IW2|Q18IW2_HALWD K16567  123.87    9.4    0.0006 exopolysaccharide production protein ExoQ
+  tr|Q18IW6|Q18IW6_HALWD K08713   71.87   28.9   1.3e-09 potassium channel LctB
+  tr|Q18IW6|Q18IW6_HALWD K10716  138.87   22.9   2.4e-08 voltage-gated potassium channel
+  tr|Q18IW6|Q18IW6_HALWD K21865   67.23   21.1     4e-07 Phycodnaviridae potassium channel protein kcv
+  tr|Q18IW6|Q18IW6_HALWD K05389  132.03   17.6   1.7e-06 potassium channel subfamily K, other eukaryote
+  tr|Q18IW6|Q18IW6_HALWD K08715  227.83   17.0   3.4e-06 inward rectifier potassium channel
+  tr|Q18IW6|Q18IW6_HALWD K20007  332.50   11.4   0.00016 potassium channel subfamily K member 18
+  tr|Q18IW6|Q18IW6_HALWD K04930  875.37   10.6   0.00017 potassium voltage-gated channel KQT-like subfamily member 5
+  tr|Q18IW6|Q18IW6_HALWD K04927 1080.53    8.4   0.00077 potassium voltage-gated channel KQT-like subfamily member 2
+  tr|Q18IW6|Q18IW6_HALWD K04946 2051.73    8.1   0.00058 potassium channel subfamily T member 1
+  tr|Q18JC6|Q18JC6_HALWD K08836  766.50    5.3    0.0051 STE20-like kinase [EC:2.7.11.1]
+  tr|Q18JC6|Q18JC6_HALWD K24675  733.67    4.8    0.0058 zinc finger MYM-type protein 2/3/4
+  tr|Q18JC6|Q18JC6_HALWD K14145  836.37    4.2     0.008 rhoptry neck protein 2
+  tr|Q18JC6|Q18JC6_HALWD K23789  437.80    2.7     0.041 E3 ubiquitin-protein ligase RNF145 [EC:2.3.2.27]
+  tr|Q18JC6|Q18JC6_HALWD K26159   62.13    2.5      0.14 PRKR-interacting protein 1
+  tr|Q18JC6|Q18JC6_HALWD K22591  839.77    1.8     0.065 activity-dependent neuroprotector homeobox protein
+  tr|Q18JC6|Q18JC6_HALWD K28625  322.97    1.3      0.11 protein PHTF
+  tr|Q18JC6|Q18JC6_HALWD K24181 4705.10    1.1     0.047 lipopolysaccharide-responsive and beige-like anchor protein
+  tr|Q18JC6|Q18JC6_HALWD K21419  641.90    0.4      0.32 arginyl-tRNA---protein transferase [EC:2.3.2.8]
+  tr|Q18JC6|Q18JC6_HALWD K21864 1109.37    0.3       0.1 voltage-dependent calcium channel
+  tr|Q18JC6|Q18JC6_HALWD K22379  521.50    0.2      0.42 E3 ubiquitin-protein ligase RNFT1 [EC:2.3.2.27]
+  tr|Q18JC9|Q18JC9_HALWD K16257  285.93   14.5   1.5e-05 mxaC protein
+  tr|Q18JT2|Q18JT2_HALWD K15425   58.77   18.4   1.6e-06 serine/threonine-protein phosphatase 4 regulatory subunit 2
+  tr|Q18JT2|Q18JT2_HALWD K12284  106.40   15.5   1.3e-05 MSHA biogenesis protein MshN
+  tr|Q18JT2|Q18JT2_HALWD K10954   77.97   15.2   1.5e-05 zona occludens toxin
+  tr|Q18JT2|Q18JT2_HALWD K24675  733.67   12.4     3e-05 zinc finger MYM-type protein 2/3/4
+  tr|Q18JT2|Q18JT2_HALWD K18789  961.43   12.1   7.3e-05 xylogalacturonan beta-1,3-xylosyltransferase [EC:2.4.2.41]
+  tr|Q18JT2|Q18JT2_HALWD K03693  746.33   12.0   5.9e-05 penicillin-binding protein 1B
+  tr|Q18JT2|Q18JT2_HALWD K22188   69.83   11.9    0.0001 chloride channel CLIC-like protein 1
+  tr|Q18JT2|Q18JT2_HALWD K04243  643.10   11.4   0.00012 prosaposin receptor
+  tr|Q18JT2|Q18JT2_HALWD K27390  816.03   10.5   0.00019 host cell factor 2
+  tr|Q18JT2|Q18JT2_HALWD K23789  437.80   10.1   0.00023 E3 ubiquitin-protein ligase RNF145 [EC:2.3.2.27]
+  tr|Q18JT2|Q18JT2_HALWD K17669  216.77    9.5   0.00031 pentatricopeptide repeat-containing protein PET309
+  tr|Q18JT2|Q18JT2_HALWD K23704  494.33    9.3    0.0003 transport and golgi organization protein 1
+  tr|Q18JT2|Q18JT2_HALWD K14342  505.77    8.9   0.00088 solute carrier family 10 (sodium/bile acid cotransporter), member 2
+  tr|Q18JT2|Q18JT2_HALWD K14201  485.67    8.6    0.0011 clumping factor A
+  tr|Q18JT2|Q18JT2_HALWD K04139  598.10    8.3    0.0012 adrenergic receptor alpha-2B
+  tr|Q18JT2|Q18JT2_HALWD K21864 1109.37    8.0   0.00049 voltage-dependent calcium channel
+  tr|Q18JT2|Q18JT2_HALWD K12387   46.07    7.4    0.0033 lysosomal-associated transmembrane protein
+  tr|Q18JT2|Q18JT2_HALWD K27870  138.47    7.2    0.0031 trans-Golgi network integral membrane protein
+  tr|Q18JT2|Q18JT2_HALWD K06296  248.73    4.6     0.014 spore germination protein KB
+  tr|Q18JT2|Q18JT2_HALWD K24534 1066.70    4.3     0.019 Ebolavirus envelope glycoprotein
+  tr|Q18JT2|Q18JT2_HALWD K28756  332.80    4.1     0.015 MFS transporter, UMF14 family, MFSD6L protein
+  tr|Q18JT2|Q18JT2_HALWD K05742  990.83    4.1     0.016 solute carrier family 9 (sodium/hydrogen exchanger), member 1
+  tr|Q18JT2|Q18JT2_HALWD K16913  156.60    3.8     0.014 proline-, glutamic acid- and leucine-rich protein 1
+  tr|Q18JT2|Q18JT2_HALWD K13880  798.37    3.5     0.035 bestrophin-3
+  tr|Q18JT2|Q18JT2_HALWD K15561  337.20    3.3     0.044 nuclear polyadenylated RNA-binding protein 3
+  tr|Q18JT2|Q18JT2_HALWD K20119  522.60    3.1     0.063 bridging integrator 2
+  tr|Q18JT2|Q18JT2_HALWD K13714  488.17    3.1      0.02 bifunctional autolysin [EC:3.5.1.28 3.2.1.96]
+  tr|Q18JT2|Q18JT2_HALWD K24493  226.13    2.5     0.046 leucine-rich repeat neuronal protein 4
+  tr|Q18JT2|Q18JT2_HALWD K12888 1048.00    2.3     0.054 heterogeneous nuclear ribonucleoprotein U
+  tr|Q18JT2|Q18JT2_HALWD K04629  487.27    2.1      0.11 cAMP receptor
+  tr|Q18JT2|Q18JT2_HALWD K12397  436.80    1.8     0.059 AP-3 complex subunit beta
+  tr|Q18JT2|Q18JT2_HALWD K01005  203.43    1.8       0.2 polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase [EC:2.7.8.-]
+  tr|Q18JT2|Q18JT2_HALWD K24181 4705.10    1.7     0.032 lipopolysaccharide-responsive and beige-like anchor protein
+  tr|Q18JT2|Q18JT2_HALWD K28625  322.97    1.4       0.1 protein PHTF
+  tr|Q18JT2|Q18JT2_HALWD K26812  439.37    1.2      0.14 XK-related protein 5
+  tr|Q18JT2|Q18JT2_HALWD K19039  156.17    1.1      0.34 E3 ubiquitin-protein ligase ATL7/58/59 [EC:2.3.2.27]
+  tr|Q18JT2|Q18JT2_HALWD K14438 3891.00    1.1      0.05 chromodomain-helicase-DNA-binding protein 9 [EC:5.6.2.-]
+  tr|Q18JT2|Q18JT2_HALWD K28019  173.53    1.0      0.19 protein windpipe
+  tr|Q18JT2|Q18JT2_HALWD K22591  839.77    0.9      0.12 activity-dependent neuroprotector homeobox protein
+  tr|Q18JT2|Q18JT2_HALWD K28117  102.73    0.8       0.3 testis-expressed protein 264
+  tr|Q18JT2|Q18JT2_HALWD K04130  712.90    0.7      0.28 muscarinic acetylcholine receptor M2
+  tr|Q18JT2|Q18JT2_HALWD K14705  835.37    0.5      0.15 solute carrier family 26 (testis anion transporter), member 8
+  tr|Q18JT2|Q18JT2_HALWD K04145  497.23    0.3      0.35 dopamine receptor D2
+  tr|Q18JT2|Q18JT2_HALWD K06225 1944.33    0.2       0.1 patched 1
+  tr|Q18JT2|Q18JT2_HALWD K19448 1530.33    0.1      0.18 Simplexvirus ribonucleoside-diphosphate reductase large subunit [EC:1.17.4.1]
+  tr|Q18JT2|Q18JT2_HALWD K11307  572.73    0.1      0.31 histone acetyltransferase MYST2 [EC:2.3.1.48]
