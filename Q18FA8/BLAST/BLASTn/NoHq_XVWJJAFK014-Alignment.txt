@@ -1,0 +1,46 @@
+RID: XVWJJAFK014	
+Job Title:emb|AM180088.1|  				
+Program: BLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: Haloquadratum walsbyi DSM 16790 complete genome Query ID: emb|AM180088.1 Length: 1325
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Halogeometricum borinquense DSM 11551, complete genome            Halogeometri... NA              469382     60.8   60.8  16%   0.002 66.51  2820544    CP001690.1       
+
+
+Alignments:
+
+>Halogeometricum borinquense DSM 11551, complete genome
+Sequence ID: CP001690.1 Length: 2820544
+Range 1: 2732574 to 2732785
+
+Score:60.8 bits(66), Expect:0.002, 
+Identities:143/215(67%),  Gaps:6/215(2%), Strand: Plus/Plus
+
+Query  2588742  ATAGCAGTCACCTGATAAGTACCGTCAGGAGCAAGCGTCCACAGCGACCCATCAGAACCT  2588801
+                ||||| ||||||||||| |    | | ||||| | |||||||| |||||| || || || 
+Sbjct  2732574  ATAGCGGTCACCTGATACGCTTGGCCGGGAGCCATCGTCCACAACGACCCGTCGGAGCCA  2732633
+
+Query  2588802  GTCTCTCCAACAATCGTGCT---TTCACCACTCGGTGGACCAAGAGTCAACGGTGCATCA  2588858
+                || |  || |||   || ||   ||||||||   |   ||| |  || | |   || |  
+Sbjct  2732634  GTTTTACCGACAGCAGTACTCCGTTCACCAC---GCAAACCCACCGTTATCAACGCGTTG  2732690
+
+Query  2588859  ACTGACTGCTCTGTGGCAGTACTGTTGAGTTGGAATCGAACCGGTCCACCAGGATACGTT  2588918
+                |||| ||   ||||  ||||   ||||||   ||| || || ||  |||| | |||||||
+Sbjct  2732691  ACTGGCTCACCTGTCTCAGTGTCGTTGAGCGTGAACCGGACAGGGGCACCGGAATACGTT  2732750
+
+Query  2588919  GGATGTGCTGTAAGTCGAAGTCCATCTTTTACTGC  2588953
+                 |||| || || |||   || || |||||||| ||
+Sbjct  2732751  TGATGAGCGGTGAGTTTGAGACCGTCTTTTACCGC  2732785
+
+
+
+
+
+
+
+		
+
+
