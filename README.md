@@ -1,4 +1,4 @@
-# TFG-p_palmer
+# TFG-ppalmer
 Repository for Pere Palmer Sánchez-Monge's B. Sc. Final Project: GCN-based Functional Prediction of Uncharacterized Proteins
 
 
