@@ -1,0 +1,19 @@
+Rank   :1 Template name:1vt4I3
+REMARK :Column 1 -  30 present Atom & Residue records of query sequence.
+REMARK :Column 31 - 54 present XYZ coordinates of query sequence obtained after threading alignment.
+REMARK :Column 55 - 59 present residue number in Template
+REMARK :Column 60 - 59 present residue name of Template
+ATOM   1001  CA  THR   216      13.251 -80.328 -75.989   96 ASN
+ATOM   1002  CA  ASP   217      11.467 -83.115 -77.886   97 ASP
+ATOM   1003  CA  PRO   218      10.691 -86.729 -77.178   98 PRO
+ATOM   1004  CA  ASP   219      13.955 -88.288 -78.323   99 LYS
+ATOM   1005  CA  LYS   220      15.675 -86.290 -75.666  100 TYR
+ATOM   1006  CA  GLN   221      12.664 -86.864 -73.489  101 GLU
+ATOM   1007  CA  ARG   222      13.297 -90.548 -73.410  102 ARG
+ATOM   1008  CA  LEU   223      16.950 -89.944 -72.659  103 LEU
+ATOM   1009  CA  TYR   224      16.072 -87.629 -69.871  104 VAL
+ATOM   1010  CA  GLU   225      13.852 -90.230 -68.367  105 ASN
+ATOM   1011  CA  ALA   226      16.658 -92.742 -68.647  106 ALA
+ATOM   1012  CA  ALA   227      18.832 -90.534 -66.513  107 ILE
+ATOM   1013  CA  LEU   228      15.870 -89.798 -64.339  108 LEU
+TER
