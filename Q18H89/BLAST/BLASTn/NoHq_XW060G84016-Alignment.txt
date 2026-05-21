@@ -1,0 +1,73 @@
+RID: XW060G84016	
+Job Title:emb|AM180088.1|  				
+Program: BLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: Haloquadratum walsbyi DSM 16790 complete genome Query ID: emb|AM180088.1 Length: 2366
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Halobellus marinus strain DFY28 chromosome, complete genome       Halobellus m... NA              3075123    96.0   96.0  10%   2e-13 69.13  3707125    CP134946.1       
+Halobellus inordinatus strain DSM 26177 chromosome, complete...   Halobellus i... NA              1126236    88.7   88.7  10%   3e-11 69.62  2612640    CP101825.1       
+
+
+Alignments:
+
+>Halobellus marinus strain DFY28 chromosome, complete genome
+Sequence ID: CP134946.1 Length: 3707125
+Range 1: 2716407 to 2716636
+
+Score:96.0 bits(105), Expect:2e-13, 
+Identities:159/230(69%),  Gaps:0/230(0%), Strand: Plus/Plus
+
+Query  1799477  ACCGCACCTGTCCAATCACCACGATATGTGAATCGATACGGCGTTCGGTTCGTTGCATCA  1799536
+                ||||| || |||||    || ||||| ||||| || |||||||| |||||||| ||  | 
+Sbjct  2716407  ACCGCGCCCGTCCACGTGCCGCGATACGTGAACCGGTACGGCGTCCGGTTCGTCGCGGCC  2716466
+
+Query  1799537  ATAACTGCCATATCACGACGTGGTGGACCGTCTGTCGCATACACAACAGGTCCATCAAGA  1799596
+                |  || || | ||| ||    ||    ||||| || || || || ||    || || |  
+Sbjct  2716467  AATACGGCGAGATCCCGCTCGGGACCGCCGTCGGTGGCGTAAACGACGTCGCCGTCGAAG  2716526
+
+Query  1799597  GTCGGATCCGATCGGAGATACTGAAATGGATGTGCCTGCCAATCGCCGTATGTATCTGGA  1799656
+                  ||| ||||| ||||||||||| || ||||| |||||||| |||||||| | ||| || 
+Sbjct  2716527  CCCGGGTCCGACCGGAGATACTGGAACGGATGCGCCTGCCAGTCGCCGTAGGGATCCGGC  2716586
+
+Query  1799657  GTAAAGACTACAGCGTTATTGAATGAATGTTCCTTAATTGGTTCATATGT  1799706
+                || || || || ||||  | ||| ||  | ||||  |  ||||| || ||
+Sbjct  2716587  GTGAACACGACGGCGTCGTCGAACGATCGGTCCTCGAACGGTTCGTACGT  2716636
+
+
+
+
+>Halobellus inordinatus strain DSM 26177 chromosome, complete genome
+Sequence ID: CP101825.1 Length: 2612640
+Range 1: 2003265 to 2003497
+
+Score:88.7 bits(97), Expect:3e-11, 
+Identities:165/237(70%),  Gaps:8/237(3%), Strand: Plus/Plus
+
+Query  1799478  CCGCACCTGTCCAATCACCACGATATGTGAATCGATACGGCGTTCGGTTCGTTGCATCAA  1799537
+                |||| || |||||  | || ||||| ||||| ||||||||||| || ||||| ||  | |
+Sbjct  2003265  CCGCGCCGGTCCAGACGCCCCGATACGTGAAGCGATACGGCGTCCGATTCGTCGCCGCCA  2003324
+
+Query  1799538  TAACTGCCATATCACGACGTGGTGGA---CCGTCTGTCGCATACACAACAGGTCCATCAA  1799594
+                  || || |  || ||  || | |||   ||||||||||| ||||| ||    || ||  
+Sbjct  2003325  ACACCGCGAGGTCGCG--GTCG-GGACCGCCGTCTGTCGCGTACACCACGTCGCCGTC-G  2003380
+
+Query  1799595  GAGTC-GGATCCGATCGGAGATACTGAAATGGATGTGCCTGCCAATCGCCGTATGTATCT  1799653
+                 || | |||||  | ||||| ||||| || ||||| |||||||| |||||||| |  || 
+Sbjct  2003381  TAGCCGGGATCGTAGCGGAGGTACTGGAAGGGATGGGCCTGCCAGTCGCCGTAGGGGTCG  2003440
+
+Query  1799654  GGAGTAAAGACTACAGCGTTATTGAATGAATGTTCCTTAATTGGTTCATATGTTGCT  1799710
+                || || || || |  ||||  | ||| ||  |||||   |  ||||| || || |||
+Sbjct  2003441  GGCGTGAACACGAGCGCGTGGTCGAACGAGCGTTCCCCGAACGGTTCGTAGGTCGCT  2003497
+
+
+
+
+
+
+
+		
+
+
