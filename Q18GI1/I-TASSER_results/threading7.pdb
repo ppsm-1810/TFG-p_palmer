@@ -1,0 +1,44 @@
+Rank   :7 Template name:6sxjA2
+REMARK :Column 1 -  30 present Atom & Residue records of query sequence.
+REMARK :Column 31 - 54 present XYZ coordinates of query sequence obtained after threading alignment.
+REMARK :Column 55 - 59 present residue number in Template
+REMARK :Column 60 - 59 present residue name of Template
+ATOM   3001  CA  CYS    43     -30.276 -44.133 -23.856   26 THR
+ATOM   3002  CA  TYR    44     -27.477 -41.557 -23.855   27 ASN
+ATOM   3003  CA  THR    45     -25.591 -43.272 -21.029   28 SER
+ATOM   3004  CA  VAL    46     -25.768 -46.779 -22.501   29 ILE
+ATOM   3005  CA  GLU    47     -24.584 -45.741 -25.954   30 LEU
+ATOM   3006  CA  GLN    48     -22.017 -43.292 -24.593   31 THR
+ATOM   3007  CA  LEU    49     -20.441 -46.209 -22.723   32 LEU
+ATOM   3008  CA  TYR    50     -20.656 -48.258 -25.926   33 CYS
+ATOM   3009  CA  GLY    51     -18.938 -45.417 -27.780   34 ARG
+ATOM   3010  CA  ALA    52     -16.545 -45.137 -24.817   35 MET
+ATOM   3011  CA  ILE    54     -15.546 -48.796 -25.134   36 ILE
+ATOM   3012  CA  GLU    55     -14.805 -48.698 -28.857   37 LEU
+ATOM   3013  CA  THR    56     -12.537 -45.658 -28.687   38 THR
+ATOM   3014  CA  ILE    57     -10.482 -47.023 -25.781   39 MET
+ATOM   3015  CA  ARG    58      -9.601 -50.171 -27.744   40 ASP
+ATOM   3016  CA  ASN    59      -9.361 -49.570 -31.508   41 THR
+ATOM   3017  CA  LYS    60      -8.644 -45.855 -31.166   42 GLY
+ATOM   3018  CA  THR    61     -11.363 -44.176 -33.219   43 LYS
+ATOM   3019  CA  ILE    62     -14.521 -42.314 -32.221   44 ILE
+ATOM   3020  CA  LEU    63     -17.785 -43.202 -33.959   45 ILE
+ATOM   3021  CA  SER    64     -21.495 -42.304 -33.669   46 PRO
+ATOM   3022  CA  GLN    65     -23.618 -43.612 -30.830   47 LYS
+ATOM   3023  CA  ARG    66     -26.129 -45.600 -32.879   48 ASP
+ATOM   3024  CA  GLU    67     -23.344 -47.376 -34.784   49 ILE
+ATOM   3025  CA  ALA    68     -21.331 -47.946 -31.604   50 ALA
+ATOM   3026  CA  GLN    69     -24.445 -49.389 -29.964   51 GLY
+ATOM   3027  CA  THR    70     -24.974 -52.154 -32.515   52 ASN
+ATOM   3028  CA  TRP    71     -21.225 -52.826 -32.689   53 ALA
+ATOM   3029  CA  VAL    72     -20.921 -53.354 -28.923   54 VAL
+ATOM   3030  CA  LEU    73     -24.286 -55.109 -28.533   55 ALA
+ATOM   3031  CA  ARG    74     -23.006 -57.779 -30.935   56 GLU
+ATOM   3032  CA  ASN    75     -20.123 -58.580 -28.571   57 SER
+ATOM   3033  CA  LEU    76     -22.372 -58.550 -25.488   58 SER
+ATOM   3034  CA  VAL    77     -24.439 -61.167 -23.614   59 PRO
+ATOM   3035  CA  HIS    78     -28.010 -61.414 -24.864   60 LEU
+ATOM   3036  CA  GLU    79     -29.751 -59.626 -21.985   61 GLU
+ATOM   3037  CA  GLY    80     -27.367 -56.681 -22.378   62 HIS
+ATOM   3038  CA  ALA    81     -27.526 -56.747 -26.185   63 ARG
+TER

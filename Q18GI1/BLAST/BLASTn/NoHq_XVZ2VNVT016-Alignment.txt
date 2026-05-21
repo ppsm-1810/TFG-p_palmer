@@ -1,0 +1,50 @@
+RID: XVZ2VNVT016	
+Job Title:emb|AM180088.1|  				
+Program: BLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: Haloquadratum walsbyi DSM 16790 complete genome Query ID: emb|AM180088.1 Length: 1298
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Haloplanus aerogenes strain JCM 16430 chromosome, complete genome Haloplanus a... NA              660522     90.6   90.6  19%   5e-12 68.02  3461954    CP034145.1       
+
+
+Alignments:
+
+>Haloplanus aerogenes strain JCM 16430 chromosome, complete genome
+Sequence ID: CP034145.1 Length: 3461954
+Range 1: 661279 to 661525
+
+Score:90.6 bits(99), Expect:5e-12, 
+Identities:168/247(68%),  Gaps:0/247(0%), Strand: Plus/Minus
+
+Query  2120041  GTCGAACGCGATCAAATTGAGGAATACTGTTATACTGTTGAACAGTTGTATGGAGCATAC  2120100
+                |||| ||||||  | || ||||| ||||| || ||  | ||||||||||| ||  | |||
+Sbjct  661525   GTCGCACGCGACGAGATCGAGGAGTACTGCTACACGCTCGAACAGTTGTACGGCTCCTAC  661466
+
+Query  2120101  ATCGAAACAATTAGGAATAAAACAATTCTTTCACAGCGAGAGGCACAGACATGGGTTCTT  2120160
+                ||||||   ||        | ||  | || || ||||| ||||| ||||| |||||  | 
+Sbjct  661465   ATCGAACGGATAGCCGGCGAGACGGTCCTCTCCCAGCGCGAGGCCCAGACCTGGGTGTTG  661406
+
+Query  2120161  CGGAATCTTGTCCATGAGGGAGCTGATCAACTTACTTTTGATGCAGTTGGACTATATATA  2120220
+                || || || ||||| ||||| || ||||  || || || || ||  | || || ||  | 
+Sbjct  661405   CGCAACCTCGTCCACGAGGGCGCGGATCGGCTCACGTTCGACGCCATCGGCCTCTACGTC  661346
+
+Query  2120221  TGGGCAATTGGACGAGAGACAAGCGGTGATCCACTTTCACGAACAATCATTGCTGAGTAT  2120280
+                ||||| || || ||   | |   ||| || ||||| || || || ||| | || || || 
+Sbjct  661345   TGGGCCATCGGCCGCTCGGCCGACGGCGACCCACTCTCCCGGACCATCGTCGCGGACTAC  661286
+
+Query  2120281  CACGACC  2120287
+                |||||||
+Sbjct  661285   CACGACC  661279
+
+
+
+
+
+
+
+		
+
+
