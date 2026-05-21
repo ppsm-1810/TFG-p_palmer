@@ -1,0 +1,255 @@
+<ul id="msgFrm" class=" msg">
+<li class="warning">
+    
+    <p class="warning">Searches from this IP address have consumed a large amount of server CPU time. Future searches may be penalized in fairness to other users.</p><p class="warning">Please consider running your BLAST searches with <a href="https://blast.ncbi.nlm.nih.gov/doc/elastic-blast/">ElasticBLAST</a> or <a href="https://www.ncbi.nlm.nih.gov/books/NBK279690/">BLAST+</a>.</p>
+</li>
+</ul>
+RID: XWF9XE2S014	
+Job Title:emb|AM180088.1|  				
+Program: BLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: Haloquadratum walsbyi DSM 16790 complete genome Query ID: emb|AM180088.1 Length: 1562
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Haloquadratum walsbyi DSM 16790 complete genome                   Haloquadratu... NA              362976     2819   3069  100%  0.0   100.00 3132494    AM180088.1       
+Haloquadratum walsbyi C23 complete genome                         Haloquadratu... NA              768065     44.6   125   4%    4e-04 100.00 3148033    FR746099.1       
+
+
+Alignments:
+
+>Haloquadratum walsbyi DSM 16790 complete genome
+Sequence ID: AM180088.1 Length: 3132494
+Range 1: 727824 to 729386
+
+Score:2819 bits(3126), Expect:0.0, 
+Identities:1563/1563(100%),  Gaps:0/1563(0%), Strand: Plus/Plus
+
+Query  727824  CTAGTTATCTTCTGTGTTATCTGTTGACCTATCACCCGTGTCGCTGGTCGGTTCCGACTC  727883
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  727824  CTAGTTATCTTCTGTGTTATCTGTTGACCTATCACCCGTGTCGCTGGTCGGTTCCGACTC  727883
+
+Query  727884  TGACTCAGAGTGTCTATTATCGAAGATGCCGACATCAAAATCACTGGTTTGATCAGTATT  727943
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  727884  TGACTCAGAGTGTCTATTATCGAAGATGCCGACATCAAAATCACTGGTTTGATCAGTATT  727943
+
+Query  727944  AGTATCAGTATCTGCATCACCGTTCGCTTGCTCTTGATCTTGCTCCGATGATGCAATAGC  728003
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  727944  AGTATCAGTATCTGCATCACCGTTCGCTTGCTCTTGATCTTGCTCCGATGATGCAATAGC  728003
+
+Query  728004  GTCCCAGTCAGTCGATGTGACGGACGCACCAGATTCCTCAGCGATGGTTGATTCATCTGG  728063
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  728004  GTCCCAGTCAGTCGATGTGACGGACGCACCAGATTCCTCAGCGATGGTTGATTCATCTGG  728063
+
+Query  728064  TTCAGATTCAGATTCGGGTTCAGATTGAGCTGATTTATTATCGGTGGTAGCCTGTGAATC  728123
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  728064  TTCAGATTCAGATTCGGGTTCAGATTGAGCTGATTTATTATCGGTGGTAGCCTGTGAATC  728123
+
+Query  728124  TTGACTTGTCTCGGAATTGTCTGTTTCTTGTTCATCTGAGTCATCGGTTGACCCGCCGAG  728183
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  728124  TTGACTTGTCTCGGAATTGTCTGTTTCTTGTTCATCTGAGTCATCGGTTGACCCGCCGAG  728183
+
+Query  728184  CACCGATAAGAACGAGTCACTCGTTTCAGAGGATTCAGATTCGTCGACAGTGTCTTTTGA  728243
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  728184  CACCGATAAGAACGAGTCACTCGTTTCAGAGGATTCAGATTCGTCGACAGTGTCTTTTGA  728243
+
+Query  728244  TGACTCTGGCACAGTTGTGCGCTCAGTTGAATTCGGTTCCATCACTGACTGCACTTCAGG  728303
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  728244  TGACTCTGGCACAGTTGTGCGCTCAGTTGAATTCGGTTCCATCACTGACTGCACTTCAGG  728303
+
+Query  728304  CGATGGTCGATACACACAGAGGAGATCATCGTGAGGAACATAGAAAGCCGTCTCTTCTGG  728363
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  728304  CGATGGTCGATACACACAGAGGAGATCATCGTGAGGAACATAGAAAGCCGTCTCTTCTGG  728363
+
+Query  728364  AGGTGTGAGTACGCGACTATCGATATCGATCGCTGTATCAACAAGTCCTTCTAATGTTTC  728423
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  728364  AGGTGTGAGTACGCGACTATCGATATCGATCGCTGTATCAACAAGTCCTTCTAATGTTTC  728423
+
+Query  728424  GACAGAAGCCGTTGGGCGGTCGGTTGCTGCCTCTGGAAGTTCAGCAGTGGTAATCCAATC  728483
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  728424  GACAGAAGCCGTTGGGCGGTCGGTTGCTGCCTCTGGAAGTTCAGCAGTGGTAATCCAATC  728483
+
+Query  728484  ATCGAATTCATCGCGTGAGGACTGAAACGTTACAAATCTCCGCTCTGCATCTGAGATATT  728543
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  728484  ATCGAATTCATCGCGTGAGGACTGAAACGTTACAAATCTCCGCTCTGCATCTGAGATATT  728543
+
+Query  728544  GAGAAGCTCTGTCCCAATATAGATATATGCAACAGTTATCAATCCAAGCAAACCGAAGAC  728603
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  728544  GAGAAGCTCTGTCCCAATATAGATATATGCAACAGTTATCAATCCAAGCAAACCGAAGAC  728603
+
+Query  728604  AATTGCACCTGGACCGCCGAGTCGCCAAAGTTGTCCATATGTCTGTTGTCGAGTGACTTG  728663
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  728604  AATTGCACCTGGACCGCCGAGTCGCCAAAGTTGTCCATATGTCTGTTGTCGAGTGACTTG  728663
+
+Query  728664  TGTTGTTGTTGAACCTGTCAGGGCTGACCCTTGCACACCAGCCGGTTCGAACGTCGCTCC  728723
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  728664  TGTTGTTGTTGAACCTGTCAGGGCTGACCCTTGCACACCAGCCGGTTCGAACGTCGCTCC  728723
+
+Query  728724  GTTGACCTCAATCGGTAACCGGTACTGTGCTGCCTCCGTAACGGGTTGGTTATTAACTGT  728783
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  728724  GTTGACCTCAATCGGTAACCGGTACTGTGCTGCCTCCGTAACGGGTTGGTTATTAACTGT  728783
+
+Query  728784  TCCCTCCATCTGAACTGTCGATACCACGAGTAGTTGCGTTGAACCAGGTGGATTATTGAG  728843
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  728784  TCCCTCCATCTGAACTGTCGATACCACGAGTAGTTGCGTTGAACCAGGTGGATTATTGAG  728843
+
+Query  728844  TCGCTCTGAGATGTTTTGTGCGCGGAAGTATTGCCTACTGACATTCCACTCGAATGACGC  728903
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  728844  TCGCTCTGAGATGTTTTGTGCGCGGAAGTATTGCCTACTGACATTCCACTCGAATGACGC  728903
+
+Query  728904  TGTCATCATTTCACCTGGACCAACATCGTCCATACGTCGTTGACCAATTGGTTTGGTTGT  728963
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  728904  TGTCATCATTTCACCTGGACCAACATCGTCCATACGTCGTTGACCAATTGGTTTGGTTGT  728963
+
+Query  728964  TCGCCAATACTCTGTTGTCCCACTCTCATCGTCGCTAATTGACCGAAGTATCAATGTCTG  729023
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  728964  TCGCCAATACTCTGTTGTCCCACTCTCATCGTCGCTAATTGACCGAAGTATCAATGTCTG  729023
+
+Query  729024  CTGGGCGGTCATCGTCACCGATCCGCTACCAGTCGCACTGTATCCAAACCGAAACTGTCC  729083
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  729024  CTGGGCGGTCATCGTCACCGATCCGCTACCAGTCGCACTGTATCCAAACCGAAACTGTCC  729083
+
+Query  729084  ATCGATAATTGGACTTGCTGCGGTGAAGTACGCTGGGTTACCCTGTAACGTCGTTCCAAT  729143
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  729084  ATCGATAATTGGACTTGCTGCGGTGAAGTACGCTGGGTTACCCTGTAACGTCGTTCCAAT  729143
+
+Query  729144  AGGATACAATGGATTCGGCTCCGTAACCCGTGCAGCTGTTGTATATGTTCCATTTGCCTC  729203
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  729144  AGGATACAATGGATTCGGCTCCGTAACCCGTGCAGCTGTTGTATATGTTCCATTTGCCTC  729203
+
+Query  729204  CCACGATGACACCTGCTCGGTTTCGACTGTCGTTCCAGGATTTTCATACGCAGTATATGT  729263
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  729204  CCACGATGACACCTGCTCGGTTTCGACTGTCGTTCCAGGATTTTCATACGCAGTATATGT  729263
+
+Query  729264  CATATATCCACCAACTGCAGCGAGTGCGAGCATGAGGAAGACAATGACAATTATCCATTC  729323
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  729264  CATATATCCACCAACTGCAGCGAGTGCGAGCATGAGGAAGACAATGACAATTATCCATTC  729323
+
+Query  729324  GTTCAGTACTGATCGGAGTCGAATGCGTGATGCAGAAGCCATTATATGATTATCTGATGG  729383
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  729324  GTTCAGTACTGATCGGAGTCGAATGCGTGATGCAGAAGCCATTATATGATTATCTGATGG  729383
+
+Query  729384  CAT  729386
+               |||
+Sbjct  729384  CAT  729386
+
+
+
+
+Range 2: 551143 to 551166
+
+Score:44.6 bits(48), Expect:4e-04, 
+Identities:24/24(100%),  Gaps:0/24(0%), Strand: Plus/Plus
+
+Query  728066  CAGATTCAGATTCGGGTTCAGATT  728089
+               ||||||||||||||||||||||||
+Sbjct  551143  CAGATTCAGATTCGGGTTCAGATT  551166
+
+
+
+
+Range 3: 78969 to 79001
+
+Score:42.8 bits(46), Expect:0.001, 
+Identities:29/33(88%),  Gaps:0/33(0%), Strand: Plus/Plus
+
+Query  728064  TTCAGATTCAGATTCGGGTTCAGATTGAGCTGA  728096
+               ||||||||||||||| | |||||||| || |||
+Sbjct  78969   TTCAGATTCAGATTCAGATTCAGATTCAGTTGA  79001
+
+
+
+
+Range 4: 931123 to 931165
+
+Score:41.0 bits(44), Expect:0.005, 
+Identities:35/43(81%),  Gaps:3/43(6%), Strand: Plus/Plus
+
+Query  728053  GATTCA---TCTGGTTCAGATTCAGATTCGGGTTCAGATTGAG  728092
+               ||||||   || | ||||||||||||||| | |||||||| ||
+Sbjct  931123  GATTCAGATTCAGATTCAGATTCAGATTCAGATTCAGATTCAG  931165
+
+
+
+
+Range 5: 931129 to 931171
+
+Score:41.0 bits(44), Expect:0.005, 
+Identities:35/43(81%),  Gaps:3/43(6%), Strand: Plus/Plus
+
+Query  728053  GATTCA---TCTGGTTCAGATTCAGATTCGGGTTCAGATTGAG  728092
+               ||||||   || | ||||||||||||||| | |||||||| ||
+Sbjct  931129  GATTCAGATTCAGATTCAGATTCAGATTCAGATTCAGATTCAG  931171
+
+
+
+
+Range 6: 438436 to 438464
+
+Score:40.1 bits(43), Expect:0.017, 
+Identities:26/29(90%),  Gaps:0/29(0%), Strand: Plus/Plus
+
+Query  727935  ATCAGTATTAGTATCAGTATCTGCATCAC  727963
+               |||||||| |||||||||||| | |||||
+Sbjct  438436  ATCAGTATCAGTATCAGTATCAGTATCAC  438464
+
+
+
+
+Range 7: 931135 to 931174
+
+Score:40.1 bits(43), Expect:0.017, 
+Identities:33/40(83%),  Gaps:3/40(7%), Strand: Plus/Plus
+
+Query  728053  GATTCA---TCTGGTTCAGATTCAGATTCGGGTTCAGATT  728089
+               ||||||   || | ||||||||||||||| | ||||||||
+Sbjct  931135  GATTCAGATTCAGATTCAGATTCAGATTCAGATTCAGATT  931174
+
+
+
+
+>Haloquadratum walsbyi C23 complete genome
+Sequence ID: FR746099.1 Length: 3148033
+Range 1: 545668 to 545691
+
+Score:44.6 bits(48), Expect:4e-04, 
+Identities:24/24(100%),  Gaps:0/24(0%), Strand: Plus/Plus
+
+Query  728066  CAGATTCAGATTCGGGTTCAGATT  728089
+               ||||||||||||||||||||||||
+Sbjct  545668  CAGATTCAGATTCGGGTTCAGATT  545691
+
+
+
+
+Range 2: 949632 to 949666
+
+Score:41.9 bits(45), Expect:0.005, 
+Identities:30/35(86%),  Gaps:0/35(0%), Strand: Plus/Plus
+
+Query  728058  ATCTGGTTCAGATTCAGATTCGGGTTCAGATTGAG  728092
+               ||| | ||||||||||||||| | |||||||| ||
+Sbjct  949632  ATCAGATTCAGATTCAGATTCAGATTCAGATTCAG  949666
+
+
+
+
+Range 3: 2034097 to 2034117
+
+Score:39.2 bits(42), Expect:0.017, 
+Identities:21/21(100%),  Gaps:0/21(0%), Strand: Plus/Plus
+
+Query  727935   ATCAGTATTAGTATCAGTATC  727955
+                |||||||||||||||||||||
+Sbjct  2034097  ATCAGTATTAGTATCAGTATC  2034117
+
+
+
+
+
+
+
+		
+
+

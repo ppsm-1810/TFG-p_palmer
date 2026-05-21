@@ -1,0 +1,223 @@
+<ul id="msgFrm" class=" msg">
+<li class="warning">
+    
+    <p class="warning">Searches from this IP address have consumed a large amount of server CPU time. Future searches may be penalized in fairness to other users.</p><p class="warning">Please consider running your BLAST searches with <a href="https://blast.ncbi.nlm.nih.gov/doc/elastic-blast/">ElasticBLAST</a> or <a href="https://www.ncbi.nlm.nih.gov/books/NBK279690/">BLAST+</a>.</p>
+</li>
+</ul>
+RID: XWFA1WMR014	
+Job Title:emb|AM180088.1|  				
+Program: BLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: Haloquadratum walsbyi DSM 16790 complete genome Query ID: emb|AM180088.1 Length: 1562
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Haloplanus rallus strain MBLA0036 chromosome, complete genome     Haloplanus r... NA              1816183    67.1   67.1  17%   7e-05 67.43  3292487    CP034345.1       
+Haloplanus salinarum strain SP28 chromosome, complete genome      Haloplanus s... NA              1912324    67.1   67.1  17%   7e-05 67.43  3451005    CP184342.1       
+Haloplanus salinarum strain JCM 31424 chromosome, complete genome Haloplanus s... NA              1912324    67.1   67.1  17%   7e-05 67.43  3450905    CP101823.1       
+Leucochlaena oditis genome assembly, chromosome: 30               Leucochlaena... NA              1870664    61.7   61.7  4%    0.003 83.93  11239045   OZ209540.1       
+Nucella lapillus genome assembly, chromosome: 12                  Nucella lapi... NA              51631      60.8   60.8  4%    0.003 83.05  71774866   OZ454069.1       
+PREDICTED: Populus alba peptidyl-prolyl cis-trans isomerase...    Populus alba    white poplar    43335      58.1   58.1  3%    0.034 88.64  2769       XM_073409530.1   
+Mucor mucedo uncharacterized protein (EV154DRAFT_323631), mRNA    Mucor mucedo    NA              29922      58.1   58.1  3%    0.034 83.33  1230       XM_051594960.1   
+Lotoria lotoria genome assembly, chromosome: 18                   Lotoria lotoria NA              3199284    58.1   58.1  2%    0.034 92.31  83233571   OZ373314.1       
+Rhizedra lutosa genome assembly, chromosome: 17                   Rhizedra lutosa NA              988156     57.2   57.2  3%    0.034 84.62  20668344   OZ208399.1       
+Nucella lapillus genome assembly, chromosome: 13                  Nucella lapi... NA              51631      57.2   57.2  3%    0.034 84.91  45860701   OZ454070.1       
+
+
+Alignments:
+
+>Haloplanus rallus strain MBLA0036 chromosome, complete genome
+Sequence ID: CP034345.1 Length: 3292487
+Range 1: 148947 to 149204
+
+Score:67.1 bits(73), Expect:7e-05, 
+Identities:176/261(67%),  Gaps:6/261(2%), Strand: Plus/Minus
+
+Query  729007  CGAAGTATCAATGTCTGCTGGGCGGTCATCGTCACCGATCCG-CTACCAGTCGCACTGTA  729065
+               || |||||||| ||||||||| |||||| ||||  || |||  |   | |||||   |||
+Sbjct  149204  CGGAGTATCAACGTCTGCTGGACGGTCA-CGTCCACGCTCCCACCGTCGGTCGCCTGGTA  149146
+
+Query  729066  TCCAAACCGAAACTGTCCATCGATAATTGGACTTGCTGCGGTGAAGTACGCTGGGTTACC  729125
+                || ||||| |||   || ||||  |  |||||    | |  ||||||||| ||   |  
+Sbjct  149145  GCCGAACCGGAACGTCCCCTCGACGAGCGGACTGATGGAGAGGAAGTACGCGGGTCGATT  149086
+
+Query  729126  CTGTAACGTCGTT-CCAATAGGATACAATGGATTCGGCTCCGTAACCCGTGCAGCTGTTG  729184
+               | | ||  ||| | || |  | |||||  || ||||||||||| |||  |||    ||  
+Sbjct  149085  C-GAAAGCTCGGTGCCGACCGAATACAGCGGGTTCGGCTCCGTCACCGCTGCCCTCGTCT  149027
+
+Query  729185  TATATGTTCCATTTGCCTCCCACGATGACACCTGCTCGGT-TTCGACTGTCGTTCCAGGA  729243
+                 || ||||| || ||||||||||| || ||||| ||| |  |||   |||||||| |||
+Sbjct  149026  CGTAAGTTCCGTTGGCCTCCCACGAGGAGACCTG-TCGCTGCTCGGTCGTCGTTCCGGGA  148968
+
+Query  729244  TTTTCATACGCAGTATATGTC  729264
+                  || || || || || |||
+Sbjct  148967  GCCTCGTAGGCTGTGTACGTC  148947
+
+
+
+
+>Haloplanus salinarum strain SP28 chromosome, complete genome
+Sequence ID: CP184342.1 Length: 3451005
+Range 1: 1118550 to 1118807
+
+Score:67.1 bits(73), Expect:7e-05, 
+Identities:176/261(67%),  Gaps:6/261(2%), Strand: Plus/Minus
+
+Query  729007   CGAAGTATCAATGTCTGCTGGGCGGTCATCGTCACCGATCCG-CTACCAGTCGCACTGTA  729065
+                || |||||||| ||||||||| |||||| ||||  || |||  |   | |||||   |||
+Sbjct  1118807  CGGAGTATCAACGTCTGCTGGACGGTCA-CGTCCACGCTCCCACCGTCGGTCGCCTGGTA  1118749
+
+Query  729066   TCCAAACCGAAACTGTCCATCGATAATTGGACTTGCTGCGGTGAAGTACGCTGGGTTACC  729125
+                 || ||||| |||   || ||||  |  |||||    | |  ||||||||| ||   |  
+Sbjct  1118748  GCCGAACCGGAACGTCCCCTCGACGAGCGGACTGATGGAGAGGAAGTACGCGGGTCGATT  1118689
+
+Query  729126   CTGTAACGTCGTT-CCAATAGGATACAATGGATTCGGCTCCGTAACCCGTGCAGCTGTTG  729184
+                | | ||  ||| | || |  | |||||  || ||||||||||| |||  |||    ||  
+Sbjct  1118688  C-GAAAGCTCGGTGCCGACCGAATACAGCGGGTTCGGCTCCGTCACCGTTGCCCTCGTCT  1118630
+
+Query  729185   TATATGTTCCATTTGCCTCCCACGATGACACCTGCTCGGT-TTCGACTGTCGTTCCAGGA  729243
+                  || ||||| || ||||||||||| || ||||| ||| |  |||   |||||||| |||
+Sbjct  1118629  CGTAAGTTCCGTTGGCCTCCCACGAGGAGACCTG-TCGCTGCTCGGTCGTCGTTCCGGGA  1118571
+
+Query  729244   TTTTCATACGCAGTATATGTC  729264
+                   || || || || || |||
+Sbjct  1118570  GCCTCGTAGGCTGTGTACGTC  1118550
+
+
+
+
+>Haloplanus salinarum strain JCM 31424 chromosome, complete genome
+Sequence ID: CP101823.1 Length: 3450905
+Range 1: 1651070 to 1651327
+
+Score:67.1 bits(73), Expect:7e-05, 
+Identities:176/261(67%),  Gaps:6/261(2%), Strand: Plus/Plus
+
+Query  729007   CGAAGTATCAATGTCTGCTGGGCGGTCATCGTCACCGATCCG-CTACCAGTCGCACTGTA  729065
+                || |||||||| ||||||||| |||||| ||||  || |||  |   | |||||   |||
+Sbjct  1651070  CGGAGTATCAACGTCTGCTGGACGGTCA-CGTCCACGCTCCCACCGTCGGTCGCCTGGTA  1651128
+
+Query  729066   TCCAAACCGAAACTGTCCATCGATAATTGGACTTGCTGCGGTGAAGTACGCTGGGTTACC  729125
+                 || ||||| |||   || ||||  |  |||||    | |  ||||||||| ||   |  
+Sbjct  1651129  GCCGAACCGGAACGTCCCCTCGACGAGCGGACTGATGGAGAGGAAGTACGCGGGTCGATT  1651188
+
+Query  729126   CTGTAACGTCGTT-CCAATAGGATACAATGGATTCGGCTCCGTAACCCGTGCAGCTGTTG  729184
+                | | ||  ||| | || |  | |||||  || ||||||||||| |||  |||    ||  
+Sbjct  1651189  C-GAAAGCTCGGTGCCGACCGAATACAGCGGGTTCGGCTCCGTCACCGTTGCCCTCGTCT  1651247
+
+Query  729185   TATATGTTCCATTTGCCTCCCACGATGACACCTGCTCGGT-TTCGACTGTCGTTCCAGGA  729243
+                  || ||||| || ||||||||||| || ||||| ||| |  |||   |||||||| |||
+Sbjct  1651248  CGTAAGTTCCGTTGGCCTCCCACGAGGAGACCTG-TCGCTGCTCGGTCGTCGTTCCGGGA  1651306
+
+Query  729244   TTTTCATACGCAGTATATGTC  729264
+                   || || || || || |||
+Sbjct  1651307  GCCTCGTAGGCTGTGTACGTC  1651327
+
+
+
+
+>Leucochlaena oditis genome assembly, chromosome: 30
+Sequence ID: OZ209540.1 Length: 11239045
+Range 1: 8912278 to 8912333
+
+Score:61.7 bits(67), Expect:0.003, 
+Identities:47/56(84%),  Gaps:0/56(0%), Strand: Plus/Minus
+
+Query  728047   ATGGTTGATTCATCTGGTTCAGATTCAGATTCGGGTTCAGATTGAGCTGATTTATT  728102
+                |||||  | ||||||| ||||||||||||||| | |||||||| || | |||||||
+Sbjct  8912333  ATGGTGAAGTCATCTGATTCAGATTCAGATTCAGATTCAGATTCAGATTATTTATT  8912278
+
+
+
+
+>Nucella lapillus genome assembly, chromosome: 12
+Sequence ID: OZ454069.1 Length: 71774866
+Range 1: 15987952 to 15988010
+
+Score:60.8 bits(66), Expect:0.003, 
+Identities:49/59(83%),  Gaps:3/59(5%), Strand: Plus/Minus
+
+Query  728048    TGGTTGATTCA---TCTGGTTCAGATTCAGATTCGGGTTCAGATTGAGCTGATTTATTA  728103
+                 |||||||||||   || | ||||||||||||||| | |||||||| || | ||||||||
+Sbjct  15988010  TGGTTGATTCAGATTCAGATTCAGATTCAGATTCAGATTCAGATTCAGATTATTTATTA  15987952
+
+
+
+
+>PREDICTED: Populus alba peptidyl-prolyl cis-trans isomerase CYP63 (LOC118061642), mRNA
+Sequence ID: XM_073409530.1 Length: 2769
+Range 1: 1114 to 1157
+
+Score:58.1 bits(63), Expect:0.034, 
+Identities:39/44(89%),  Gaps:0/44(0%), Strand: Plus/Plus
+
+Query  728055  TTCATCTGGTTCAGATTCAGATTCGGGTTCAGATTGAGCTGATT  728098
+               |||||||| ||||||||||||||| | |||||||| | ||||||
+Sbjct  1114    TTCATCTGATTCAGATTCAGATTCAGATTCAGATTCATCTGATT  1157
+
+
+
+
+>Mucor mucedo uncharacterized protein (EV154DRAFT_323631), mRNA
+Sequence ID: XM_051594960.1 Length: 1230
+Range 1: 301 to 354
+
+Score:58.1 bits(63), Expect:0.034, 
+Identities:45/54(83%),  Gaps:0/54(0%), Strand: Plus/Minus
+
+Query  728034  AGATTCCTCAGCGATGGTTGATTCATCTGGTTCAGATTCAGATTCGGGTTCAGA  728087
+               |||||||||||||| ||  ||||| || | |||||| ||||| |||| ||||||
+Sbjct  354     AGATTCCTCAGCGACGGCAGATTCTTCAGATTCAGAATCAGAGTCGGATTCAGA  301
+
+
+
+
+>Lotoria lotoria genome assembly, chromosome: 18
+Sequence ID: OZ373314.1 Length: 83233571
+Range 1: 12302233 to 12302271
+
+Score:58.1 bits(63), Expect:0.034, 
+Identities:36/39(92%),  Gaps:0/39(0%), Strand: Plus/Minus
+
+Query  728064    TTCAGATTCAGATTCGGGTTCAGATTGAGCTGATTTATT  728102
+                 ||||||||||||||| | ||||||||||| |||||||||
+Sbjct  12302271  TTCAGATTCAGATTCAGATTCAGATTGAGATGATTTATT  12302233
+
+
+
+
+>Rhizedra lutosa genome assembly, chromosome: 17
+Sequence ID: OZ208399.1 Length: 20668344
+Range 1: 3367115 to 3367163
+
+Score:57.2 bits(62), Expect:0.034, 
+Identities:44/52(85%),  Gaps:3/52(5%), Strand: Plus/Plus
+
+Query  728051   TTGATTCATCTGGTTCAGATTCAGATTCGGGTTCAGATTGAGCTGATTTATT  728102
+                ||||||||   | ||||||||||||||| | |||||||| || |||||||||
+Sbjct  3367115  TTGATTCA---GATTCAGATTCAGATTCAGATTCAGATTCAGATGATTTATT  3367163
+
+
+
+
+>Nucella lapillus genome assembly, chromosome: 13
+Sequence ID: OZ454070.1 Length: 45860701
+Range 1: 20748427 to 20748478
+
+Score:57.2 bits(62), Expect:0.034, 
+Identities:45/53(85%),  Gaps:1/53(1%), Strand: Plus/Minus
+
+Query  728051    TTGATTCATCTGGTTCAGATTCAGATTCGGGTTCAGATTGAGCTGATTTATTA  728103
+                 |||||||| ||  ||||||||||||||| | |||||||| || | ||||||||
+Sbjct  20748478  TTGATTCA-CTCATTCAGATTCAGATTCAGATTCAGATTCAGATTATTTATTA  20748427
+
+
+
+
+
+
+
+		
+
+
