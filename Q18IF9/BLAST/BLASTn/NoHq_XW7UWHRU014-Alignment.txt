@@ -1,0 +1,192 @@
+<ul id="msgFrm" class=" msg">
+<li class="warning">
+    
+    <p class="warning">Searches from this IP address have consumed a large amount of server CPU time. Future searches may be penalized in fairness to other users.</p><p class="warning">Please consider running your BLAST searches with <a href="https://blast.ncbi.nlm.nih.gov/doc/elastic-blast/">ElasticBLAST</a> or <a href="https://www.ncbi.nlm.nih.gov/books/NBK279690/">BLAST+</a>.</p>
+</li>
+</ul>
+RID: XW7UWHRU014	
+Job Title:emb|AM180088.1|  				
+Program: BLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: Haloquadratum walsbyi DSM 16790 complete genome Query ID: emb|AM180088.1 Length: 1832
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Haloplanus rubicundus strain CBA1112 plasmid pCBA1112-01,...      Haloplanus r... NA              1547898    138    225   39%   1e-26 65.82  225191     CP031147.1       
+Halomicrobium salinisoli strain TH30 plasmid unnamed1, complet... Halomicrobiu... NA              2878391    110    110   16%   7e-18 68.84  524325     CP084467.1       
+Natronorubrum daqingense strain JX313, complete sequence          Natronorubru... NA              588898     98.7   98.7  11%   1e-14 71.43  3397437    CP019327.1       
+Halorussus pelagicus strain RC-68 chromosome, complete genome     Halorussus p... NA              2505977    65.3   65.3  9%    3e-04 69.28  3017361    CP035119.1       
+Noctuidae sp. SAN22000473 genome assembly, chromosome: Z          Noctuidae sp... NA              3395413    57.2   57.2  3%    0.040 84.91  26845173   OZ321426.1       
+
+
+Alignments:
+
+>Haloplanus rubicundus strain CBA1112 plasmid pCBA1112-01, complete sequence
+Sequence ID: CP031147.1 Length: 225191
+Range 1: 130157 to 130740
+
+Score:138 bits(152), Expect:1e-26, 
+Identities:387/588(66%),  Gaps:11/588(1%), Strand: Plus/Plus
+
+Query  1311021  TCAAACTCGCCGCCAAAGTACACGGATCGACTGAGATTATTATTAGAATTCGCGCAGGTA  1311080
+                || || | |||||| || || || || |||||||||||   ||| || |||  |||||| 
+Sbjct  130157   TCGAAGTGGCCGCCGAAATAGACCGACCGACTGAGATTCCGATTCGAGTTCTGGCAGGTC  130216
+
+Query  1311081  ATGTTCGAAAGAAAGAGGCAATCCTCGCACGAGCCATTGTGATCGCGTCGGCAGACGGAA  1311140
+                | |||||| || || || || || || ||||     || ||||| || ||||| || |  
+Sbjct  130217   ACGTTCGACAGGAACAGACAGTCTTCACACGCCGAGTTATGATCCCGACGGCACACCGTG  130276
+
+Query  1311141  TCATACGTGCAAAATGCACTTTCTTCCAATTGATTGAGCACCTCTGGAAAACGCTCTTCA  1311200
+                || ||||| ||  |  |  |||| || | ||||| ||  || || ||||| ||||| || 
+Sbjct  130277   TCGTACGTACAGTAATCGGTTTCCTCGAGTTGATCGACGACGTCGGGAAAGCGCTCCTCG  130336
+
+Query  1311201  AACAGGGAGAAGATTGAGCCTAGTGTAAAGTTTGTGTCCGGCCGCTTGTAGATAATGAAA  1311260
+                || |||| ||| || ||||| |   | ||||  || ||||  ||||||||||| || |  
+Sbjct  130337   AAGAGGGTGAAAATCGAGCCCAAGCTGAAGTCCGTATCCGAACGCTTGTAGATGATCACC  130396
+
+Query  1311261  CTCATAGCTCTTGGAAGTATATGCTCAACGAGACTATCGCGCCCATATCCAGAGAGTGCT  1311320
+                  ||| | ||  || || |  ||||| || || ||||| || || || || ||||| |  
+Sbjct  130397   GACATCGTTCGGGGGAGAAGGTGCTCGACAAGGCTATCACGACCGTACCCCGAGAGCGTC  130456
+
+Query  1311321  CCGATCGAGTCAGTGAATAGGTGTGAGAGGGTGTGAAGTAGTGTGAATGCGTGTCGAGCG  1311380
+                |||||||| |   |||     ||||||| ||| || || || | | |  |||| |||| |
+Sbjct  130457   CCGATCGACTGGATGACACTATGTGAGAAGGTATGCAGAAGGGAGTAGACGTGCCGAGAG  130516
+
+Query  1311381  GGTGTTCGTTCCG-CT-GGAAGAGAG----TCAAAACGGTTTGGAGCAGTCATCTTCTCA  1311434
+                   |   | || | || || |  |||    || || ||    ||   ||  |  |||   
+Sbjct  130517   ACAG---GATCGGACTCGGGATCGAGCTCTTCGAACCGCGACGGCCGAGCGACATTCGAC  130573
+
+Query  1311435  ATGAACCAACGGTCGAGATTGTTGACAGTTGT-TGACTGAACAATATTGTTAGAGAAGAG  1311493
+                | |||||||||||| | | | ||    || ||    ||  || |  |  ||   || |||
+Sbjct  130574   AGGAACCAACGGTCCA-AGTTTTCTATGTGGTCATCCTCGACGAGGTCATTCTCGACGAG  130632
+
+Query  1311494  CCAATCTAATACTGCCTGCTTATCGAGCGAAATCATAACTGCTTCCGCATCCATCGTCCG  1311553
+                ||| || |  || ||||| ||||| | ||  | ||| || ||||| || ||  ||||| |
+Sbjct  130633   CCAGTCGACCACGGCCTGTTTATCCATCGTGAGCATGACCGCTTCGGCGTCGGTCGTCTG  130692
+
+Query  1311554  AGCGAAAATTTGCGTCTCTGCCCACTGCCCACTAGAAAATGCATTTAA  1311601
+                 ||||| | || ||| ||| ||||||||||||| || |||  ||| ||
+Sbjct  130693   TGCGAAGACTTCCGTATCTCCCCACTGCCCACTCGAGAATAGATTCAA  130740
+
+
+
+
+Range 2: 131942 to 132066
+
+Score:86.9 bits(95), Expect:8e-11, 
+Identities:94/125(75%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  1312695  CCTGAATCGTCTCTGTCCTCATGAAGCCGCGTAATCATACCACTCAAGTCAGATTCAGAG  1312754
+                || || |||||||  |||||||||| ||| || |  ||||| |||| ||||  ||| | |
+Sbjct  131942   CCGGATTCGTCTCGATCCTCATGAATCCGTGTGACGATACCGCTCAGGTCACTTTCGGCG  132001
+
+Query  1312755  TGGTTGAATGTACTCTCTGGAAGAAAGTCGAAAATAAACTTTGATTTTGAACGCTCCATC  1312814
+                || ||||| ||  | ||||| ||| ||||||| | ||| || || |||   || ||||||
+Sbjct  132002   TGATTGAACGTGTTATCTGGGAGATAGTCGAAGAGAAATTTCGACTTTTTCCGTTCCATC  132061
+
+Query  1312815  GTCAT  1312819
+                |||||
+Sbjct  132062   GTCAT  132066
+
+
+
+
+>Halomicrobium salinisoli strain TH30 plasmid unnamed1, complete sequence
+Sequence ID: CP084467.1 Length: 524325
+Range 1: 335687 to 335972
+
+Score:110 bits(121), Expect:7e-18, 
+Identities:201/292(69%),  Gaps:12/292(4%), Strand: Plus/Minus
+
+Query  1311042  ACGGATCGACTGAGATTATTATTAGAATTCGCGCAGGTAATGTTCGAAAGAAAGAGGCAA  1311101
+                ||||| ||||||||||||||||| ||||| || ||||| ||||| || || || ||||| 
+Sbjct  335972   ACGGAACGACTGAGATTATTATTCGAATTTGCACAGGTGATGTTTGATAGGAAAAGGCAG  335913
+
+Query  1311102  TCCTCGCACGAGCCATTGTGATCGCGTCGGCAGACGGAATCATACGTGCAAAATGCACTT  1311161
+                |||||||| | || ||| || ||   ||| ||||  || || || || ||| |  ||   
+Sbjct  335912   TCCTCGCATGCGCAATTATGGTCTGATCGACAGATTGAGTCGTAAGTACAATACTCAGCC  335853
+
+Query  1311162  TCTTCCAATTGATTGAGCACCTCTGGAAAACGCTCTTCAAACAGGGAGAAGATTGAGCCT  1311221
+                || || |  || |  | ||| ||    ||   ||||||||| || | |||||| || || 
+Sbjct  335852   TCCTCTATCTGGTGCATCACGTCGATGAACTCCTCTTCAAAGAGAGTGAAGATAGAACCA  335793
+
+Query  1311222  AG--TGTAAAGTTTGTGTCCGGCCGCTTGTAGATAA----TGAAACTCATAGCTCTTGGA  1311275
+                ||  |||||  |  || || | ||| |||||||| |    ||| | |    |  |  || 
+Sbjct  335792   AGACTGTAA--TCGGTATCGGCCCGTTTGTAGATTATCGTTGAGAGT----GTCCGCGGG  335739
+
+Query  1311276  AGTATATGCTCAACGAGACTATCGCGCCCATATCCAGAGAGTGCTCCGATCG  1311327
+                || |  ||||| || || || ||||| || || |||||||| || |||||||
+Sbjct  335738   AGGAGGTGCTCGACCAGGCTTTCGCGTCCGTACCCAGAGAGCGCACCGATCG  335687
+
+
+
+
+>Natronorubrum daqingense strain JX313, complete sequence
+Sequence ID: CP019327.1 Length: 3397437
+Range 1: 575990 to 576191
+
+Score:98.7 bits(108), Expect:1e-14, 
+Identities:145/203(71%),  Gaps:2/203(0%), Strand: Plus/Minus
+
+Query  1311019  CGTCAAACTCGCCGCCAAAGTACACGGATCGACTGAGATTATTATTAGAATTCGCGCAGG  1311078
+                |||| ||||| ||||||||    |  |||||||||||||| || || ||||| | |||||
+Sbjct  576191   CGTCGAACTCCCCGCCAAACAGGAGTGATCGACTGAGATTCTTGTTGGAATTGGTGCAGG  576132
+
+Query  1311079  TAATGTTCGAAAGAAAGAGGCAATCCTCGCACGAGCCATTGTGAT-CGCGTCGGCAGACG  1311137
+                | |||||||| || || |  |||||||| || |  |  ||||| | ||| | ||||||  
+Sbjct  576131   TGATGTTCGAGAGGAACAAACAATCCTCACAGGCCCTGTTGTGGTCCGCCT-GGCAGATC  576073
+
+Query  1311138  GAATCATACGTGCAAAATGCACTTTCTTCCAATTGATTGAGCACCTCTGGAAAACGCTCT  1311197
+                | ||| |||||||| || ||    ||||| | ||  |  | ||| ||   ||| || || 
+Sbjct  576072   GTATCGTACGTGCAGAACGCCGCCTCTTCGAGTTAGTCCATCACATCCAAAAAGCGATCC  576013
+
+Query  1311198  TCAAACAGGGAGAAGATTGAGCC  1311220
+                || || || | ||||||||| ||
+Sbjct  576012   TCGAATAGTGTGAAGATTGACCC  575990
+
+
+
+
+>Halorussus pelagicus strain RC-68 chromosome, complete genome
+Sequence ID: CP035119.1 Length: 3017361
+Range 1: 2896048 to 2896211
+
+Score:65.3 bits(71), Expect:3e-04, 
+Identities:115/166(69%),  Gaps:4/166(2%), Strand: Plus/Plus
+
+Query  1311195  TCTTCAAACAGGGAGAAGATTGAGCCTAG--TGTAAAGTTTGTGTCCGGCCGCTTGTAGA  1311252
+                || ||||  |||| |||||| |  || ||  |||||  | ||| || | |||||||||||
+Sbjct  2896048  TCCTCAATAAGGGTGAAGATCGCTCCCAGACTGTAA--TCTGTATCTGACCGCTTGTAGA  2896105
+
+Query  1311253  TAATGAAACTCATAGCTCTTGGAAGTATATGCTCAACGAGACTATCGCGCCCATATCCAG  1311312
+                | |  ||    |  | || |||||| | || |||||| |||||||| ||    || ||||
+Sbjct  2896106  TGACAAACGAAAGGGGTCGTGGAAGCAGATACTCAACAAGACTATCACGAGAGTACCCAG  2896165
+
+Query  1311313  AGAGTGCTCCGATCGAGTCAGTGAATAGGTGTGAGAGGGTGTGAAG  1311358
+                |||| ||  |||||| || | | |  | ||| |||  || ||||||
+Sbjct  2896166  AGAGAGCATCGATCGCGTTAATCACCACGTGGGAGTAGGAGTGAAG  2896211
+
+
+
+
+>Noctuidae sp. SAN22000473 genome assembly, chromosome: Z
+Sequence ID: OZ321426.1 Length: 26845173
+Range 1: 1578259 to 1578310
+
+Score:57.2 bits(62), Expect:0.040, 
+Identities:45/53(85%),  Gaps:1/53(1%), Strand: Plus/Minus
+
+Query  1311333  GTGAATAGGTGTGAGAGGGTGTGAAGTAGTGTGAATGCGTGTCGAGCGGGTGT  1311385
+                |||||| |||||||||||||||||    ||||||| | |||| ||||||||||
+Sbjct  1578310  GTGAATTGGTGTGAGAGGGTGTGAGAGGGTGTGAACGGGTGT-GAGCGGGTGT  1578259
+
+
+
+
+
+
+
+		
+
+
